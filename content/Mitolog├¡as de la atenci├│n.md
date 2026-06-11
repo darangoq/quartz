@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Mitologías de la atención"
 estado: floresta
 origen: radiscente

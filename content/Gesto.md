@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Gesto"
 estado: micelio
 origen: radiscente

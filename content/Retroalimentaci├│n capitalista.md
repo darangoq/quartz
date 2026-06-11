@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Retroalimentación capitalista"
 estado: espora
 origen: radiscente

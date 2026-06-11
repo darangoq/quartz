@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Autoexplotación"
 estado: rizoma
 origen: radiscente

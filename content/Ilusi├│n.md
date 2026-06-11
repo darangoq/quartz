@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Ilusión"
 estado: micelio
 origen: radiscente

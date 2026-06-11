@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Información"
 estado: micelio
 origen: radiscente

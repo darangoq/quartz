@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Fotografía"
 estado: rizoma
 origen: radiscente

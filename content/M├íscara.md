@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Máscara"
 estado: micelio
 origen: radiscente

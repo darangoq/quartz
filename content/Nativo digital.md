@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Nativo digital"
 estado: micelio
 origen: radiscente

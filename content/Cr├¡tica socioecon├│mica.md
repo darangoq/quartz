@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Crítica socioeconómica"
 estado: micelio
 origen: radiscente

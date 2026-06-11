@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Espacio Virtual"
 estado: micelio
 origen: radiscente

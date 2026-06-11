@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Data"
 estado: espora
 origen: radiscente

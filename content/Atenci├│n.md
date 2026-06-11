@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Atención"
 estado: rizoma
 origen: radiscente

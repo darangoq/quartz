@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Interconexión"
 estado: micelio
 origen: radiscente

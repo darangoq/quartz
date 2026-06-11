@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Cuerpo digital"
 estado: micelio
 origen: radiscente

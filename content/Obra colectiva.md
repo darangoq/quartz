@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Obra colectiva"
 estado: micelio
 origen: radiscente

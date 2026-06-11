@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Mirada"
 estado: espora
 origen: radiscente

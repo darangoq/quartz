@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Productoras"
 estado: espora
 origen: radiscente

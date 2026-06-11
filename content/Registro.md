@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Registro"
 estado: espora
 origen: radiscente

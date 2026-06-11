@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Rostro"
 estado: micelio
 origen: radiscente

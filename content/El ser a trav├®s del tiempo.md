@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "El ser a través del tiempo"
 estado: espora
 origen: radiscente

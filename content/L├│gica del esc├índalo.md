@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Lógica del escándalo"
 estado: espora
 origen: radiscente

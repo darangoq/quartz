@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Artista como figura pública"
 estado: rizoma
 origen: radiscente

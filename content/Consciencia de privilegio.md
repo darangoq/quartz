@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Consciencia de privilegio"
 estado: espora
 origen: radiscente

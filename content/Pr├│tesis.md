@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Prótesis"
 estado: micelio
 origen: radiscente

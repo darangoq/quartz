@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Estereotipo"
 estado: espora
 origen: radiscente

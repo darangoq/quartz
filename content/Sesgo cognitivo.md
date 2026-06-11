@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Sesgo cognitivo"
 estado: espora
 origen: radiscente

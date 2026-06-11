@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Trazo"
 estado: espora
 origen: radiscente

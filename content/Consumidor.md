@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Consumidor"
 estado: micelio
 origen: radiscente

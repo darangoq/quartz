@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Imagen pública"
 estado: rizoma
 origen: radiscente

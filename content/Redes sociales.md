@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Redes sociales"
 estado: micelio
 origen: radiscente

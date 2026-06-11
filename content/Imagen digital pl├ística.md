@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Imagen digital plástica"
 estado: espora
 origen: radiscente

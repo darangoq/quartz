@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Internet"
 estado: micelio
 origen: radiscente

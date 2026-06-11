@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Aparente libertad"
 estado: rizoma
 origen: radiscente

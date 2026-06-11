@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "La sociedad del cansancio"
 estado: simbionte
 origen: radiscente

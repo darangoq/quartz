@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Cuerpo desmaterializado"
 estado: micelio
 origen: radiscente

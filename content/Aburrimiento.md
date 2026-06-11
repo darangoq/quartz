@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Aburrimiento"
 estado: rizoma
 origen: radiscente

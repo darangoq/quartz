@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Realidad virtual"
 estado: micelio
 origen: radiscente

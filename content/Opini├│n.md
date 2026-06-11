@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Opinión"
 estado: espora
 origen: radiscente

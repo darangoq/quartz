@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Potencia y cuerpo virtual"
 estado: floresta
 origen: radiscente

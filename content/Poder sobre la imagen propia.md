@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Poder sobre la imagen propia"
 estado: micelio
 origen: radiscente

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Espejo"
 estado: espora
 origen: radiscente

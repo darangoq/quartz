@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Memoria"
 estado: micelio
 origen: radiscente

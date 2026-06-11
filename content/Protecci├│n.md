@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Protección"
 estado: micelio
 origen: radiscente

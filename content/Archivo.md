@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Archivo"
 estado: espora
 origen: radiscente

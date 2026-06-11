@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Retroalimentación sociocultural"
 estado: micelio
 origen: radiscente

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Desarrollo identitario"
 estado: rizoma
 origen: radiscente

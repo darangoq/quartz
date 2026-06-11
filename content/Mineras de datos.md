@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Mineras de datos"
 estado: rizoma
 origen: radiscente

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Memorias"
 estado: floresta
 origen: radiscente

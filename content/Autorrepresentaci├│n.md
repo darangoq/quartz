@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Autorrepresentación"
 estado: micelio
 origen: radiscente

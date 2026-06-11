@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Potencia"
 estado: micelio
 origen: radiscente

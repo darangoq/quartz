@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Autenticidad"
 estado: micelio
 origen: radiscente

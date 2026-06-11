@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Selfie"
 estado: micelio
 origen: radiscente

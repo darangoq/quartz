@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Análisis comportamental"
 estado: espora
 origen: radiscente

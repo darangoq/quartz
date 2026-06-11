@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Sedimento"
 estado: espora
 origen: radiscente

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Tendencia"
 estado: micelio
 origen: radiscente

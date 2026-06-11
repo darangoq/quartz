@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Paradigmas del arte, la ciencia y la tecnología"
 estado: floresta
 origen: radiscente

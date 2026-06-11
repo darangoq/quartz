@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Identidades fugitivas"
 estado: simbionte
 origen: radiscente

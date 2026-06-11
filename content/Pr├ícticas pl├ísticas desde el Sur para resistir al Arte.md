@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Prácticas plásticas desde el Sur para resistir al Arte"
 estado: floresta
 origen: radiscente

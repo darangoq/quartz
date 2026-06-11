@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Muerte en vida"
 estado: micelio
 origen: radiscente

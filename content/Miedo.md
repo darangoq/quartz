@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Miedo"
 estado: espora
 origen: radiscente

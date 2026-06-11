@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Violencia"
 estado: rizoma
 origen: radiscente

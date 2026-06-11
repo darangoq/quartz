@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Cuerpo"
 estado: micelio
 origen: radiscente
