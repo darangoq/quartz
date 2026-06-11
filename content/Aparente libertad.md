@@ -1,10 +1,12 @@
 ---
-publish: true
 title: "Aparente libertad"
-estado: rizoma
-origen: radiscente
+estado: espora
+tags:
+  - espora
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
+[[Prosumidor]] 
 [[Desarrollo identitario]]
-[[Prosumidor]]

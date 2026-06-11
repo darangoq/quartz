@@ -1,11 +1,16 @@
 ---
-publish: true
 title: "Nativo digital"
 estado: micelio
-origen: radiscente
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Redes sociales]] 
-[[Internet]] 
-[[Cuerpo digital]]
+[[Presencia digital]]
+[[Redes sociales]]
+[[Internet]]
+[[Imagen pública]]
+[[Realidad virtual]] 
+[[Interconexión]]

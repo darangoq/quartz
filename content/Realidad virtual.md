@@ -1,13 +1,18 @@
 ---
-publish: true
 title: "Realidad virtual"
 estado: micelio
-origen: radiscente
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Interconexión]]
-[[Potencia]]
-[[Dislocación de la vida]]
-[[Internet]]
-[[Espacio Virtual]]
+[[Internet]] 
+[[Potencia]] 
+[[Cuerpo]] 
+[[Redes sociales]] 
+[[Fragmento]] 
+[[Memoria]]
+[[Nativo digital]] 
+[[Autenticidad]]

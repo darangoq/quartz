@@ -1,5 +1,5 @@
 ---
-title: "Imagen pública"
+title: "Tautología"
 estado: micelio
 tags:
   - micelio
@@ -8,15 +8,9 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Presencia digital]] 
-[[Tautología]] 
 [[Autorrepresentación]] 
-[[Autoexplotación]] 
-[[Fragmento]] 
-[[Protección]] 
-[[Identidad]] 
-[[Autenticidad]] 
+[[Crítica]] 
 
 [[Creación y autorreferencialidad]] 
 [[Las buenas prácticas artísticas]] 
-[[Memorias]]
+[[Prácticas plásticas desde el Sur para resistir al Arte]]

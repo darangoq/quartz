@@ -1,5 +1,5 @@
 ---
-title: "Identidad"
+title: "Metáfora"
 estado: micelio
 tags:
   - micelio
@@ -8,9 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Fragmento]]
-[[Autenticidad]] 
-[[Cuerpo]]
-
-[[Memorias]]
+[[Artistas articuladores]] 
+[[Cartografiar el pensamiento]] 
+[[La experiencia y la obra]]
 [[Las tres fases, de la identidad fragmentaria al agenciamiento]]

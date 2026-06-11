@@ -1,15 +1,26 @@
 ---
-publish: true
 title: "Redes sociales"
-estado: micelio
-origen: radiscente
+estado: rizoma
+tags:
+  - rizoma
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Prosumidor]] 
-[[Autoexplotación]]
-[[Aburrimiento]] 
-[[Tendencia]]
-[[Obra colectiva]]
+[[Prosumidor]]
 [[Nativo digital]]
-[[Internet]]
+[[Internet]] 
+[[Autoexplotación]] 
+[[Aburrimiento]]
+[[Hiperactividad]] 
+[[Trabajo colectivo]]
+[[Espectáculo]] 
+
+[[Redes sociales para artistas]] 
+[[Mitologías de la atención]]
+[[Tres modalidades para construir redes de apoyo en la cultura]] 
+
+[[Memorias]]
+
+[[Bibliografía|*La sociedad del espectáculo*]]

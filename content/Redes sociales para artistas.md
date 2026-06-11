@@ -1,24 +1,24 @@
 ---
 title: "Redes sociales para artistas"
 estado: floresta
+tags:
+  - floresta
 publish: true
-origen: radiscente
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-#Redes sociales para artistas
-
 Alterciclo
 
-Los escenarios culturales más representativos de nuestro tiempo se construyen con unos y ceros.
+*Los escenarios culturales más representativos de nuestro tiempo se construyen con unos y ceros.*
 
 15 JULIO, 2018
 
-En el corazón del año en el que vivimos, la mayoría de las personas habita un ecosistema de hilos de cobre y de sílice. Las carreteras de la información representan el emplazamiento perfecto para la consolidación de [[Presencia digital]] de millones de individuos para la construcción de comunidades, y tal como son, con sus regiones de oasis y de tinieblas; nos ofrecen a los agentes de la cultura un suelo fértil para ser explotado.
+En el corazón del año en el que vivimos, la mayoría de las personas habita un ecosistema de hilos de cobre y de sílice. Las carreteras de la información representan el emplazamiento perfecto para la consolidación de [[Presencia digital|puntos de encuentro]] de millones de individuos para la construcción de comunidades, y tal como son, con sus regiones de oasis y de tinieblas; nos ofrecen a los agentes de la cultura un suelo fértil para ser explotado.
 
-Este ecosistema en constante mutación es la [[Internet]], una construcción que, a diferencia de la primera versión de internet, implica que los usuarios no sólo tengan la posibilidad de consultar contenido, sino también producirlo. Es así como la versión 2.0 es una red participativa, y los portales típicos de intercambio de información por excelencia son las redes sociales.
+Este ecosistema en constante mutación es la [[Internet|web 2.0]], una construcción que, a diferencia de la primera versión de internet, implica que los usuarios no sólo tengan la posibilidad de consultar contenido, sino también producirlo. Es así como la versión 2.0 es una red participativa, y los portales típicos de intercambio de información por excelencia son las redes sociales.
 
-Este panorama en el que el consumidor de contenido comienza a tener un intercambio activo nos revela una figura hasta ahora desconocida, el [[Prosumidor]].
+Este panorama en el que el consumidor de contenido comienza a tener un intercambio activo nos revela una figura hasta ahora desconocida, el [[Prosumidor|prosumidor]].
 
 Este término es un anglicismo que reúne los conceptos de consumir y producir contenido a la vez. A diferencia que en la era de la televisión, los usuarios ya no sólo se ubican frente a la pantalla sin mayores posibilidades de elección sobre lo que ven y sin que su propia voz pueda manifestarse en su entorno informático.
 
@@ -26,19 +26,19 @@ Este cambio de perspectiva ha permitido la detonación de un fenómeno “democr
 
 Este paraíso que acabo de pintar obviamente no es tan perfecto y más adelante veremos cómo desde otro punto de vista puede parecernos una fantasía distópica pronosticada por Orwell. Sin embargo, desde una postura un poco optimista, e incluso oportunista, Las redes sociales son un campo arado listo para que los agentes de la cultura sembremos y cosechemos los frutos de un mundo interconectado.
 
-Después de este brochazo que nos contextualiza En el aquí y el ahora de los unos y ceros, ¿para qué nos pueden servir las [[Redes sociales]]? Muy superficialmente es posible contemplar tres frentes de [[Vínculo]] y uno de producción que los diferentes agentes de la cultura pueden aprovechar para distintos fines.
+Después de este brochazo que nos contextualiza En el aquí y el ahora de los unos y ceros, ¿para qué nos pueden servir las [[Redes sociales|redes sociales]]? Muy superficialmente es posible contemplar tres frentes de [[Vínculo|comunicación, divulgación y circulación]] y uno de producción que los diferentes agentes de la cultura pueden aprovechar para distintos fines.
 
 ##Mostrarse al mundo
 
 La primera área en la que podemos sacarle el jugo a las redes sociales es sin lugar a duda, mostrando un abrebocas de lo que nosotros mismos hacemos. Los portafolios y maquetas siguen abandonando los formatos análogos para subirse a la nube y no sólo por un asunto económico y ecológico.
 
-La posibilidad de compartir con nuestro [[Tres modalidades para construir redes de apoyo en la cultura]] y que también desconocidos de cualquier parte del mundo puedan descubrir lo que con tanto empeño hacemos es razón más que suficiente para querer inundar plataformas como Instagram, Behance, Sounclud, Youtube, Tumblr, o Flickr con nuestros proyectos más frescos.
+La posibilidad de compartir con nuestro [[Tres modalidades para construir redes de apoyo en la cultura|círculo cercano]] y que también desconocidos de cualquier parte del mundo puedan descubrir lo que con tanto empeño hacemos es razón más que suficiente para querer inundar plataformas como Instagram, Behance, Sounclud, Youtube, Tumblr, o Flickr con nuestros proyectos más frescos.
 
 Cabe aclarar, y más adelante lo reiteraré, que tampoco es bueno exagerar, y que desconocer el funcionamiento de las plataformas puede costarnos más que un dolor de cabeza si nos damos cuenta de que es perfectamente legal que una multinacional se lucre con nuestro trabajo y que no podamos hacer nada al respecto.
 
 ##Haciendo contacto
 
-Dejando de lado esta cara aterradora que nos amenaza cada 5 párrafos, el segundo frente de trabajo en las redes sociales es el de establecer [[El poder de la conversación]] tanto con el público, como con colegas y con instituciones.
+Dejando de lado esta cara aterradora que nos amenaza cada 5 párrafos, el segundo frente de trabajo en las redes sociales es el de establecer [[El poder de la conversación|comunicaciones]] tanto con el público, como con colegas y con instituciones.
 
 La comunicación es el non plus ultra de los usuarios de las redes sociales. Más allá de compartir vivencias, es el no sentirnos solos y desconectados lo que impulsa a la mayoría de gente a iniciar sesión.
 
@@ -50,7 +50,7 @@ Este no sólo existe como comentarios y mensajes privados en el inbox, sino tamb
 
 Estas herramientas de marketing pueden incluso ayudarnos a determinar y analizar el comportamiento del nicho cultural que pretendemos habitar, y por lo tanto, es válido apoyarse en los números para definir aspectos determinados de nuestra obra.
 
-Pero el contacto con el público no termina en forma de cifras y porcentajes. Las redes sociales son el lugar óptimo para que artistas, y en especial entes culturales puedan trabajar en la [[Vínculo]], un área de la cultura indispensable para la construcción social.
+Pero el contacto con el público no termina en forma de cifras y porcentajes. Las redes sociales son el lugar óptimo para que artistas, y en especial entes culturales puedan trabajar en la [[Vínculo|formación de públicos]], un área de la cultura indispensable para la construcción social.
 
 Esta labor se realiza especialmente mostrando información que complementa la experiencia estética, muchas veces aportando un sustrato conceptual que va a consolidar el lazo del espectador con el emisor del mensaje.
 
@@ -76,7 +76,7 @@ La publicidad es una forma más para recibir ingresos, sin embargo, depende sobr
 
 ##El Web Art y el arte para redes sociales
 
-Retomando los frentes de los que hablaba, la vía de producción requeriría una saga completa de artículos, por lo que sólo puedo anotar que las redes sociales son lienzos en blanco sobre los que podemos trabajar directamente como medio plástico. Las [[Paradigmas del arte, la ciencia y la tecnología]] para fundar obra en una u otra plataforma han llevado a poner en marcha proyectos culturales enfocados en la web 2.0.
+Retomando los frentes de los que hablaba, la vía de producción requeriría una saga completa de artículos, por lo que sólo puedo anotar que las redes sociales son lienzos en blanco sobre los que podemos trabajar directamente como medio plástico. Las [[Paradigmas del arte, la ciencia y la tecnología|posibilidades tecnológicas]] para fundar obra en una u otra plataforma han llevado a poner en marcha proyectos culturales enfocados en la web 2.0.
 
 ##Las estrategias
 
@@ -92,7 +92,7 @@ La web 2.0 está migrando a la 3.0 consistente en una inmersión multimedial en 
 
 Sin embargo no todo lo referente a redes sociales es el paraíso en la nube. Todo usuario de las diferentes plataformas debe ser consciente de que se está dando de alta en un servicio en la mayoría de los casos privado y que tiene unas dinámicas propias de generar ingresos con cada nuevo usuario.
 
-Los [[Mitologías de la atención]] de estos gigantes no interpretan a los usuarios de las redes como los clientes sino más bien como la mercancía. Los ingresos de las empresas de la web 2.0 provienen especialmente del manejo de los datos que cada uno de los usuarios ofrece a las plataformas una vez acepta que su información personal sea usada para bien o para mal.
+Los [[Mitologías de la atención|modelos de negocio]] de estos gigantes no interpretan a los usuarios de las redes como los clientes sino más bien como la mercancía. Los ingresos de las empresas de la web 2.0 provienen especialmente del manejo de los datos que cada uno de los usuarios ofrece a las plataformas una vez acepta que su información personal sea usada para bien o para mal.
 
 Finalmente los clientes reales serán terceros que pagan por acceder a la enorme base de datos que se alimenta con cada sign up con fines que van desde hacer una inocente campaña de divulgación de un evento cultural, hasta establecer el distópico control sobre la población de un estado, tal como ya se está cocinando en algunos países del mundo.
 
@@ -104,4 +104,4 @@ Realmente es casi imposible escapar de los sistemas de vigilancia que nos somete
 
 Más allá de alarmarnos por la inevitable invasión, queda en nuestras manos apropiarnos de los recursos de los que disponemos de manera consciente y responsable.
 
-Las preguntas y discusiones que genera el encuentro de arte, cultura y redes sociales dan para [[Curador Qwerty]], y en teste contexto, de unos y ceros. Sin embargo, nada nos impide como prosumidores sacar el mejor partido de las apps y plataformas disponibles al final de nuestros dedos.
+Las preguntas y discusiones que genera el encuentro de arte, cultura y redes sociales dan para [[Curador Qwerty|ríos de tinta]], y en teste contexto, de unos y ceros. Sin embargo, nada nos impide como prosumidores sacar el mejor partido de las apps y plataformas disponibles al final de nuestros dedos.

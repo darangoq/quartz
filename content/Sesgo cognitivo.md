@@ -1,11 +1,11 @@
 ---
-publish: true
 title: "Sesgo cognitivo"
 estado: espora
-origen: radiscente
+tags:
+  - espora
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
-
-## Sesgo Cognitivo
 
 [[Atención]]

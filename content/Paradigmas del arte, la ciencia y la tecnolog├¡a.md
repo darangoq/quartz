@@ -1,16 +1,16 @@
 ---
 title: "Paradigmas del arte, la ciencia y la tecnología"
 estado: floresta
+tags:
+  - floresta
 publish: true
-origen: radiscente
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-#Paradigmas del arte, la ciencia y la tecnología
-
 Alterciclo
 
-La necesidad de promover el diálogo entre las ramas del saber.
+*La necesidad de promover el diálogo entre las ramas del saber.*
 
 24 MAYO, 2018
 
@@ -22,7 +22,7 @@ Pero no siempre ha sido así. En el principio, la humanidad nadaba en un mar de 
 
 Al tiempo que se suplían las urgencias de alimento y refugio, se consolidaban las estrategias para conseguir la cohesión social. La comunicación y la cultura son necesidades de primer orden indispensables para la supervivencia.
 
-Lo que hoy llamamos [[Teks]] no son más que vestigios de un mismo todo integral que ponía al ingenio al servicio de la supervivencia y por supuesto de la construcción social en boga de la preservación y perpetuidad de las comunidades.
+Lo que hoy llamamos [[Teks|arte y tecnología]] no son más que vestigios de un mismo todo integral que ponía al ingenio al servicio de la supervivencia y por supuesto de la construcción social en boga de la preservación y perpetuidad de las comunidades.
 
 De este modo, un objeto utilitario comenzaba a cargarse de un valor simbólico mediado por un criterio estético en función de las convenciones sociales imperantes. Así, después de muchos años la actividad de coser pieles con una aguja de hueso se transformó en elaborar pictóricos brocados de seda con telares cada vez más complejos, y la función de abrigo se cargó de significado definiendo el estatus de su portador.
 
@@ -32,13 +32,13 @@ El cisma que produjo esta separación incluso es posterior a las tesis de Lutero
 
 No es que durante el renacimiento los grandes humanistas tuvieran los conocimientos artísticos y técnicos para ser constructores de monumentos y de artefactos militares al tiempo que impresionaban al mundo con murales y esculturas que parecían alcanzar y superar la belleza de antaño, sino que estos saberes hacían parte de un mismo núcleo fundamental de la cultura.
 
-Fue a partir del establecimiento del método científico y de la especialización cada vez más acuciosa de los oficios que el mundo del arte y la tecnología pareció desligarse. Por vez primera, los desarrolladores técnicos al realizar un ensayo de laboratorio podían predecir los resultados a los que querían llegar y la función de los objetos comenzó a ser una prioridad frente a su estética. A su vez, la [[Experiencia]] plástica se inclinó a observar de manera más detenida los fenómenos de un mundo sensual. El científico prefirió la certeza y la seguridad para que sus observaciones pudieran ser replicadas con exactitud, mientras que el artista optó por el riesgo y la incertidumbre precisamente para que cada espectador sintiera algo diferente frente a su obra.
+Fue a partir del establecimiento del método científico y de la especialización cada vez más acuciosa de los oficios que el mundo del arte y la tecnología pareció desligarse. Por vez primera, los desarrolladores técnicos al realizar un ensayo de laboratorio podían predecir los resultados a los que querían llegar y la función de los objetos comenzó a ser una prioridad frente a su estética. A su vez, la [[Experiencia|experimentación]] plástica se inclinó a observar de manera más detenida los fenómenos de un mundo sensual. El científico prefirió la certeza y la seguridad para que sus observaciones pudieran ser replicadas con exactitud, mientras que el artista optó por el riesgo y la incertidumbre precisamente para que cada espectador sintiera algo diferente frente a su obra.
 
 Esta aparente separación persiste en la actualidad alrededor del globo producto directo del control que ejerce occidente sobre las reglas que encauzan la investigación científica y plástica. Y sin embargo es posible rastrear a lo largo de la historia algunos desarrollos técnicos que procuraron servir a la necesidad sensible que tenemos como humanos.
 
 Uno de los que personalmente me llama la atención por su ires y venires es el sistema inventado por Jacquard en el primer lustro del siglo XIX. Este telar podía programarse a partir de tarjetas perforadas que permitían o no la elevación de los ganchillos que sostenían los hilos de la trama. Esto significó no sólo la automatización de un proceso artesanal, donde de confeccionar 2 centímetros de paño a la semana se pasó a tejer 60 centímetros, sino también el inicio formal e ininterrumpido de la programación como rama del conocimiento científico y artístico. Las mismas tarjetas perforadas seguían usándose en los computadores IBM de hace tan solo cincuenta años.
 
-Las herramientas desarrolladas en las esferas de la ciencia y la tecnología son [[Potencia]] plásticas que involucran desde aspectos matéricos hasta nudos conceptuales. Del mismo modo, las inquietudes que mantienen despiertos a los artistas por la noche, son una cantera de ideas de digna de ser explorada en el laboratorio científico.
+Las herramientas desarrolladas en las esferas de la ciencia y la tecnología son [[Potencia|potencias]] plásticas que involucran desde aspectos matéricos hasta nudos conceptuales. Del mismo modo, las inquietudes que mantienen despiertos a los artistas por la noche, son una cantera de ideas de digna de ser explorada en el laboratorio científico.
 
 Afortunadamente el diálogo comienza a dejar de parecer un murmullo, y ya se escuchan voces cantantes como Neil Harbisson o Donna Haraway que se paran desde una postura transhumanista que reivindica tanto la ciencia como el arte en busca de dar un siguiente paso en el devenir humano.
 

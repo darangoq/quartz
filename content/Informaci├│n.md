@@ -1,8 +1,10 @@
 ---
-publish: true
 title: "Información"
 estado: micelio
-origen: radiscente
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 

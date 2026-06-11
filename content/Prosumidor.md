@@ -1,11 +1,11 @@
 ---
-publish: true
 title: "Prosumidor"
-estado: rizoma
-origen: radiscente
+estado: espora
+tags:
+  - espora
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Retroalimentación sociocultural]]
-
-[[Redes sociales]]
+[[Retroalimientación sociocultural]]

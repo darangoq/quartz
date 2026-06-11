@@ -1,17 +1,17 @@
 ---
-publish: true
 title: "Memoria"
 estado: micelio
-origen: radiscente
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Registro]] 
-[[Archivo]] 
-[[Fragmento]] 
-[[Ficción]]
-[[Rastro]]
-[[El ser a través del tiempo]]
-[[Prótesis]] 
+[[Memorias|Mis memorias]]
 
-*[[Memorias]]*
+[[Fragmento]]
+[[Autenticidad]]
+[[Experiencia]] 
+
+[[La experiencia y la obra]]

@@ -1,16 +1,16 @@
 ---
 title: "Creatividad, orden y desorden"
 estado: floresta
+tags:
+  - floresta
 publish: true
-origen: radiscente
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-#Creatividad, orden y desorden
-
 Alterciclo
 
-Existe encanto en el flujo cotidiano de habitar y ordenar que puede detonar la creatividad.
+*Existe encanto en el flujo cotidiano de habitar y ordenar que puede detonar la creatividad.*
 
 26 MAYO, 2019
 
@@ -24,13 +24,13 @@ Se condena directamente al desorden y se apela a una idea infundada donde lo que
 
 El desorden, que sólo lo es en un aspecto estético, se construye a fuerza del habitar el taller o la casa. Y aparece una paradoja dentro de las nociones occidentales donde es más cuerdo quien es desordenado que el que organiza compulsivamente y que antes recibía el diagnóstico de “desorden mental”.
 
-El modelo industrializado de la casa y por extensión del taller impone espacios organizados y actualizados dentro de un canon estético siempre mutable. La actividad de clase media luego de una jornada laboral extensa y un transporte insufrible se enmarca en un perpetuo ordenar hasta el consumo sin dejarle espacio al [[Hiperactividad]], al abstraerse de sí mismo y recuperarse de la vida diaria.
+El modelo industrializado de la casa y por extensión del taller impone espacios organizados y actualizados dentro de un canon estético siempre mutable. La actividad de clase media luego de una jornada laboral extensa y un transporte insufrible se enmarca en un perpetuo ordenar hasta el consumo sin dejarle espacio al [[Hiperactividad|no hacer]], al abstraerse de sí mismo y recuperarse de la vida diaria.
 
-Llevar una vida materialista, tal como alientan los medios a hacer, presupone zambullirse en la boca del lobo. Y, sin embargo, ya estamos rodeados de cientos de objetos a los que valdrá la pena cuestionar en un infinito juego mental que pueda desencadenar el [[Aburrimiento]], o la creación.
+Llevar una vida materialista, tal como alientan los medios a hacer, presupone zambullirse en la boca del lobo. Y, sin embargo, ya estamos rodeados de cientos de objetos a los que valdrá la pena cuestionar en un infinito juego mental que pueda desencadenar el [[Aburrimiento|aburrimiento]], o la creación.
 
 Dentro de nuestro nicho creativo entonces vale la pena estrellarnos contra la pregunta sobre qué cosas nos resultan más importante a la hora de crear. Nuestro espacio de trabajo hablará por sí solo, la entropía colocará directamente en el centro nuestro principal fetiche productivo. El paisaje cotidiano, el de nuestro propio taller, habla de las relaciones que mantenemos con los insumos de trabajo y con las demás personas que habitan el entorno.
 
-La armonía del desorden generado en la mayoría de los espacios de trabajo es la sedimentación de los hábitos que tenemos. Las [[Identidad]] que expresamos residen en toda marca superflua del medio por lo que es posible encontrarse en cada centímetro del espacio. El desorden, como producto involuntario de la vida, molesta sólo en el momento en el que se evidencia una saturación del sí, en una faceta donde existe un conflicto con el valor cultural de la rigurosidad.
+La armonía del desorden generado en la mayoría de los espacios de trabajo es la sedimentación de los hábitos que tenemos. Las [[Identidad|identidades]] que expresamos residen en toda marca superflua del medio por lo que es posible encontrarse en cada centímetro del espacio. El desorden, como producto involuntario de la vida, molesta sólo en el momento en el que se evidencia una saturación del sí, en una faceta donde existe un conflicto con el valor cultural de la rigurosidad.
 
 El hecho de ordenar marca una ruptura con las últimas actividades que hemos venido realizando. Hacer borrón y cuenta nueva con el uso del entorno refresca las relaciones objetuales y puede ser una oportunidad para reflexionar sobre instrumentos, recuerdos, apegos, detonadores o acumulación.
 
@@ -40,7 +40,7 @@ Me gusta jugar tanto como le gusta a mi gata o como les gusta jugar a los grande
 
 El pensamiento y la experimentación creativa son juegos perpetuos desde el punto de vista del artista. Desarrollarlos en entornos tanto ordenados como desordenados cambia las relaciones que se pueden establecer. En el flujo constante que significa habitar/desordenar y silenciar/ordenar, el juego con los trastes puede convertirse en un detonador creativo a través de la observación de lo cotidiano, de la contemplación de la vida propia y de lo que implica el rastro de objetos que se dejan tras de sí en el devenir diario.
 
-No siempre hace falta hacer grandes viajes intercontinentales para llegar a un museo del [[Espectáculo]] para poder tener la chispa que dinamite el proceso de creación. En occidente el sistema de pensamiento se ha encargado de realizar observaciones sobre temas trascendentales olvidándose del aquí y del ahora. Dicho de otro modo, se ha despreciado el valor que tiene la mismísima cotidianidad en favor de unos pocos momentos de la vida atomizados donde la cuestión se establece entre el significado de la vida y la muerte y los puntos de inflexión vitales.
+No siempre hace falta hacer grandes viajes intercontinentales para llegar a un museo del [[Espectáculo|espectáculo]] para poder tener la chispa que dinamite el proceso de creación. En occidente el sistema de pensamiento se ha encargado de realizar observaciones sobre temas trascendentales olvidándose del aquí y del ahora. Dicho de otro modo, se ha despreciado el valor que tiene la mismísima cotidianidad en favor de unos pocos momentos de la vida atomizados donde la cuestión se establece entre el significado de la vida y la muerte y los puntos de inflexión vitales.
 
 Es la vida misma con su cotidianidad, con los miles de días que pasamos inmersos en la absoluta normalidad, la que queda desplazada en esta reflexión dominante. Los procesos de creatividad bajo este marco sólo podrían ser apuntalados luego de sucesos trascendentales, y se funda el mito de la serendipia, la revelación y la epifanía que cambia por completo el punto de vista del creador y le otorga en vida su logro más trascendental.
 

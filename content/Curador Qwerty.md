@@ -1,50 +1,50 @@
 ---
 title: "Curador Qwerty"
 estado: floresta
+tags:
+  - floresta
 publish: true
-origen: radiscente
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
-
-#Curador Qwerty
 
 Mayo, 2016
 
 Daniel Arango Quintero
 
-Coleccionar fotografías es coleccionar el mundo.
+*Coleccionar fotografías es coleccionar el mundo.*
 (Sontag, 2006)
 
-Inevitablemente ola tras ola de imágenes nos golpea desde las [[Redes sociales]] en internet. Tan rápido como quedamos sorprendidos por una fotografía, esta desaparece y se olvida mientras que otras tantas imágenes vienen y van.
+Inevitablemente ola tras ola de imágenes nos golpea desde las [[Redes sociales|redes sociales]] en internet. Tan rápido como quedamos sorprendidos por una fotografía, esta desaparece y se olvida mientras que otras tantas imágenes vienen y van.
 
 El desarrollo de internet como espacio para el intercambio de información a nivel global ha permitido la aparición de puntos de encuentro para compartir imágenes y lecturas del mundo a nivel del individuo y del común. Especies variopintas se apropiaron de estas redes y las pueblan saturando de graznidos, algunos apenas perceptibles y otros estridentes. Los usuarios generan contenidos y los consumen con una sed agresiva, incitando a la creación de mecanismos destinados a exacerbar el desenfreno.
 
 Es entonces que es posible apreciar el surgimiento y la aparición del editor de medios, el community manager, el coleccionista de imágenes; que alimentan a la bestia con sucedáneos continuos y se transfiguran en dictadores de imágenes de naciones enteras de seguidores que finalmente terminan por rumiar lo que estos les dispongan.
 
-La curaduría posee poder para tasar el quehacer artístico. El desarrollo del oficio está enraizado en los antiguos comisarios de arte, y es a partir de los años sesenta que la labor del artista comienza a tener en cuenta diversos aspectos de la cultura, entre ellos la [[Vínculo]] más allá de la producción de obra. Sin embargo, la labor del curador no se restringe a la capitalización monetaria de las obras y artistas que selecciona. Su trabajo trasciende y se instala en ámbitos no necesariamente comerciales, siendo su principal función la de proponer un diálogo armónico entre la selección, el espacio, el tiempo y un argumento entramado que defina conceptualmente los contenidos de la exposición.
+La curaduría posee poder para tasar el quehacer artístico. El desarrollo del oficio está enraizado en los antiguos comisarios de arte, y es a partir de los años sesenta que la labor del artista comienza a tener en cuenta diversos aspectos de la cultura, entre ellos la [[Vínculo|divulgación y la formación de públicos]] más allá de la producción de obra. Sin embargo, la labor del curador no se restringe a la capitalización monetaria de las obras y artistas que selecciona. Su trabajo trasciende y se instala en ámbitos no necesariamente comerciales, siendo su principal función la de proponer un diálogo armónico entre la selección, el espacio, el tiempo y un argumento entramado que defina conceptualmente los contenidos de la exposición.
 
-¿Podría entonces pensarse que alguno de esos grandes distribuidores de imágenes intermediáticas pueda considerarse a sí mismo un curador? Lo sea o no, la red ha permitido el establecimiento de una serie de sistemas que detallan lo que los usuarios de las aplicaciones sociales consumen. En un sentido ético, la cuestión de quién elige lo que yo veo implica también interferir en la construcción de las [[Identidad]] de los individuos que hacen parte de las comunidades digitales. Por lo tanto, aquellas estructuras adquieren poderes más que económicos. Poderes tácitos que les permiten esculpir la experiencia de un público conformado por el grueso de la población mundial con acceso a internet.
+¿Podría entonces pensarse que alguno de esos grandes distribuidores de imágenes intermediáticas pueda considerarse a sí mismo un curador? Lo sea o no, la red ha permitido el establecimiento de una serie de sistemas que detallan lo que los usuarios de las aplicaciones sociales consumen. En un sentido ético, la cuestión de quién elige lo que yo veo implica también interferir en la construcción de las [[Identidad|identidades]] de los individuos que hacen parte de las comunidades digitales. Por lo tanto, aquellas estructuras adquieren poderes más que económicos. Poderes tácitos que les permiten esculpir la experiencia de un público conformado por el grueso de la población mundial con acceso a internet.
 
-Sin embargo, limitaré la discusión en un ámbito artístico, y puntualmente, en The Jealous Curator, perfil que conocí a partir de una sugerencia que realizó la red social Instagram y que llamó mi atención por su título autodenominado de curador.
+Sin embargo, limitaré la discusión en un ámbito artístico, y puntualmente, en [The Jealous Curator](https://www.thejealouscurator.com/blog/), perfil que conocí a partir de una sugerencia que realizó la red social Instagram y que llamó mi atención por su título autodenominado de curador.
 
 La implantación de internet en la vida significó redimensionar la realidad misma y por lo tanto la cultura se ha visto influenciada por las dinámicas que comenzaron a operar. Las expresiones artísticas no son ajenas a estos cambios y se reacomodan. Asimismo, sus actores se redefinen, y es necesario establecer nuevas definiciones desde un ámbito teórico, que respondan a las nuevas situaciones que se instalan.
 
 Estamos lejos de prever las consecuencias que traerá el uso de la red de información mundial en el campo de las artes. Hasta el momento hemos sido testigos del quicio, expectantes ante lo que se nos asoma desde la oscuridad. Los oficios sin duda serán transformados al tiempo que aparecerán nuevos dispositivos que dirijan nuestra mirada aterrada hacia lo que nos es dejado al frente.
 
-Is there really anything left to say about curating?
+*Is there really anything left to say about curating?*
 (Hunt, 2015)
 
-Esta pregunta se la realizaron a Andrew Hunt cuando manifestó su deseo de escribir su artículo Curator, Curation, Curationism. Demuestra la cantidad de escritos alrededor del tema, sin embargo, respecto a la pregunta formulada, la réplica es no. No se ha escrito todavía lo suficiente sobre curaduría a pesar de los apasionados debates transcritos afiliados al tema. En especial cuando el arte se cuestiona las figuras tradicionales que lo atraviesan y las estructuras auténticamente modernas comienzan a desmoronarse bajo el peso de su ranciedad.
+Esta pregunta se la realizaron a Andrew Hunt cuando manifestó su deseo de escribir su artículo *Curator, Curation, Curationism*. Demuestra la cantidad de escritos alrededor del tema, sin embargo, respecto a la pregunta formulada, la réplica es no. No se ha escrito todavía lo suficiente sobre curaduría a pesar de los apasionados debates transcritos afiliados al tema. En especial cuando el arte se cuestiona las figuras tradicionales que lo atraviesan y las estructuras auténticamente modernas comienzan a desmoronarse bajo el peso de su ranciedad.
 
-Este resquebrajamiento de las estructuras se manifiesta en forma de un uróboros en donde las expresiones artísticas presentan su ingenio siendo eyectadas de las instituciones. Los colectivos, talleres, fundaciones, y en general, todo el articulado creativo, comprendió que la galería y el museo no son las únicas vías para garantizar la financiación de la labor creativa. De igual forma, quedó claro que el artista puede estar seguro si es que tiene en cuenta todas las dimensiones de la cultura más allá de la misma creación tradicional. El artista puede ahondar en las cuestiones de investigación, producción, formación de públicos, difusión y divulgación. De esta forma descubre que del arte sí se puede vivir, y comienzan a [[Teks]] estructuras y redes de apoyo en todo a las cuales se pueden fundamentar las prácticas artísticas contemporáneas. El artista del romanticismo, bohemio y abandonado en su taller, dependiente de las limosnas que recibía de su comisario, ahora es sólo una pesadilla que reside en las esferas sociales más miopes. El arte ha declarado su independencia y madurez, haciendo a sus partículas humanas interdependientes entre sí.
+Este resquebrajamiento de las estructuras se manifiesta en forma de un uróboros en donde las expresiones artísticas presentan su ingenio siendo eyectadas de las instituciones. Los colectivos, talleres, fundaciones, y en general, todo el articulado creativo, comprendió que la galería y el museo no son las únicas vías para garantizar la financiación de la labor creativa. De igual forma, quedó claro que el artista puede estar seguro si es que tiene en cuenta todas las dimensiones de la cultura más allá de la misma creación tradicional. El artista puede ahondar en las cuestiones de investigación, producción, formación de públicos, difusión y divulgación. De esta forma descubre que del arte sí se puede vivir, y comienzan a [[Teks|tejerse]] estructuras y redes de apoyo en todo a las cuales se pueden fundamentar las prácticas artísticas contemporáneas. El artista del romanticismo, bohemio y abandonado en su taller, dependiente de las limosnas que recibía de su comisario, ahora es sólo una pesadilla que reside en las esferas sociales más miopes. El arte ha declarado su independencia y madurez, haciendo a sus partículas humanas interdependientes entre sí.
 
-Entonces, ¿cómo definir las acciones del curador en un contexto conectado a las redes? En definitiva, se ha establecido un nuevo campo de acción cuya principal fortaleza y debilidad es la capacidad de [[Vínculo]] y participación de sus componentes.
+Entonces, ¿cómo definir las acciones del curador en un contexto conectado a las redes? En definitiva, se ha establecido un nuevo campo de acción cuya principal fortaleza y debilidad es la capacidad de [[Vínculo|interacción]] y participación de sus componentes.
 
 Un curador se ocupa de la estructuración lógica del discurso de las obras de arte en un espacio definido. Por lo tanto, la labor curatorial se gesta en la investigación misma. El curador debe establecer los modos de operación conceptuales de las obras que eventualmente se exhibirán y realizar una proyección de las implicaciones materiales o no sobre lo que significaría llevar a cabo la muestra.
 
 El curador, así como el director de orquesta, es capaz de generar un diálogo entre todo el conjunto de una exposición. Puede que cada elemento ore individualmente, pero tal como en un contrapunto donde las melodías son independientes, todas deben llegar a complementarse para adquirir la dignidad de sinfonía.
 
-Es entonces que el curador escribe un guion curatorial y trabaja estrechamente con el museógrafo y los [[Agenciamiento cultural]] de producción para componer la muestra. Todo este trabajo investigativo y de armonización, es capaz de validar la obra de arte. Es una ceremonia en torno a la experiencia estética, casi como un rito de iniciación donde el trabajo del artista, cobra vida per se y se yergue como arte.
+Es entonces que el curador escribe un guion curatorial y trabaja estrechamente con el museógrafo y los [[Agenciamiento cultural|agentes]] de producción para componer la muestra. Todo este trabajo investigativo y de armonización, es capaz de validar la obra de arte. Es una ceremonia en torno a la experiencia estética, casi como un rito de iniciación donde el trabajo del artista, cobra vida per se y se yergue como arte.
 
 Mas seríamos obtusos al dejar de lado las nuevas realidades que se nos presentan en la era de la interconectividad digital. Los espacios se distorsionan y la realidad es duplicada. El mundo físico ya no es suficiente para experimentar la vida contemporánea. La materialidad no niega a la virtualidad, se complementan perfectamente llegando a alterar las identidades de quienes las atraviesan constantemente.
 
@@ -82,13 +82,13 @@ Deposito pues la discusión de este escrito, entre puntos suspensivos.
 
 ##Referencias
 
-* Cachia, A. (2013). 'Disabling' the museum: Curator as infrastructural activist. Journal of Visual Art Practice, 12(3), 257 - 289.
-* Hunt, A. (Oct de 2015). Curator, Curation, Curationism. Art Monthly(390), 13 - 16.
-* King, G. F. (28 de 11 de 2015). Danielle Krysa Colages. Obtenido de Frankie: www.frankie.com.au
-* Krysa, D. (2014). Creative Block. San Francisco, California, Estados Unidos: Chronicle Books.
-* Krysa, D. (s.f.). The Jealous Curator. Recuperado el 21 de Mayo de 2016, de www.thejealouscurator.com
-* Krysa, D., & Zinonos, A. (2014). Collage. San Francisco, California, Estados Unidos: Chronicle Books.
-* Lévy, P. (1999). ¿Qué es lo virtual?. (D. Levis, Trad.) Barcelona, Cataluña, España: Paidós Ibérica.
-* Maldonado, T. (2007). Memoria y conocimiento sobre los destinos del saber en la perspectiva digital. Barcelona: Gedisa.
-* Suntag, S. (2006). Sobre la fotografía. México, México: Alfaguara.
-* Ventzislavov, R. (2014). Idle Arts: Reconsidering the Curator. (W. Blackwell, Ed.) The Journal of Aesthetics and Art Criticism, 72(1), 83 - 93.
+* Cachia, A. (2013). *'Disabling' the museum: Curator as infrastructural activist*. Journal of Visual Art Practice, 12(3), 257 - 289.
+* Hunt, A. (Oct de 2015). *Curator, Curation, Curationism*. Art Monthly(390), 13 - 16.
+* King, G. F. (28 de 11 de 2015). *Danielle Krysa Colages*. Obtenido de Frankie: www.frankie.com.au
+* Krysa, D. (2014). *Creative Block*. San Francisco, California, Estados Unidos: Chronicle Books.
+* Krysa, D. (s.f.). *The Jealous Curator*. Recuperado el 21 de Mayo de 2016, de www.thejealouscurator.com
+* Krysa, D., & Zinonos, A. (2014). *Collage*. San Francisco, California, Estados Unidos: Chronicle Books.
+* Lévy, P. (1999). *¿Qué es lo virtual?*. (D. Levis, Trad.) Barcelona, Cataluña, España: Paidós Ibérica.
+* Maldonado, T. (2007). *Memoria y conocimiento sobre los destinos del saber en la perspectiva digital*. Barcelona: Gedisa.
+* Suntag, S. (2006). *Sobre la fotografía*. México, México: Alfaguara.
+* Ventzislavov, R. (2014). *Idle Arts: Reconsidering the Curator*. (W. Blackwell, Ed.) The Journal of Aesthetics and Art Criticism, 72(1), 83 - 93.

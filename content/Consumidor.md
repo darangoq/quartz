@@ -1,11 +1,13 @@
 ---
-publish: true
 title: "Consumidor"
 estado: micelio
-origen: radiscente
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
+[[Prosumidor]]
 [[Reacción]]
 [[Aparente libertad]]
-[[Prosumidor]]

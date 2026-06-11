@@ -1,12 +1,12 @@
 ---
 title: "Introducción"
 estado: floresta
+tags:
+  - floresta
 publish: true
-origen: radiscente
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
-
-#Introducción
 
 Radiscente ha sido una apuesta por atar cabos, una búsqueda de sentido instigada por los diferentes procesos que he vivido. Es, de hecho, una declaración sobre mi identidad en relación con la cultura y al mismo tiempo una sentencia del agente cultural situado en el contexto y los cuerpos que habito. 
 

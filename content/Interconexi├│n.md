@@ -1,14 +1,18 @@
 ---
-publish: true
 title: "Interconexión"
 estado: micelio
-origen: radiscente
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Potencia]] 
 [[Realidad virtual]] 
+[[Presencia digital]] 
+[[Trabajo colectivo]] 
 [[Internet]] 
-[[Tejido]]
+[[Interdisciplinariedad]] 
 
-[[Paradigmas del arte, la ciencia y la tecnología]]
+[[Tres modalidades para construir redes de apoyo en la cultura]] 
+[[El poder de la conversación]]

@@ -1,8 +1,10 @@
 ---
-publish: true
 title: "Desarrollo identitario"
-estado: rizoma
-origen: radiscente
+estado: espora
+tags:
+  - espora
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 

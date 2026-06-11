@@ -1,24 +1,24 @@
 ---
 title: "Objetividad, desapego, recursividad y resiliencia"
 estado: floresta
+tags:
+  - floresta
 publish: true
-origen: radiscente
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-#Objetividad, desapego, recursividad y resiliencia
-
 Alterciclo
 
-Trabajar en contextos hostiles, con todas las apuestas en contra, no es razón suficiente para no ponerse manos a la obra a la hora de llevar un proyecto cultural.
+*Trabajar en contextos hostiles, con todas las apuestas en contra, no es razón suficiente para no ponerse manos a la obra a la hora de llevar un proyecto cultural.*
 
 15 OCTUBRE, 2018
 
  “La vaca” es un cuento repetido hasta el cansancio en entornos de emprendimiento y superación. En resumidas cuentas, un maestro incita a su discípulo al asesinato de una vaca, única fuente de sustento de una familia en condición de pobreza extrema. El cuento termina felizmente al cabo de un tiempo, después de que el autor intelectual del asesinato ya ha fallecido, cuando el discípulo vuelve de visita a la casa de la pobre familia y se encuentra con que el atentado al patrimonio familiar ha desatado un frenesí desesperado por el rebusque y ha dado como resultado una mejora en la calidad de vida.
 
-Por supuesto que no es una apología a “el pobre es pobre porque quiere”. Más allá del cliché, la historia se conecta con algunas de las [[Experiencia]] que he tenido en la ejecución de proyectos y me ha despertado las reflexiones que hoy presento.
+Por supuesto que no es una apología a “el pobre es pobre porque quiere”. Más allá del cliché, la historia se conecta con algunas de las [[Experiencia|experiencias]] que he tenido en la ejecución de proyectos y me ha despertado las reflexiones que hoy presento.
 
-[[Agenciamiento cultural]], particularmente en Latinoamérica, es enfrentarse directamente a un asedio de dificultades que más temprano que tarde aparecerán en el panorama. En especial, el sector de la cultura afronta el estigma de baja rentabilidad financiera, por lo que usualmente es un campo sometido a la desfinanciación.
+[[Agenciamiento cultural|Emprender un proyecto cultural]], particularmente en Latinoamérica, es enfrentarse directamente a un asedio de dificultades que más temprano que tarde aparecerán en el panorama. En especial, el sector de la cultura afronta el estigma de baja rentabilidad financiera, por lo que usualmente es un campo sometido a la desfinanciación.
 
 Sin embargo, la falta de recursos económicos no será el único tipo de problemas que pueda llegar a enfrentar un gestor cultural en la región. La falta de interés del público, las dificultades para concretar escenarios culturales, la posibilidad de reunir en un mismo recinto un número determinado de obras, e incluso, la baja productividad de las personas involucradas puede suponer un verdadero dolor de cabeza para quienes tengan el coraje de iniciar un proyecto asociado a la cultura.
 
@@ -54,4 +54,4 @@ Una vez identificado y descartado el elemento problemático, la **recursividad**
 
 Más allá de victimizarnos dentro de este contexto, debemos impregnarnos de la cuarta cualidad necesaria en los gestores culturales. La **resiliencia** es la propiedad que tiene un ente de resistir y sobreponerse a las tensiones ejercidas sobre sí. En esta vía, la resiliencia como condición del gestor resulta en la sumatoria de las cualidades anteriormente descritas y de una fuerza visceral que lleve a buen término los objetivos buscados, más allá de los obstáculos que puedan haber aparecido durante el proceso. La resiliencia implica adoptar una posición proactiva a pesar de la vida, y requiere entrenamiento, para lograr en simultáneo endurecer nuestra coraza y engrasar nuestra maquinaria.
 
-Un [[Trabajo colectivo]] con estas cuatro facultades será prácticamente imparable, y podrá someterse a transitar por terrenos cenagosos, donde a pesar de los recursos limitados y de la incomodidad, pueda ser libre de desarrollar los proyectos más ambiciosos.
+Un [[Trabajo colectivo|equipo de trabajo]] con estas cuatro facultades será prácticamente imparable, y podrá someterse a transitar por terrenos cenagosos, donde a pesar de los recursos limitados y de la incomodidad, pueda ser libre de desarrollar los proyectos más ambiciosos.

@@ -1,5 +1,5 @@
 ---
-title: "Conocimiento"
+title: "Retroalimientación sociocultural"
 estado: espora
 tags:
   - espora
@@ -8,4 +8,4 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Mineras de datos]]
+[[Opinión]]

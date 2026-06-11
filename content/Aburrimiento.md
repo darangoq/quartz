@@ -1,10 +1,13 @@
 ---
-publish: true
 title: "Aburrimiento"
-estado: rizoma
-origen: radiscente
+estado: micelio
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Redes sociales]] 
-[[Hiperactividad]]
+[[Hiperactividad]] 
+[[Redes sociales]]
+[[Potencia]]

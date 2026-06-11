@@ -1,8 +1,10 @@
 ---
-publish: true
 title: "Reacción"
 estado: espora
-origen: radiscente
+tags:
+  - espora
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 

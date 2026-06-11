@@ -1,15 +1,18 @@
 ---
-publish: true
 title: "Autoexplotación"
-estado: rizoma
-origen: radiscente
+estado: micelio
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Hiperactividad]]
-[[Muerte en vida]]
-[[Redes sociales]]
-[[Artista como figura pública]]
-[[Crítica socioeconómica]]
+[[Trabajo colectivo]] 
+[[Redes sociales]] 
+[[Hiperactividad]] 
+[[Imagen pública]] 
 
-[[Trabajo en cultura y autoexplotación]]
+[[Trabajo en cultura y autoexplotación]] 
+[[Creación y autorreferencialidad]]
+[[Objetividad, desapego, recursividad y resiliencia]]

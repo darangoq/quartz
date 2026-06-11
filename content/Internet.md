@@ -1,13 +1,14 @@
 ---
-publish: true
 title: "Internet"
 estado: micelio
-origen: radiscente
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
 [[Redes sociales]] 
-[[Interconexión]] 
-[[Realidad virtual]] 
-[[Espacio Virtual]] 
-[[Nativo digital]]
+[[Nativo digital]] 
+
+[[Mitologías de la atención]]

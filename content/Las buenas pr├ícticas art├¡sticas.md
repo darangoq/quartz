@@ -1,16 +1,16 @@
 ---
 title: "Las buenas prácticas artísticas"
 estado: floresta
+tags:
+  - floresta
 publish: true
-origen: radiscente
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-#Las buenas prácticas artísticas
-
 Alterciclo
 
-No es cuestión de etiqueta ni de moralidad todo lo referente a establecer una buena práctica artística.
+*No es cuestión de etiqueta ni de moralidad todo lo referente a establecer una buena práctica artística.*
 
 11 AGOSTO, 2019
 
@@ -26,10 +26,10 @@ La empatía como sentimiento y como concepto representa los cimientos de nuestra
 
 Mas, es imposible no pensar en levantar muros que definan nuestros límites con los otros con la mención de la empatía y el rigor, y en las relaciones culturales sigue siendo necesario rebasar dichos límites en aras de la construcción colectiva. Sin poner un pie más allá de nuestro propio territorio, no podría existir la crítica o la opinión, ni el intercambio de ideas, ni los debates, ni la argumentación para que alguien cambie de posición.
 
-Para trascender los límites tenemos dentro de nuestro repertorio dos herramientas que podemos aprovechar como [[Creatividad, orden y desorden]] de experiencias estéticas y diversidad, y como antídoto para la censura, la autocensura y la restricción de la libertad de expresión. Son la [[Violencia]] y el humor, dos términos que hay que sujetar con pinzas por sus definiciones delicadas. En este contexto me sirvo de ellos como elementos de las posibilidades de comunicación y en ningún momento hago apología a la agresión directa e inconsciente, o a interpretaciones absolutas e inamovibles que restrinjan la superposición y la sana contradicción no binaria.
+Para trascender los límites tenemos dentro de nuestro repertorio dos herramientas que podemos aprovechar como [[Creatividad, orden y desorden|detonadores]] de experiencias estéticas y diversidad, y como antídoto para la censura, la autocensura y la restricción de la libertad de expresión. Son la [[Violencia|violencia]] y el humor, dos términos que hay que sujetar con pinzas por sus definiciones delicadas. En este contexto me sirvo de ellos como elementos de las posibilidades de comunicación y en ningún momento hago apología a la agresión directa e inconsciente, o a interpretaciones absolutas e inamovibles que restrinjan la superposición y la sana contradicción no binaria.
 
-Tanto la violencia como el humor posibilitan [[Interconexión]] en el mundo cultural siempre y cuando se yergan en tres famosos pilares que deberíamos asumir como mantra: Seguro, sano y consensuado. Con este enfoque y apoyándonos en la empatía y en el rigor, podemos ejercer relaciones constructivas sin temor a ponernos a nosotros mismos la mordaza. De igual forma, estar abiertos a recibir críticas y a que la comunidad entre a examinar el trabajo propio sirve como campo de reflexión para fortalecer los discursos.
+Tanto la violencia como el humor posibilitan [[Interconexión|intercambios]] en el mundo cultural siempre y cuando se yergan en tres famosos pilares que deberíamos asumir como mantra: Seguro, sano y consensuado. Con este enfoque y apoyándonos en la empatía y en el rigor, podemos ejercer relaciones constructivas sin temor a ponernos a nosotros mismos la mordaza. De igual forma, estar abiertos a recibir críticas y a que la comunidad entre a examinar el trabajo propio sirve como campo de reflexión para fortalecer los discursos.
 
-Las buenas prácticas artísticas tratan entonces de fomentar la consciencia en nuestras relaciones con los demás [[Agenciamiento cultural]], con los proyectos y las obras y con el ecosistema social. Esto quiere decir fundar una especie de ética del trabajo cultural, sabiendo cuándo romper los límites, reconociendo al otro y a la [[Cuerpo]] como interlocutores de nuestras acciones, poniendo en nuestros propios proyectos el rigor necesario y cimentándolos en la empatía.
+Las buenas prácticas artísticas tratan entonces de fomentar la consciencia en nuestras relaciones con los demás [[Agenciamiento cultural|agentes culturales]], con los proyectos y las obras y con el ecosistema social. Esto quiere decir fundar una especie de ética del trabajo cultural, sabiendo cuándo romper los límites, reconociendo al otro y a la [[Cuerpo|comunidad]] como interlocutores de nuestras acciones, poniendo en nuestros propios proyectos el rigor necesario y cimentándolos en la empatía.
 
-Debemos por tanto asumir estos roles y actuar en consecuencia con nuestros colegas, en entornos de validación y evaluación, en la mediación con los públicos y en las relaciones donde hay aplicación de poder. En adición, trabajar con el mayor rigor con nuestra propia obra, y acercarnos con empatía al flujo de la [[Crítica]].
+Debemos por tanto asumir estos roles y actuar en consecuencia con nuestros colegas, en entornos de validación y evaluación, en la mediación con los públicos y en las relaciones donde hay aplicación de poder. En adición, trabajar con el mayor rigor con nuestra propia obra, y acercarnos con empatía al flujo de la [[Crítica|crítica]].

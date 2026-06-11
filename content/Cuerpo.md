@@ -1,14 +1,17 @@
 ---
-publish: true
 title: "Cuerpo"
 estado: micelio
-origen: radiscente
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
+[[Autorrepresentación]] 
+[[Identidad]] 
 [[Fragmento]] 
-[[Cuerpo digital]] 
-[[Apariencia]] 
-[[Gesto]] 
-[[Pose]] 
-[[Autorretrato]]
+[[Presencia digital]] 
+[[Autenticidad]] 
+
+[[Los cuatro cuerpos]]
