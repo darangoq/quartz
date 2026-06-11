@@ -19,6 +19,7 @@ jobs:
         with:
           node-version: 22
       - run: npm ci
+      - run: npx quartz plugin install
       - run: npx quartz build
       - uses: actions/upload-pages-artifact@v3
         with:
