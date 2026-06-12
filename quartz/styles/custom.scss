@@ -1,6 +1,103 @@
 @use "./variables.scss" as *;
 
-// Ocultar properties y modo día
+// Variables de fuente — sobrescribir las de Quartz base
+:root {
+  --titleFont: "Space Grotesk", sans-serif !important;
+  --headerFont: "Space Grotesk", sans-serif !important;
+  --h1-font: "Space Grotesk", sans-serif !important;
+  --h2-font: "Space Grotesk", sans-serif !important;
+  --h3-font: "Space Grotesk", sans-serif !important;
+}
+
+// Título del sitio — tamaño pequeño uppercase
+.page-title {
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.12em !important;
+  text-transform: uppercase !important;
+  color: #4db896 !important;
+  font-family: "Space Grotesk", sans-serif !important;
+}
+
+.page-title a {
+  color: #4db896 !important;
+  font-weight: 700 !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  background: none !important;
+}
+
+// Título del artículo
+h1.article-title {
+  font-family: "Space Grotesk", sans-serif !important;
+  font-weight: 700 !important;
+  color: #d9d9d9 !important;
+  letter-spacing: -0.025em !important;
+  line-height: 1.1 !important;
+}
+
+// Encabezados internos
+h2, h3, h4 {
+  font-family: "Space Grotesk", sans-serif !important;
+  font-weight: 600 !important;
+  color: #b0b0b0 !important;
+}
+
+// Cuerpo del texto
+p, li {
+  color: #888888;
+  line-height: 1.6;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+// Ancho máximo — contenedor central
+.center > .page-header,
+.center > article,
+.center > #quartz-body {
+  max-width: 75ch !important;
+}
+
+// Links en el cuerpo del texto — solo color, sin subrayado ni negrita
+article a,
+.popover-hint a {
+  color: #4db896 !important;
+  font-weight: 400 !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  background: none !important;
+  padding: 0 !important;
+}
+
+article a:hover,
+.popover-hint a:hover {
+  color: #7dd4b4 !important;
+}
+
+// Explorador izquierdo
+.explorer-content ul li > a {
+  color: #3a6050 !important;
+  font-weight: 400 !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  opacity: 1 !important;
+}
+
+.explorer-content ul li > a:hover {
+  color: #c8d8d0 !important;
+}
+
+.explorer-content ul li > a.active {
+  color: #4db896 !important;
+  font-weight: 700 !important;
+}
+
+// Sidebar izquierda
+.left {
+  background-color: #0d1410 !important;
+  border-right: 0.5px solid #1a2e26 !important;
+}
+
+// Ocultar properties y darkmode toggle
 .properties-container,
 .properties-header,
 details.properties,
@@ -10,88 +107,6 @@ details.properties,
 
 .darkmode {
   display: none !important;
-}
-
-// Título del sitio
-.page-title,
-.page-title a {
-  font-weight: 700 !important;
-  color: #4db896 !important;
-  letter-spacing: 0.12em !important;
-  text-transform: uppercase !important;
-  font-size: 13px !important;
-  border-bottom: none !important;
-}
-
-// Título del artículo
-.article-title {
-  font-weight: 700 !important;
-  color: #d9d9d9 !important;
-  letter-spacing: -0.025em !important;
-  line-height: 1.1 !important;
-}
-
-// Ancho máximo del contenido
-.center {
-  max-width: 100ch !important;
-}
-
-article,
-.popover-hint {
-  max-width: 100ch !important;
-}
-
-// Cuerpo del texto
-p, li {
-  color: #888888;
-  line-height: 1.6;
-}
-
-// Links — solo color y puntos
-a {
-  font-weight: 400 !important;
-  background: none !important;
-  background-color: transparent !important;
-  text-decoration: none !important;
-  border-bottom: 0px dotted #2a6650 !important;
-  color: #4db896 !important;
-  padding: 0 !important;
-}
-
-a:hover {
-  color: #7dd4b4 !important;
-  border-bottom-color: #4db896 !important;
-  background: none !important;
-}
-
-// Excepciones — links de UI que no deben tener subrayado
-.page-title a,
-.explorer-node a,
-.backlinks a,
-.tag-link,
-.internal.tag-link {
-  border-bottom: none !important;
-}
-
-.explorer-node a {
-  color: #3a6050 !important;
-}
-
-.explorer-node a:hover {
-  color: #c8d8d0 !important;
-}
-
-.backlinks a {
-  color: #3a6050 !important;
-  border: 0.5px solid #1a2e26 !important;
-  border-radius: 2px !important;
-  padding: 3px 10px !important;
-  font-size: 12px !important;
-}
-
-.backlinks a:hover {
-  color: #4db896 !important;
-  border-color: #2a6650 !important;
 }
 
 // Scrollbar
@@ -111,12 +126,6 @@ a:hover {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #4db896;
-}
-
-// Sidebar
-.left {
-  background-color: #0d1410 !important;
-  border-right: 0.5px solid #1a2e26 !important;
 }
 
 // Grafo
