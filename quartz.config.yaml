@@ -232,7 +232,7 @@ plugins:
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
-    enabled: false
+    enabled: true
     options:
       includeAll: false
       includedProperties:
@@ -255,7 +255,13 @@ layout:
       direction: row
       gap: 0.5rem
   byPageType:
-    "404":
+    "404   
+  _____
+ /     \
+| () () |
+ \  ^  /
+  |||||
+  |||||":
       positions:
         beforeBody: []
         left: []
