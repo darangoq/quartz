@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2018/02/08/el-poder-de-la-conversacion/)
 
 *Grandes obras de la cultura han comenzado con una modesta charla en un pasillo.*
 

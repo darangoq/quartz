@@ -118,7 +118,9 @@ El subtítulo debe existir como `##` en el archivo destino. Se escribe en minús
 ```markdown
 [texto visible](https://url.com)
 ```
-
+```markdown
+[texto visible](https://url.com)
+```
 ---
 
 ## Multimedia

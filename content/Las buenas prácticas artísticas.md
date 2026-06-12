@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2019/08/11/las-buenas-practicas-artisticas/)
 
 *No es cuestión de etiqueta ni de moralidad todo lo referente a establecer una buena práctica artística.*
 

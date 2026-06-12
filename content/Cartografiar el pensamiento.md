@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2019/10/14/cartografiar-el-pensamiento/)
 
 *Pensar, visualizar, construir y comunicar es más fácil con un mapa de lo que nos aguarda en el horizonte.*
 

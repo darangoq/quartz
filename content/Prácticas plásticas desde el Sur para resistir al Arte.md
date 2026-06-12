@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2019/06/30/practicas-plasticas-desde-el-sur-para-resistir-al-arte/)
 
 *El advenimiento de la postmodernidad puede ayudarnos a romper los paradigmas del Arte desde el Sur.*
 

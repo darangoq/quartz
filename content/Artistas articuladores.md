@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2019/09/29/artistas-articuladores/)
 
 *A partir de un juego de palabras es posible vislumbrar potencias de acción dentro del campo del arte.*
 

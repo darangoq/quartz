@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2019/05/26/creatividad-orden-y-desorden/)
 
 *Existe encanto en el flujo cotidiano de habitar y ordenar que puede detonar la creatividad.*
 

@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2018/10/15/objetividad-desapego-recursividad-y-resiliencia/)
 
 *Trabajar en contextos hostiles, con todas las apuestas en contra, no es razón suficiente para no ponerse manos a la obra a la hora de llevar un proyecto cultural.*
 

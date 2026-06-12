@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2019/07/28/creacion-y-autorreferencialidad/)
 
 *Mirarse a sí mismo para crear es un poco más complejo que pararse frente al espejo.*
 

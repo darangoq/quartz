@@ -6,3 +6,8 @@ views:
       - publish
       - estado
       - tags
+    sort:
+      - property: estado
+        direction: ASC
+  - type: cards
+    name: Vista

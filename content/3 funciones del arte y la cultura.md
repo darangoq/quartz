@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2018/04/15/3-funciones-del-arte-y-la-cultura/)
 
 *Y… ¿Acaso el arte sirve para algo?*
 

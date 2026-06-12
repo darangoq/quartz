@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2017/11/02/tres-modalidades-para-construir-redes-de-apoyo-en-la-cultura/)
 
 *Está más que confirmado que en el mundo de la cultura, el individualismo no funciona.*
 

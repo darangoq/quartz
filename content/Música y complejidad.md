@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2019/11/11/musica-y-complejidad/)
 
 *La belleza de la música reside en la intrincada red de sus elementos puestos en tensión con el cuerpo.*
 

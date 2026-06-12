@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2018/05/24/paradigmas-del-arte-la-ciencia-y-la-tecnologia/))
 
 *La necesidad de promover el diálogo entre las ramas del saber.*
 

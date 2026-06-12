@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2019/07/14/mitologias-de-la-atencion/)
 
 *Que pierdas el rastro de migas de pan en tus redes sociales no es tu culpa, pero es a propósito.*
 

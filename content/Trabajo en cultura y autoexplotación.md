@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Alterciclo
+[Alterciclo](https://alterciclo.wordpress.com/2019/06/16/trabajo-en-cultura-y-autoexplotacion/)
 
 *El contexto y el sistema en el que nos movemos los que optamos por trabajar en la cultura nos puede poner en contra de nosotros mismos.*
 
