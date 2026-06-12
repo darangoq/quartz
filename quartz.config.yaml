@@ -234,11 +234,9 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       includedProperties:
-        - description
         - tags
-        - aliases
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
@@ -255,7 +253,7 @@ layout:
       direction: row
       gap: 0.5rem
   byPageType:
-    "404":
+    "¡Oh no, 404!":
       positions:
         beforeBody: []
         left: []
