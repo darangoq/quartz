@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6,
   background-color: transparent !important;
   color: #4db896 !important;
   text-decoration: none !important;
-  border-bottom: 1px dotted #2a6650 !important;
+  border-bottom: 0px dotted #2a6650 !important;
   padding: 0 !important;
 }
 
@@ -159,4 +159,51 @@ h1, h2, h3, h4, h5, h6,
 // Modo oscuro como único modo — ocultar toggle de tema
 .darkmode {
   display: none !important;
+}
+// Título del sitio — negrita
+.page-title a,
+.page-title {
+  font-weight: 700 !important;
+  letter-spacing: 0.12em !important;
+}
+
+// Scrollbar — solo barra, sin fondo
+::-webkit-scrollbar {
+  width: 4px;
+  background: transparent;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a6650;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #4db896;
+}
+
+// Ancho máximo del cuerpo del artículo
+.center .page-header,
+.center article {
+  max-width: 100ch;
+}
+
+// Ocultar completamente el bloque properties
+.properties-container,
+.properties-header,
+details.properties {
+  display: none !important;
+}
+
+// Mostrar tags directamente bajo el título
+.tag-list,
+.tags {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 6px !important;
+  margin: 8px 0 20px !important;
 }
