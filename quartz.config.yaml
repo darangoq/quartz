@@ -255,13 +255,7 @@ layout:
       direction: row
       gap: 0.5rem
   byPageType:
-    "404   
-  _____
- /     \
-| () () |
- \  ^  /
-  |||||
-  |||||":
+    "404":
       positions:
         beforeBody: []
         left: []
