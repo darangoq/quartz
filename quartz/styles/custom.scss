@@ -113,3 +113,50 @@ body, #quartz-root {
   background: #080808;
   border: 0.5px solid #1a2e26;
 }
+// 1. Fuentes — forzar carga
+body, p, li, span {
+  font-family: 'IBM Plex Sans', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.article-title,
+.page-title {
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-weight: 600 !important;
+}
+
+// 2. Ocultar bloque Properties, mostrar solo tags
+.properties-container {
+  display: none !important;
+}
+
+// 6. Links — solo color y puntos, sin negrita ni fondo
+#quartz-root a,
+#quartz-root .internal,
+#quartz-root .external {
+  font-weight: 400 !important;
+  background: none !important;
+  background-color: transparent !important;
+  color: #4db896 !important;
+  text-decoration: none !important;
+  border-bottom: 1px dotted #2a6650 !important;
+  padding: 0 !important;
+}
+
+#quartz-root a:hover,
+#quartz-root .internal:hover,
+#quartz-root .external:hover {
+  color: #7dd4b4 !important;
+  border-bottom-color: #4db896 !important;
+  background: none !important;
+}
+
+// 5. Grafo — nodos y enlaces en teal visible
+.graph-outer canvas {
+  filter: brightness(2.5) hue-rotate(10deg);
+}
+
+// Modo oscuro como único modo — ocultar toggle de tema
+.darkmode {
+  display: none !important;
+}
