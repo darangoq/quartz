@@ -1,8 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
-
 @use "./variables.scss" as *;
 
-// Tipografía
 body {
   font-family: 'IBM Plex Sans', sans-serif;
 }
@@ -22,11 +19,8 @@ h1, h2, h3, h4, h5, h6,
   --secondary: #0d1410;
   --tertiary: #1a2e26;
   --text: #888888;
-  --title-color: #d9d9d9;
   --link: #4db896;
-  --link-hover: #7dd4b4;
   --border: #141414;
-  --sidebar-border: #1a2e26;
 }
 
 body, #quartz-root {
