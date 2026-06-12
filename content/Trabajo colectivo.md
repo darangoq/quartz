@@ -12,12 +12,12 @@ He pasado por proyectos que me [[Experiencia|enseñaron]] la importancia de suma
 
  *Alterciclo, Programa Salón Cano 2016, Ecos, Tecnopoéticas, Proyecto ars 301, Proyecto Cano 2018, Colectivo los Metiches, Harto feria, Espora Sur.*
 
-[[Autoexplotación]] 
-[[Redes sociales]] 
-[[Interdisciplinariedad]] 
-[[Cuerpo]] 
+[[Autoexplotación]]
+[[Redes sociales]]
+[[Interdisciplinariedad]]
+[[Cuerpo]]
 
-[[Tres modalidades para construir redes de apoyo en la cultura]] 
-[[El poder de la conversación]] 
-[[Prácticas plásticas desde el Sur para resistir al Arte]] 
+[[Tres modalidades para construir redes de apoyo en la cultura]]
+[[El poder de la conversación]]
+[[Prácticas plásticas desde el Sur para resistir al Arte]]
 [[Objetividad, desapego, recursividad y resiliencia]]

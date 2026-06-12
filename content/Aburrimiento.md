@@ -8,6 +8,6 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Hiperactividad]] 
+[[Hiperactividad]]
 [[Redes sociales]]
 [[Potencia]]

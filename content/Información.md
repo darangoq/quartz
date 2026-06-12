@@ -8,6 +8,6 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Atención]] 
+[[Atención]]
 [[Sesgo cognitivo]]
 [[Análisis comportamental]]

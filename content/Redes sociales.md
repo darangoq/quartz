@@ -10,16 +10,16 @@ fecha_origen: 2019
 
 [[Prosumidor]]
 [[Nativo digital]]
-[[Internet]] 
-[[Autoexplotación]] 
+[[Internet]]
+[[Autoexplotación]]
 [[Aburrimiento]]
-[[Hiperactividad]] 
+[[Hiperactividad]]
 [[Trabajo colectivo]]
-[[Espectáculo]] 
+[[Espectáculo]]
 
-[[Redes sociales para artistas]] 
+[[Redes sociales para artistas]]
 [[Mitologías de la atención]]
-[[Tres modalidades para construir redes de apoyo en la cultura]] 
+[[Tres modalidades para construir redes de apoyo en la cultura]]
 
 [[Memorias]]
 

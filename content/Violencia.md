@@ -1,8 +1,8 @@
 ---
 title: "Violencia"
-estado: floresta
+estado: rizoma
 tags:
-  - floresta
+  - rizoma
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019

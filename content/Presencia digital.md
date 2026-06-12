@@ -8,10 +8,10 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Cuerpo]] 
+[[Cuerpo]]
 [[Nativo digital]]
-[[Internet]] 
-[[Espectáculo]] 
-[[Imagen pública]] 
+[[Internet]]
+[[Espectáculo]]
+[[Imagen pública]]
 
 [[Redes sociales para artistas]]

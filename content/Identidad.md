@@ -9,7 +9,7 @@ fecha_origen: 2019
 ---
 
 [[Fragmento]]
-[[Autenticidad]] 
+[[Autenticidad]]
 [[Cuerpo]]
 
 [[Memorias]]

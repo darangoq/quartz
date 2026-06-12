@@ -12,5 +12,5 @@ fecha_origen: 2019
 [[Redes sociales]]
 [[Internet]]
 [[Imagen pública]]
-[[Realidad virtual]] 
+[[Realidad virtual]]
 [[Interconexión]]

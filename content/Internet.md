@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Redes sociales]] 
-[[Nativo digital]] 
+[[Redes sociales]]
+[[Nativo digital]]
 
 [[Mitologías de la atención]]

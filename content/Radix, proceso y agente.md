@@ -12,7 +12,7 @@ Encontré el neologismo Radiscente mientras esculcaba entre las [[Etimología|et
 
 Lo primero fue localizar una cualidad global que abrigara mi investigación y mis procesos plásticos. Todo ha sido construido de forma orgánica y fue mutando sus categorías poco a poco. Lo que en un momento fue un mapa, al otro era una [[Cartografiar el pensamiento|cartografía]] tridimensional, pasó a ser el [[Bibliografía|rizoma de Deleuze y Guattari]], se transformó en grafo y no se detiene en sistema complejo. Todas estas expresiones pude asociarlas con la latina *radix*, relacionada con *rhiza* en griego, que nos heredan tanto raíz como rizoma.
 
-El sufijo *sce* enmarca un proceso en curso, un cambio activo en el tiempo. 
+El sufijo *sce* enmarca un proceso en curso, un cambio activo en el tiempo.
 
 *Nte* es un sufijo legado del participio presente del latín e indica la modificación activa de parte de un agente.
 

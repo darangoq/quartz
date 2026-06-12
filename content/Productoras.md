@@ -8,5 +8,5 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Información]] 
+[[Información]]
 [[Opinión]]

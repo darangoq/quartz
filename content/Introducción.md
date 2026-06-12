@@ -8,11 +8,11 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-Radiscente ha sido una apuesta por atar cabos, una búsqueda de sentido instigada por los diferentes procesos que he vivido. Es, de hecho, una declaración sobre mi identidad en relación con la cultura y al mismo tiempo una sentencia del agente cultural situado en el contexto y los cuerpos que habito. 
+Radiscente ha sido una apuesta por atar cabos, una búsqueda de sentido instigada por los diferentes procesos que he vivido. Es, de hecho, una declaración sobre mi identidad en relación con la cultura y al mismo tiempo una sentencia del agente cultural situado en el contexto y los cuerpos que habito.
 
 Este articulado fue concebido aprovechando la potencia plástica de la palabra y el tejido. Fundí aquellos insumos en cientos de líneas de código para dar vida a un documento vivo, un hipertexto tautológico construido a modo de sistema complejo.
 
-Ingresé a la Escuela de Artes Plásticas después de haber atravesado un camino en la música y el diseño industrial. Más que estudiar la producción del arte, me interesé por comprender sus sistemas, específicamente, la cultura como un campo multidisciplinar y multidimensional. Mis esfuerzos de los últimos años han estado concentrados en ejercer un agenciamiento en áreas de investigación, gestión, producción, curaduría, historia, tecnología, comunicación y crítica. 
+Ingresé a la Escuela de Artes Plásticas después de haber atravesado un camino en la música y el diseño industrial. Más que estudiar la producción del arte, me interesé por comprender sus sistemas, específicamente, la cultura como un campo multidisciplinar y multidimensional. Mis esfuerzos de los últimos años han estado concentrados en ejercer un agenciamiento en áreas de investigación, gestión, producción, curaduría, historia, tecnología, comunicación y crítica.
 
 Poco a poco, la observación de las acciones de mi entorno fue anclándose en un proceso de reflexión de los eventos pasados y su relación con el presente, un análisis de la ejecución actual de la iniciativas culturales y una crítica encaminada a proyectar una colectividad edificante.
 

@@ -8,10 +8,10 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Autorrepresentación]] 
-[[Identidad]] 
-[[Fragmento]] 
-[[Presencia digital]] 
-[[Autenticidad]] 
+[[Autorrepresentación]]
+[[Identidad]]
+[[Fragmento]]
+[[Presencia digital]]
+[[Autenticidad]]
 
 [[Los cuatro cuerpos]]

@@ -12,6 +12,6 @@ fecha_origen: 2019
 
 [[Fragmento]]
 [[Autenticidad]]
-[[Experiencia]] 
+[[Experiencia]]
 
 [[La experiencia y la obra]]

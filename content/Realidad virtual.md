@@ -8,11 +8,11 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-[[Internet]] 
-[[Potencia]] 
-[[Cuerpo]] 
-[[Redes sociales]] 
-[[Fragmento]] 
+[[Internet]]
+[[Potencia]]
+[[Cuerpo]]
+[[Redes sociales]]
+[[Fragmento]]
 [[Memoria]]
-[[Nativo digital]] 
+[[Nativo digital]]
 [[Autenticidad]]

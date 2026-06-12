@@ -1,0 +1,22 @@
+---
+title: "Imagen pública"
+estado: micelio
+tags:
+  - micelio
+publish: true
+origen: mapa-de-intuiciones
+fecha_origen: 2019
+---
+
+[[Presencia digital]]
+[[Tautología]]
+[[Autorrepresentación]]
+[[Autoexplotación]]
+[[Fragmento]]
+[[Protección]]
+[[Identidad]]
+[[Autenticidad]]
+
+[[Creación y autorreferencialidad]]
+[[Las buenas prácticas artísticas]]
+[[Memorias]]
