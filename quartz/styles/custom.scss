@@ -1,173 +1,100 @@
 @use "./variables.scss" as *;
 
-body {
-  font-family: 'IBM Plex Sans', sans-serif;
+// Ocultar properties y modo día
+.properties-container,
+.properties-header,
+details.properties,
+[class*="properties"] {
+  display: none !important;
 }
 
-h1, h2, h3, h4, h5, h6,
+.darkmode {
+  display: none !important;
+}
+
+// Título del sitio
 .page-title,
-#quartz-root .article-title {
-  font-family: 'Space Grotesk', sans-serif;
-  font-weight: 600;
-  letter-spacing: -0.025em;
-  line-height: 1.1;
-}
-
-:root[saved-theme="dark"],
-:root {
-  --background: #050505;
-  --secondary: #0d1410;
-  --tertiary: #1a2e26;
-  --text: #888888;
-  --link: #4db896;
-  --border: #141414;
-}
-
-body, #quartz-root {
-  background-color: #050505;
-}
-
-#quartz-root .left {
-  background-color: #0d1410;
-  border-right: 0.5px solid #1a2e26;
-}
-
-#quartz-root .page-title {
-  font-family: 'Space Grotesk', sans-serif;
-  font-weight: 500;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  font-size: 13px;
+.page-title a {
+  font-weight: 700 !important;
   color: #4db896 !important;
+  letter-spacing: 0.12em !important;
+  text-transform: uppercase !important;
+  font-size: 13px !important;
+  border-bottom: none !important;
 }
 
-#quartz-root p, #quartz-root li {
+// Título del artículo
+.article-title {
+  font-weight: 700 !important;
+  color: #d9d9d9 !important;
+  letter-spacing: -0.025em !important;
+  line-height: 1.1 !important;
+}
+
+// Ancho máximo del contenido
+.center {
+  max-width: 100ch !important;
+}
+
+article,
+.popover-hint {
+  max-width: 100ch !important;
+}
+
+// Cuerpo del texto
+p, li {
   color: #888888;
   line-height: 1.6;
 }
 
-#quartz-root .article-title,
-#quartz-root h1 {
-  color: #d9d9d9;
-}
-
-#quartz-root h2, #quartz-root h3 {
-  color: #b0b0b0;
-}
-
-#quartz-root a {
-  color: #4db896;
-  text-decoration: none;
-  border-bottom: 1px dotted #2a6650;
-  transition: color 0.15s, border-color 0.15s;
-}
-
-#quartz-root a:hover {
-  color: #7dd4b4;
-  border-bottom-color: #4db896;
-}
-
-#quartz-root .explorer-node .folder-title,
-#quartz-root .explorer-node a {
-  color: #3a6050;
-  font-size: 12.5px;
-}
-
-#quartz-root .explorer-node a:hover {
-  color: #c8d8d0;
-  border-bottom: none;
-}
-
-#quartz-root hr {
-  border: none;
-  border-top: 0.5px solid #141414;
-  margin: 24px 0;
-}
-
-#quartz-root .tag-link {
-  color: #303030;
-  border: 0.5px solid #1e1e1e;
-  border-radius: 2px;
-  font-size: 10px;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  padding: 2px 8px;
-  background: transparent;
-}
-
-#quartz-root .backlinks a {
-  color: #3a6050;
-  border: 0.5px solid #1a2e26;
-  border-radius: 2px;
-  padding: 3px 10px;
-  font-size: 12px;
-}
-
-#quartz-root .backlinks a:hover {
-  color: #4db896;
-  border-color: #2a6650;
-  border-bottom: 0.5px solid #2a6650;
-}
-
-#quartz-root .graph-outer {
-  background: #080808;
-  border: 0.5px solid #1a2e26;
-}
-// 1. Fuentes — forzar carga
-body, p, li, span {
-  font-family: 'IBM Plex Sans', sans-serif !important;
-}
-
-h1, h2, h3, h4, h5, h6,
-.article-title,
-.page-title {
-  font-family: 'Space Grotesk', sans-serif !important;
-  font-weight: 600 !important;
-}
-
-// 2. Ocultar bloque Properties, mostrar solo tags
-.properties-container {
-  display: none !important;
-}
-
-// 6. Links — solo color y puntos, sin negrita ni fondo
-#quartz-root a,
-#quartz-root .internal,
-#quartz-root .external {
+// Links — solo color y puntos
+a {
   font-weight: 400 !important;
   background: none !important;
   background-color: transparent !important;
-  color: #4db896 !important;
   text-decoration: none !important;
   border-bottom: 0px dotted #2a6650 !important;
+  color: #4db896 !important;
   padding: 0 !important;
 }
 
-#quartz-root a:hover,
-#quartz-root .internal:hover,
-#quartz-root .external:hover {
+a:hover {
   color: #7dd4b4 !important;
   border-bottom-color: #4db896 !important;
   background: none !important;
 }
 
-// 5. Grafo — nodos y enlaces en teal visible
-.graph-outer canvas {
-  filter: brightness(2.5) hue-rotate(10deg);
-}
-
-// Modo oscuro como único modo — ocultar toggle de tema
-.darkmode {
-  display: none !important;
-}
-// Título del sitio — negrita
+// Excepciones — links de UI que no deben tener subrayado
 .page-title a,
-.page-title {
-  font-weight: 700 !important;
-  letter-spacing: 0.12em !important;
+.explorer-node a,
+.backlinks a,
+.tag-link,
+.internal.tag-link {
+  border-bottom: none !important;
 }
 
-// Scrollbar — solo barra, sin fondo
+.explorer-node a {
+  color: #3a6050 !important;
+}
+
+.explorer-node a:hover {
+  color: #c8d8d0 !important;
+}
+
+.backlinks a {
+  color: #3a6050 !important;
+  border: 0.5px solid #1a2e26 !important;
+  border-radius: 2px !important;
+  padding: 3px 10px !important;
+  font-size: 12px !important;
+}
+
+.backlinks a:hover {
+  color: #4db896 !important;
+  border-color: #2a6650 !important;
+}
+
+// Scrollbar
 ::-webkit-scrollbar {
   width: 4px;
   background: transparent;
@@ -186,24 +113,14 @@ h1, h2, h3, h4, h5, h6,
   background: #4db896;
 }
 
-// Ancho máximo del cuerpo del artículo
-.center .page-header,
-.center article {
-  max-width: 100ch;
+// Sidebar
+.left {
+  background-color: #0d1410 !important;
+  border-right: 0.5px solid #1a2e26 !important;
 }
 
-// Ocultar completamente el bloque properties
-.properties-container,
-.properties-header,
-details.properties {
-  display: none !important;
-}
-
-// Mostrar tags directamente bajo el título
-.tag-list,
-.tags {
-  display: flex !important;
-  flex-wrap: wrap !important;
-  gap: 6px !important;
-  margin: 8px 0 20px !important;
+// Grafo
+.graph-outer {
+  background: #080808 !important;
+  border: 0.5px solid #1a2e26 !important;
 }
