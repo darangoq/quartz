@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: radiscente
-  pageTitleSuffix: ""
+  pageTitleSuffix: "Jardín Digital de Daniel Arango Quintero"
   enableSPA: true
   enablePopovers: true
   analytics:
