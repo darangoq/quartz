@@ -19,7 +19,7 @@ La cultura es un lugar en el que se conjugan miles de relatos mitológicos a tra
 
 A pesar de los cambios, seguimos obedeciendo a las lógicas que biológicamente nuestro cuerpo nos determina, y, asimismo, sobrevolamos el tiempo alternando entre los cuadrantes de una [[Cartografiar el pensamiento|matriz]] determinada por acciones de exteriorización e interiorización y por unos niveles de consciencia y automatización e instrumentalización.
 
-
+![[Pasted image 20260613035712.png]]
 
 Este gráfico no pretende mostrar una versión determinista de la vida, tampoco binaria ni mucho menos absoluta. Es posible transitarlo y por sus características, una acción emprendida puede cambiar de posición de un momento para otro. Sus relaciones son aparentemente antagónicas, pero no es posible descartar la contradicción. Vivimos en él, y nuestro libre albedrío sólo nos permite reconocer nuestro lugar entre sus cuatro puntos cardinales.
 
