@@ -91,4 +91,4 @@ A continuación, una lista de algunos sistemas cartográficos y organizadores gr
 	- Matriz de datos
 
 <h2>Comentarios</h2>
-<div id="mastodon-comments" data-status-id="{{ page.params.toot_id }}"></div>
+<div id="mastodon-comments" data-status-id="116741837352884716"></div>
