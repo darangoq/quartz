@@ -1,3 +1,12 @@
+---
+title: "Cuatro cuerpos"
+estado: rizoma
+tags:
+  - rizoma
+publish: false
+origen: quirocinesis
+---
+
 Los laberintos de tus metamorfosis dibujan el cuerpo. No eres tú un mero extremo. No tienes límite en la anatomía. Desbordas el nervio, el músculo y la piel. 
 Toda tu potencia es un cuerpo vibratil sin movimiento aparente, un cuerpo sutil.
 Transduces gesto, acción y movimiento, en forma de mano, pata o tentáculo, un cuerpo de carne.

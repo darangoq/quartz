@@ -1,3 +1,13 @@
+---
+title: "La máquina para liberar al quirurgo"
+slug: la-maquina-para-liberar-al-quirurgo
+estado: rizoma
+tags:
+  - rizoma
+publish: false
+origen: quirocinesis
+---
+
 El quirurge partió del Rift, resiste en el presente a Plutón. Transforma el mundo con sus manos: dos, cuatro, doce. Habita la fractura. Teje y danza; funde y canta. Este es mi teatro indisciplinar.
 Extraigo de la memoria y de los talleres los tesoros de mi escenario.
 Llamado al cobre: En el intersticio de mis tres oficios recuerdo las cuerdas bordonas del piano, hilos de cobre entreverado sobre almas de acero. Cuerdas metálicas, cuerdas tejidas, cuerdas sonoras.

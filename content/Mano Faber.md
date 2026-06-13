@@ -1,3 +1,12 @@
+---
+title: "Mano Faber"
+estado: rizoma
+tags:
+  - rizoma
+publish: false
+origen: quirocinesis
+---
+
 *Mano faber, transforma el mundo. Mano raíz. La raíz que crece en la grieta, que transforma su entorno en sustento para la vida, la mano que abraza el territorio.*
 
 Eres carne, eres fibra y eres hueso.

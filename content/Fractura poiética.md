@@ -1,4 +1,13 @@
-	
+---
+title: "Fractura poiética"
+slug: fractura-poietica
+estado: rizoma
+tags:
+  - rizoma
+publish: false
+origen: quirocinesis
+---
+
 Nacimiento
 	Genealogía
 		Nacimiento en el Rift

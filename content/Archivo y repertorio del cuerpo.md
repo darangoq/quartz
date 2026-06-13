@@ -1,3 +1,12 @@
+---
+title: "Archivo y repertorio del cuerpo"
+estado: micelio
+tags:
+  - micelio
+publish: false
+origen: quirocinesis
+---
+
 Cada cuerpo es un depósito de experiencias.
 Cuerpos sutiles, cuerpos de carne, cuerpos sociales, cuerpo global.
 Memoria, cambio y tekné constituyen la estructura de preservación de las vivencias.

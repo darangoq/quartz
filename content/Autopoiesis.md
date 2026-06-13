@@ -1,3 +1,12 @@
+---
+title: "Autopoiesis"
+estado: micelio
+tags:
+  - micelio
+publish: false
+origen: quirocinesis
+---
+
 El archivo alojado en los cuerpos garantiza la autopoiesis: autonomía, autoproducción y autoorganización.
 Al cuerpo llega la muerte cuando pierde su capacidad de síntesis con plenitud poiética en la fractura.
 Presenciamos el reino de Plutón, un anfiteatro quirúrgico, la operación perpetua de extracción capital; la supervivencia exige su ruptura.

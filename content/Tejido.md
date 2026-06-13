@@ -1,3 +1,12 @@
+---
+title: "Tejido"
+estado: micelio
+tags:
+  - micelio
+publish: false
+origen: quirocinesis
+---
+
 El recuerdo de mi inicio en el tejido
 permanece perdido.
 Me queda la sensación primigenia de las fibras enredadas en mis dedos.

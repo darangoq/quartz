@@ -1,9 +1,9 @@
 ---
-title: "Violencia"
+title: Violencia
 estado: rizoma
 tags:
   - rizoma
-publish: true
+publish: false
 origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---

@@ -1,3 +1,12 @@
+---
+title: "Metamorfosis plurales de la mano"
+estado: rizoma
+tags:
+  - rizoma
+publish: false
+origen: quirocinesis
+---
+
 *Mano holística. Mano Rizoma
 La mano pensante, la mano más allá de la extremidad, la mano social, la mano metáfora de la potencia de transformación. La mano cuerpo, la mano herramienta, la mano prótesis, la mano técnica, la mano comunicación, la mano mundo.*
 

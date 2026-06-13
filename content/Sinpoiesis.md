@@ -1,3 +1,12 @@
+---
+title: "Sinpoiesis"
+estado: rizoma
+tags:
+  - rizoma
+publish: false
+origen: quirocinesis
+---
+
 Simbiosis en la poiesis.
  Hacerse a sí mismo es insuficiente.
  La autonomía no es independencia, el aislamiento es una condena.

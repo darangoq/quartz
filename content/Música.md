@@ -1,3 +1,13 @@
+---
+title: "Música"
+slug: musica
+estado: micelio
+tags:
+  - micelio
+publish: false
+origen: quirocinesis
+---
+
 Muy temprano conocí la estructura de los acordes mayores y menores; y fui música, un perpetuum mobile derramado en decenios. Antes de toda angustia heredé en las manos el deseo de tejer sonido.
 Mis dedos bailaron.
 Escogí un instrumento.

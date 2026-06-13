@@ -1,3 +1,12 @@
+---
+title: "Mano gestual"
+estado: rizoma
+tags:
+  - rizoma
+publish: false
+origen: quirocinesis
+---
+
 *Mano gestual, responde y reacciona al mundo. Mano Ala. Háptica y stimming. Las cuerdas, las velas, los tendones, el baile erótico.*
 
 Eres carne, eres nervio y eres hueso.

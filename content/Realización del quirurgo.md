@@ -1,3 +1,13 @@
+---
+title: "Realización del quirurgo"
+slug: realizacion-del-quirurgo
+estado: rizoma
+tags:
+  - rizoma
+publish: false
+origen: quirocinesis
+---
+
 La transformación está completa: tentáculo, ala, raíz y micelio.
 Las manos desplegadas, juntas, armonizadas, forman simetríadas emergentes de la tierra.
 La fractura poiética es de nuevo el emplazamiento del hogar colectivo y plural.

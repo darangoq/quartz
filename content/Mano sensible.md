@@ -1,3 +1,12 @@
+---
+title: "Mano sensible"
+estado: micelio
+tags:
+  - micelio
+publish: false
+origen: quirocinesis
+---
+
 *Eres carne, eres piel y eres hueso.
 De un mar de mil azares naciste,
 y de raíz, pata y tentáculo,

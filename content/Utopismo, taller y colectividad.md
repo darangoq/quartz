@@ -1,3 +1,12 @@
+---
+title: "Utopismo, taller y colectividad"
+estado: micelio
+tags:
+  - micelio
+publish: false
+origen: quirocinesis
+---
+
 Reunidos todos, conjuremos la potencia de la fractura.
 Refundemos los talleres, las cocinas y las chagras en templos desacralizados de manifestación.
 Construyamos estructuras a horizonte abierto, exploratorios de la memoria, el cambio y la técnica; laboratorios de la sensibilidad, el gesto y la acción.

@@ -1,3 +1,12 @@
+---
+title: "Liminalidad"
+estado: rizoma
+tags:
+  - rizoma
+publish: false
+origen: quirocinesis
+---
+
 La forma en ye del Rift coincide con las líneas del corazón y de la vida en las palmas de las manos. Es un dónde y un cuándo de tensión.
 
 La fractura germina en la mano y discurre la cultura material. Está presente en las fisuras de la obsidiana, el hueso y el carbón vegetal; recorre el surco de tierra a la espera de la siembra; pasa por la huella de la rueda sobre el camino, y en el camino mismo de la migración al comercio; atraviesa la herida del cuchillo de cobre, bronce o hierro y el punto de inserción de la aguja en el tejido. La fractura dibuja las constelaciones y acompaña los mitos encarnados en la materia cotidiana, y en su fin último, resuelve la vida y garantiza la supervivencia.

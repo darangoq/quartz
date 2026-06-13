@@ -1,3 +1,12 @@
+---
+title: "Nacimiento"
+estado: micelio
+tags:
+  - micelio
+publish: false
+origen: quirocinesis
+---
+
 Crujió un palo, o acaso un hueso
 cuando la primera artesana
 transformó sus pulsiones de futuro

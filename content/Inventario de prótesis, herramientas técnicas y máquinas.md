@@ -1,3 +1,13 @@
+---
+title: "Inventario de prótesis, herramientas técnicas y máquinas"
+slug: inventario-de-protesis-herramientas-tecnicas-y-maquinas
+estado: rizoma
+tags:
+  - rizoma
+publish: false
+origen: quirocinesis
+---
+
 Hilo, aguja, lanzadera, bastidor, telar, ganchillo, dedal, carda, tambor, devanadora, tijeras, cuchilla, alfiler, rueca, pasador, naveta, peinilla, volante, arnés, punto, nudo, trama, urdimbre, macramé, atarraya, nalbinding, fieltro, calado, gasa, smocking, plisado encaje, bolillos, frivolité, gobelino, crochet, dos agujas, tejido a la mano desnuda, rastrillo, punzón, ojalador, botón, carrete, bobina, Jacquard, plancha, morera, seda, lino, lana, algodón, madeja, textil, texto, textura, trazo superficie compás, papel, regla, lápiz, borrados, bisturí, transportador, escuadra, plumilla, grafito, tinta, puntero, libreta, bitácora, archivo, manuscrito, tablero, calco.
 
 Diapasón, cuerda, plectro, traste, tecla, caja de resonancia, nogal, pino arce, arco, crin, pes, clavija, baqueta, metrónomo, violoncello, tiracuerdas, puente, afinador, oído, posición, martelé, détaché , staccato , legato , pizzicato, ritmo, polirritmo disociación, movimiento paralelo, movimiento oblicuo, movimiento contrario, pentagrama, clave, figura, atril, sordina, piezoeléctrico, pedal, lengüeta, llave, embocadura, campana, solfeo, diminuendo, ritardando, ritornello, crescendo, acelerando, caña, lira arpa, membrana, batuta, corno, registro repertorio, improvisación, escritura, monodia, polifonía, prosodia, marca, gesto, oratorio, repertorio, ballet, da capo al fine, gesprochene Musik.
