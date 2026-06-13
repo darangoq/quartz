@@ -103,7 +103,7 @@ plugins:
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
-    enabled: false
+    enabled: true
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}
@@ -129,9 +129,9 @@ plugins:
       enableSiteMap: true
       enableRSS: true
   - source: github:quartz-community/favicon
-    enabled: true
+    enabled: false
   - source: github:quartz-community/og-image
-    enabled: true
+    enabled: false
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
