@@ -252,3 +252,13 @@ details.properties,
   margin-bottom: 0.6em;
   color: #888888;
 }
+
+@media (max-width: 768px) {
+  .center > article,
+  .center > .page-header,
+  .popover-hint {
+    max-width: 100% !important;
+    padding: 0 16px !important;
+    box-sizing: border-box !important;
+  }
+}
