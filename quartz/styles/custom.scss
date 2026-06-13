@@ -262,3 +262,9 @@ details.properties,
     box-sizing: border-box !important;
   }
 }
+
+// Ocultar nodos de etiqueta en el grafo
+.graph-outer svg g.node.tag,
+.graph-outer svg g[data-type="tag"] {
+  display: none !important;
+}

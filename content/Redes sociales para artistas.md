@@ -28,7 +28,7 @@ Este paraíso que acabo de pintar obviamente no es tan perfecto y más adelante 
 
 Después de este brochazo que nos contextualiza En el aquí y el ahora de los unos y ceros, ¿para qué nos pueden servir las [[Redes sociales|redes sociales]]? Muy superficialmente es posible contemplar tres frentes de [[Vínculo|comunicación, divulgación y circulación]] y uno de producción que los diferentes agentes de la cultura pueden aprovechar para distintos fines.
 
-## Mostrarse al mundo
+## Mostrarse al mundo 
 
 La primera área en la que podemos sacarle el jugo a las redes sociales es sin lugar a duda, mostrando un abrebocas de lo que nosotros mismos hacemos. Los portafolios y maquetas siguen abandonando los formatos análogos para subirse a la nube y no sólo por un asunto económico y ecológico.
 
