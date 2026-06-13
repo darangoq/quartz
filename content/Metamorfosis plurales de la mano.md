@@ -1,0 +1,4 @@
+*Mano holística. Mano Rizoma
+La mano pensante, la mano más allá de la extremidad, la mano social, la mano metáfora de la potencia de transformación. La mano cuerpo, la mano herramienta, la mano prótesis, la mano técnica, la mano comunicación, la mano mundo.*
+
+Tus rutas de agua, tierra y aire señalan el surco de la fractura. Habitas las derivas del tejido infinito entre las ramas, los tentáculos y los dedos. Te quiebras y recompones, eres fragmento, eres amasijo y eres manada. Palpitas en trance. Te fundes con prótesis, acaricias el barro y susurras tus cicatrices. Eres mano archivo, eres mano holística, eres mano rizoma, eres mano mundo.

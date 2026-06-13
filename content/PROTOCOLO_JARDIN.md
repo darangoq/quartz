@@ -1,3 +1,14 @@
+---
+title: "Protocolo Jardín"
+
+slug: protocolo-jardin
+estado: floresta
+tags:
+  - floresta
+publish: false
+origen: Técnico
+---
+
 # Protocolo de escritura — Jardín digital
 
 **darangoq.github.io/quartz**  
