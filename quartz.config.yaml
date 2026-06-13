@@ -203,7 +203,7 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
- - source: github:quartz-community/comments
+  - source: github:quartz-community/comments
     enabled: true
     options:
       provider: giscus
