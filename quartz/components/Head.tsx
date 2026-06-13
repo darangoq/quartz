@@ -106,6 +106,7 @@ export default (() => {
             return resource
           }
         })}
+        <script src={`${baseDir}/static/mastodon-comments.js`} defer></script>
       </head>
     )
   }

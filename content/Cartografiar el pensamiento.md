@@ -1,11 +1,12 @@
 ---
-title: "Cartografiar el pensamiento"
+title: Cartografiar el pensamiento
 estado: floresta
 tags:
   - floresta
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: '"116741837352884716"'
 ---
 
 [Alterciclo](https://alterciclo.wordpress.com/2019/10/14/cartografiar-el-pensamiento/)
@@ -44,47 +45,50 @@ Las cartografías también pueden ser listas de palabras ordenadas con la funci�
 
 A continuación, una lista de algunos sistemas cartográficos y organizadores gráficos útiles:
 
-##•	Taxonomías
-•	Diccionarios
-•	Taxonomía de Bloom
-##•	Cuadros cartesianos
-•	Diagrama de Pareto
-•	Cuadro comparativo
-•	Matriz de Eisenhower
-##•	Esquemas para tiempo y procesos
-•	Diagrama de flujo
-•	Cadena de secuencias
-•	Diagrama de ruta crítica o malla de Pert
-•	Diagrama de Gantt
-•	Cronograma
-•	Calendario
-•	Línea del tiempo
-•	[[Música y complejidad|Pentagrama]]
-##•	Mallas de relaciones
-•	Red conceptual
-•	Mapa mental
-•	Esquema rizomáticos
-##•	Cartografías de sensaciones
-•	Mandalas y representaciones del espíritu
-•	Algunas expresiones artísticas
-•	Sudokus, crucigramas y juegos de palabras
-##•	Diagramas jerárquicos
-•	Diagramas de árbol
-1.	Árbol de problemas
-2.	Árbol genealógico
-•	Organigrama
-•	Diagramas piramidales
-•	Cuadro conceptual
-•	Cuadro sinóptico
-##•	Representaciones objetuales y espaciales
-•	Plano espacial
-•	Infografía
-•	Mapas territoriales
-##•	Diagramas lógicos y matrices
-•	Esquemas algorítmicos
-•	Grupo de Klein
-1.	[[Bibliografía|La escultura del campo expandido de Rosalind Krauss]]
-2.	[[Bibliografía|Sistema de arte y cultura de James Clifford]]
-•	Taypi y lo Chix’i de Silvia Rivera Cusicanqui
-•	Diagrama de Venn
-•	Matriz de datos
+- Taxonomías
+	- Diccionarios
+	- Taxonomía de Bloom
+- Cuadros cartesianos
+	- Diagrama de Pareto
+	- Cuadro comparativo
+	- Matriz de Eisenhower
+- Esquemas para tiempo y procesos
+	- Diagrama de flujo
+	- Cadena de secuencias
+	- Diagrama de ruta crítica o malla de Pert
+	- Diagrama de Gantt
+	- Cronograma
+	- Calendario
+	- Línea del tiempo
+	- [[Música y complejidad|Pentagrama]]
+- Mallas de relaciones
+	- Red conceptual
+	- Mapa mental
+	- Esquema rizomáticos
+- Cartografías de sensaciones
+	- Mandalas y representaciones del espíritu
+	- Algunas expresiones artísticas
+	- Sudokus, crucigramas y juegos de palabras
+- Diagramas jerárquicos
+	- Diagramas de árbol
+		- 1.	Árbol de problemas
+		- 2.	Árbol genealógico
+	- Organigrama
+	- Diagramas piramidales
+	- Cuadro conceptual
+	- Cuadro sinóptico
+- Representaciones objetuales y espaciales
+	- Plano espacial
+	- Infografía
+	- Mapas territoriales
+- Diagramas lógicos y matrices
+	- Esquemas algorítmicos
+	- Grupo de Klein
+		- [[Bibliografía|La escultura del campo expandido de Rosalind Krauss]]
+		- [[Bibliografía|Sistema de arte y cultura de James Clifford]]
+		- Taypi y lo Chix’i de Silvia Rivera Cusicanqui
+	- Diagrama de Venn
+	- Matriz de datos
+
+<h2>Comentarios</h2>
+<div id="mastodon-comments" data-status-id="{{ page.params.toot_id }}"></div>
