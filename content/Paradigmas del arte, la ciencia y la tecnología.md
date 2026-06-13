@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2018/05/24/paradigmas-del-arte-la-ciencia-y-la-tecnologia/))
 
 *La necesidad de promover el diálogo entre las ramas del saber.*
@@ -44,3 +44,8 @@ Las herramientas desarrolladas en las esferas de la ciencia y la tecnología son
 Afortunadamente el diálogo comienza a dejar de parecer un murmullo, y ya se escuchan voces cantantes como Neil Harbisson o Donna Haraway que se paran desde una postura transhumanista que reivindica tanto la ciencia como el arte en busca de dar un siguiente paso en el devenir humano.
 
 Es prácticamente una verdad absoluta que el mundo que nos rodea ha sido el resultado de la comunión entre arte, ciencia y tecnología, por lo que es definitivamente una necedad que los científicos se atiborren en su laboratorio sin ver jamás una pintura, y mayor necedad aun, que los artistas desconozcan las tecnologías que posibilitan su trabajo y que se desarrollan día tras día, dejando abierta la posibilidad de nuevas reflexiones y nuevas perspectivas.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

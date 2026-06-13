@@ -5,8 +5,8 @@ tags:
   - micelio
 publish: false
 origen: quirocinesis
+toot_id: ""
 ---
-
 Crujió un palo, o acaso un hueso
 cuando la primera artesana
 transformó sus pulsiones de futuro
@@ -25,3 +25,8 @@ El Valle del Rift es cuna y tumba,
 aquella gran grieta manifestó el Edén.
 Donó toda potencia para desplegarnos.
 Es la fractura poiética por excelencia
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

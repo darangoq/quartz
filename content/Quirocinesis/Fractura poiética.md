@@ -6,6 +6,7 @@ tags:
   - floresta
 publish: true
 origen: quirocinesis
+toot_id: ""
 ---
 Crujió un palo, o quizá un hueso, cuando la primera artesana transformó sus pulsiones de futuro en la herramienta primera. Su eco vibra todavía amplificado en los límites de las posibilidades materiales y de las necesidades y deseos humanos. Resuena en el arado arrastrado por la tierra, en el susurro del hilo entre la trama y la urdimbre, en el chapoteo de una sopa hirviendo, en el horno ardiente, en el zumbido del bombillo encendido sobre la labor del quirurgo.
 
@@ -62,3 +63,8 @@ El carácter político de los cuerpos y sus juegos en la fractura poiética
 Dentro de la jerga musical occidental puede trazarse un paralelo donde la fractura poiética corresponde a la cadencia, un intersticio de improvisación apoyada en la técnica dirigido a la resolución de las tensiones tonales.
 
 La grieta abierta tras el debilitamiento de los vínculos creativos en la cultura material, la aceleración de la vida contemporánea y la ruptura de los lazos comunitarios en el marco del capitalismo. La fractura surge cuando la danza delicada de la mano creadora es sustituída por la mecanización del gesto. El desgarro queda confirmado cuando la mano pierde su capacidad creativa, gestual y sensible.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

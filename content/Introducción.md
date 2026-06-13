@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 Radiscente ha sido una apuesta por atar cabos, una búsqueda de sentido instigada por los diferentes procesos que he vivido. Es, de hecho, una declaración sobre mi identidad en relación con la cultura y al mismo tiempo una sentencia del agente cultural situado en el contexto y los cuerpos que habito.
 
 Este articulado fue concebido aprovechando la potencia plástica de la palabra y el tejido. Fundí aquellos insumos en cientos de líneas de código para dar vida a un documento vivo, un hipertexto tautológico construido a modo de sistema complejo.
@@ -30,3 +30,8 @@ El rizoma de cemento a su vez sostiene cuatro piezas figurativas tejidas en alam
 Una instalación complementaria está colgada del techo. Está conformada por un tejido en alambre de cobre y tres pantallas circulares. Si el rizoma de cemento es una metáfora de la experiencia, el de techo se apoya en la reflexión por los sistemas complejos y sus fenómenos emergentes. La red de cobre, ligera visualmente, abraza tres planos sobre los que se proyecta una programación de cognados. Los dispositivos de interacción permiten reducir la velocidad, llamar la atención y cambiar las listas de palabras proyectadas. Los cuerpos de los observadores son parte activa de la instalación total.
 
 Radiscente es una cualidad que he impreso en texto y materia. Extiendo mi invitación a perderse en los rizomas que he dispuesto y a continuar su construcción a través de la vinculación de los cuerpos.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

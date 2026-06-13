@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2019/08/11/las-buenas-practicas-artisticas/)
 
 *No es cuestión de etiqueta ni de moralidad todo lo referente a establecer una buena práctica artística.*
@@ -34,3 +34,8 @@ Tanto la violencia como el humor posibilitan [[Interconexión|intercambios]] en 
 Las buenas prácticas artísticas tratan entonces de fomentar la consciencia en nuestras relaciones con los demás [[Agenciamiento cultural|agentes culturales]], con los proyectos y las obras y con el ecosistema social. Esto quiere decir fundar una especie de ética del trabajo cultural, sabiendo cuándo romper los límites, reconociendo al otro y a la [[Cuerpo|comunidad]] como interlocutores de nuestras acciones, poniendo en nuestros propios proyectos el rigor necesario y cimentándolos en la empatía.
 
 Debemos por tanto asumir estos roles y actuar en consecuencia con nuestros colegas, en entornos de validación y evaluación, en la mediación con los públicos y en las relaciones donde hay aplicación de poder. En adición, trabajar con el mayor rigor con nuestra propia obra, y acercarnos con empatía al flujo de la [[Crítica|crítica]].
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

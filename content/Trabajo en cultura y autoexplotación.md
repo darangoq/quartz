@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2019/06/16/trabajo-en-cultura-y-autoexplotacion/)
 
 *El contexto y el sistema en el que nos movemos los que optamos por trabajar en la cultura nos puede poner en contra de nosotros mismos.*
@@ -36,3 +36,8 @@ Destruir el sistema es un pensamiento utópico. Salirse del sistema, por otra pa
 Volcar esta locomotora y movilizarla como un aparato de resistencia requiere de un conocimiento juicioso y crítico sobre su mecánica interna. De esta forma, podemos encontrar que el propio maquinista, uno mismo, puede pasar de ser un sujeto del rendimiento a un conductor de su propio deseo.
 
 Por lo tanto, esta reflexión invita a pensar en uno mismo, en las propias necesidades, en la relación de esas necesidades respecto a los sistemas que actúan sobre uno, en los sistemas de productividad, en el contexto en el que uno puede operar y en las políticas que están ejerciendo un peso adicional sobre las decisiones y circunstancias que uno asume. Con todo este conocimiento maleable, se pone en cuestión la autoexplotación y es viable establecer la búsqueda de alternativas para poner todo el sistema a nuestro favor.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

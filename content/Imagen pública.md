@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [[Presencia digital]]
 [[Tautología]]
 [[Autorrepresentación]]
@@ -21,3 +21,8 @@ fecha_origen: 2019
 [[Creación y autorreferencialidad]]
 [[Las buenas prácticas artísticas]]
 [[Memorias]]
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

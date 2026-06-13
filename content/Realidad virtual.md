@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [[Internet]]
 [[Potencia]]
 [[Cuerpo]]
@@ -16,3 +16,8 @@ fecha_origen: 2019
 [[Memoria]]
 [[Nativo digital]]
 [[Autenticidad]]
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

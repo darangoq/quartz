@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2019/11/11/musica-y-complejidad/)
 
 *La belleza de la música reside en la intrincada red de sus elementos puestos en tensión con el cuerpo.*
@@ -36,3 +36,8 @@ Nada de esto habría sido posible sin la claridad de una matemática musical ase
 Los sistemas de notación no están estancados. Durante la investigación plástico musical del siglo XX las notaciones oníricas de Satie fueron transformándose en complejos mapas trazados por Varese, Xenakis o John Cage. La representación de un sistema complejo es un arma de doble filo, permite su estudio, pero lo agota, del mismo modo en el que los pentagramas de doce notas fueron insuficientes ya en 1930.
 
 La materialización de un sistema complejo, sea música o sea cual sea, contiene una potencia que aflora en los cuerpos a través de la experimentación y que se concreta en el mundo por medio de un acto creativo. Las músicas conjuran [[Cartografiar el pensamiento|rizomas]].
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

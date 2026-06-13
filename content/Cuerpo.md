@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [[Autorrepresentación]]
 [[Identidad]]
 [[Fragmento]]
@@ -15,3 +15,8 @@ fecha_origen: 2019
 [[Autenticidad]]
 
 [[Los cuatro cuerpos]]
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

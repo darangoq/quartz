@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 ### [[La experiencia y la obra]]
 
 [[Potencia]]
@@ -22,3 +22,8 @@ fecha_origen: 2019
 [[Paradigmas del arte, la ciencia y la tecnología]]
 [[3 funciones del arte y la cultura]]
 [[Las buenas prácticas artísticas]]
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2018/04/15/3-funciones-del-arte-y-la-cultura/)
 
 *Y… ¿Acaso el arte sirve para algo?*
@@ -41,3 +41,8 @@ De este modo, un artista o productor de cultura debe asumir la responsabilidad d
 De esta forma, la imagen ha sido usada desde siempre aprovechando su valor pedagógico, y así han llegado hasta nosotros narraciones extraordinarias, colores sobre la roca desgastados por el tiempo pero que revelan el pensamiento complejo de sus productores, sonidos emitidos lamentando la muerte sobre la estela de Seikilos.
 
 Esta es una invitación a seguir buscando el significado de nuestra labor. La cultura de los pueblos humanos se asienta en un pasado construido por la tradición, florece en las acciones cotidianas de sus agentes y proyecta su legado a través de la técnica y la poética. Teniendo en cuenta [[Prácticas plásticas desde el Sur para resistir al Arte|nuestras responsabilidades]], no volveremos a enmudecer cuando nos ataquen con preguntas que cuestionen nuestro valor de desarrollarnos en un campo vilipendiado pero indispensable para el equilibrio social. Después de asumir conscientemente nuestra responsabilidad, encontraremos el apoyo necesario para continuar ejerciendo nuestra pasión.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

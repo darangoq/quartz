@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 El [[Cuerpo|cuerpo]] es un sistema complejo multidimensional. Excede, por lo tanto, la capacidad de comprensión de cualquier ente, sin embargo, es posible hacer una disección para separar en cuatro grandes cuerpos, cada uno con sus laberintos, para hallar las direcciones a las que apunta el estudio de la [[Identidad|identidad]] y el [[Agenciamiento cultural|agenciamiento]].
 
 El primero de los cuerpos es el más obvio dentro de la [[Experiencia|experiencia]] humana. Es el que llamamos cuerpo en el día a día, aquel compuesto de carne y vísceras que vestimos y acariciamos. El cuerpo físico es el contenedor por excelencia, nos restringe a un ciclo circadiano y nos ata a un espacio delimitado por la piel.
@@ -19,3 +19,8 @@ Los siguientes cuerpos trascienden al individuo. El Tercer cuerpo es el social, 
 El cuarto cuerpo lo he llamado ecóico. Comparte [[Etimología|raíz]] con ecológico, relativo al estudio de la casa, y con económico, relativo a la administración de la casa. El cuerpo ecóico es aquel que abarca la totalidad de acciones posibles tanto en tiempo como en espacio. Es un cuerpo global, que supera a la misma humanidad. De todos los cuerpos, es un sistema cuya complejidad es infinitamente más profunda porque abarca todos los demás cuerpos, los contextos y la entropía.
 
 Estas propuestas someras permiten dilucidar una nube de fenómenos emergentes. Tejen una malla incierta, junto al tiempo y el espacio en el que habitan, que constituye una noción de realidad subjetiva y colectiva en la que fundamos tanto agenciamiento como [[Autenticidad|identidad]].
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

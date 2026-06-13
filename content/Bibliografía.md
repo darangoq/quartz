@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 - Cachia, A. (2013). [[Curador Qwerty|*'Disabling' the museum: Curator as infrastructural activist. Journal of Visual Art Practice, 12*]](3), 257 - 289.
 - Debord, G. (2005). [[Espectáculo|*La sociedad del espectáculo*]]. Valencia: Pre-textos.
 - Fontcuberta, J. (2010). [[Autorrepresentación|*La cámara de Pandora. La fotogtafía después de la fotografía*]]. Barcelona: Editorial Gustavo Gili.
@@ -30,3 +30,8 @@ fecha_origen: 2019
 - Simon, H. A. (1971). [[Mitologías de la atención|*Designing Organizations for an Information-Rich World*]]. Baltimore: M. Greenberg.
 - Sontag, S. (2006). [[Curador Qwerty|*Sobre la fotografía*]]. México, México: Alfaguara.
 - Ventzislavov, R. (2014). [[Curador Qwerty|Idle Arts: Reconsidering the Curator]]. (W. Blackwell, Ed.) *The Journal of Aesthetics and Art Criticism, 72*(1), 83 - 93.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

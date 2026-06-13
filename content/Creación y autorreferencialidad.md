@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2019/07/28/creacion-y-autorreferencialidad/)
 
 *Mirarse a sí mismo para crear es un poco más complejo que pararse frente al espejo.*
@@ -54,3 +54,8 @@ The Wall, al ser una obra de la esfera mercantil anglopop, es un referente senci
 Cuando se habla de [[Autorrepresentación|mirarse a sí mismo]], es preciso hablar del reconocimiento del propio cuerpo más allá de las fronteras de la carne. Lejos de las consideraciones iniciales sobre el interés de mi vida personal por parte de mi [[Imagen pública|público]], la autorreferencialidad se establece como un paso obligado para el establecimiento de relaciones sanas basadas en la empatía. Yo mismo me extiendo más allá de las fronteras de mi propia cognición, y por lo tanto mis acciones se escapan de mi control como arena entre los dedos. La contemplación activa de mis labores, mis memorias, mi contexto y el sistema que integro permite quebrantar la ingenuidad en la que se establece el patetismo y la autocrítica.
 
 En definitiva, satanizar a un creador autorreferente no va a erradicar la egolatría. Sin embargo, incentivar la mirada autoconsciente sí va a reflejarse en una transformación de los paradigmas personales que finalmente apuntalan la comunidad creativa cultural.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

@@ -6,6 +6,7 @@ tags:
   - floresta
 publish: true
 origen: quirocinesis
+toot_id: ""
 ---
 Contemplo el mundo entre las líneas y callos de mis manos. Veo a través de ellas la herencia de los gestos, las caricias y las tensiones. En ellas todo lo puedo, en ellas no sólo las mías; en ellas las manos todas. Sin embargo, la tectónica del sistema de este tiempo quebró las potencias: aquí deposito mi apuesta de resistencia.
 
@@ -16,3 +17,8 @@ La mano, entendida en su plena potencia desde las reflexiones de Juhani Pallasma
 Mi propuesta integra técnicas, expresiones, referentes y materiales de los tres oficios en una máquina-instalación. A partir del tejido en cobre de cuerdas sonoras dispongo un eje de exploración de las potencias de la mano y los cuerpos. La cuerda en su manufactura orfebre remite al piano, y a través de su arpa armónica, al telar de donde nació la lira. En torno a la instalación sitúo dispositivos de interacción con las cuerdas: mazos, campanas estetoscópicas, arcos y lanzaderas. Completo el montaje con el registro del repertorio de posibilidades de la mano: miniaturas, video y un manual técnico, manuscrito memorial del proceso plástico.
 
 Este manifiesto repotencia la agencia en medio de la fractura poiética. Persigo la Quirocinesis, el movimiento de la mano.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

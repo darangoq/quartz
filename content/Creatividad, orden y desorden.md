@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2019/05/26/creatividad-orden-y-desorden/)
 
 *Existe encanto en el flujo cotidiano de habitar y ordenar que puede detonar la creatividad.*
@@ -49,3 +49,8 @@ Sin embargo, desde una perspectiva del aquí y del ahora, la creatividad está m
 Como creadores en nuestro tiempo de ajetreo urbano no nos hace falta si quiera entrar en Internet para encontrar la información que potencialmente podremos convertir en una obra. La contemplación de la realidad y de los quehaceres saca a relucir la mucha o poca poesía del aquí y del ahora, por lo que con la suficiente humildad el olor de una magdalena puede arrojarnos encima todo el peso del mundo.
 
 Finalmente, no interesa si un espacio es ordenado o desordenado para ser creativo. Las cosas deben estar donde las necesitemos sin importar si son estéticamente coherentes con el canon moderno y ningún gurú del orden como Marie Kondo podrá dictar sentencia sobre nuestros espacios, aunque siempre podremos aprovechar sus consejos para tener un cajón de la ropa interior impecable. El entorno cotidiano debe contemplarse como un campo lúdico, de autoexploración y de reflexión crítica con el sistema que coedificamos. La creatividad puede estallarnos en la cara tan pronto escurramos el plato, cojamos la esponjilla y veamos un vórtice de agua espumosa descendiendo en el sifón.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

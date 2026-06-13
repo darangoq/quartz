@@ -6,6 +6,7 @@ tags:
   - floresta
 publish: true
 origen: quirocinesis
+toot_id: ""
 ---
 Atención, 
 Llamado a la [[Memoria|memoria]]
@@ -43,3 +44,8 @@ Siempre y ahora,
 Regístrese:
 
 [[Diatriba al trabajo]]
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

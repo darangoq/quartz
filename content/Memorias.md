@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 Mayo, 2019
 
 He sido usuario de computador desde 1995. Cuando nací, en mi casa ya se usaba el aparato activamente. Con 3 años ya tengo recuerdos claros de lo que significaba el uso de los PC, los disquetes y de jugar Prince en sistema DOS en una pantalla monocromática ámbar.
@@ -65,3 +65,8 @@ Aquella [[Autenticidad|imagen proyectada]] en la red ha sido completamente asumi
 El uso de las tecnologías de redes es ambivalente. Siendo Internet mi lugar de resistencia, también es el canal por el cual se ha instalado en mí la fatiga. En un ejercicio mental, si no hubiera crecido con esta vida [[Autenticidad|prostética]], sería probablemente más atormentado, estaría sin guía, no habría podido desarrollar muchas de las habilidades que poseo, aunque habría aprendido a disfrutar del aburrimiento. A la vez, tal vez, no se habrían instalado tan fácil en mí las dinámicas de la economía masoquista. No me habría acercado tanto al deseo de la prostitución, explotado de mi propia energía, y finalmente, percibiría el continuo existencial que he vivido y no sentiría que soy una colección de retazos.
 
 Soy [[Nativo digital|nativo digital]], porque mi pensamiento está indisolublemente ligado a los servidores. Tengo el don del [[Memoria|olvido]] a cambio de un poder de sistematización de la información que me rescata de la dismnesia.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

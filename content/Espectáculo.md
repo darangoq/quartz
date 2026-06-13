@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [[Redes sociales]]
 [[Internet]]
 [[Hiperactividad]]
@@ -19,3 +19,8 @@ fecha_origen: 2019
 [[Curador Qwerty]]
 
 [[Bibliografía|La sociedad del espectáculo]]
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

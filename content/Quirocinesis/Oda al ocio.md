@@ -6,6 +6,7 @@ tags:
   - floresta
 publish: true
 origen: quirocinesis
+toot_id: ""
 ---
 I
 Invocamos a las potencias ctónicas del territorio, la materia y las dimensiones sutiles entretejidas en los cuerpos para reclamar el ocio. Consagremos el intervalo entre suspiros, acariciemos el aburrimiento y contemplemos la gran grieta fértil ante nosotros.
@@ -21,3 +22,8 @@ IV
 Venimos a desobedecer, venimos todos. Caminamos sobre el barro sin rumbo, pero de la mano con la vida. Manos sensibles, manos danzantes, manos de afecto; manos-ala, manos-raíz, manos-tentáculo. Manos prestas a cultivar micelios universales.
 
 Nos rebelamos ahora y siempre. Suturemos en tiempo de ocio la brecha entre el universo simbólico y la materia. Somos quirurgos. Nuestro legado es un pleno horizonte.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

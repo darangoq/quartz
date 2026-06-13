@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2018/02/08/el-poder-de-la-conversacion/)
 
 *Grandes obras de la cultura han comenzado con una modesta charla en un pasillo.*
@@ -46,3 +46,8 @@ Fue en una charla de salón donde Mary Shelley aceptó el reto de escribir una h
 La idea más romántica del artista bohemio se inscribe perfectamente en los bajos fondos parisinos cuyos cabarets recibieron a los contertulios que se revelaron en contra del Salón de París y que fundaron el impresionismo. Acogieron también a los poetas malditos, a Toulouse Lautrec, a Satie y el grupo de les six, a Baudelaire, a van Gogh y a Picasso. Aquel momento fue tan denso en sus discusiones que todo el pensamiento del arte occidental instaurado durante siglos se replanteó desde sus bases e inició un período de auténticas revoluciones estéticas.
 
 De esta forma extiendo mi invitación a sumarse a la conversación para ver prosperar [[Objetividad, desapego, recursividad y resiliencia|nuevos proyectos]] que enriquezcan nuestro contexto y nos enlacen como comunidad.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

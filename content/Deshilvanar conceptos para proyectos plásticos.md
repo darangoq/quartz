@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2018/05/06/deshilvanar-conceptos-para-proyectos-plasticos-2/)
 
 *Porque crear no es cuestión de magia, damos consejos para desmenuzar conceptos aplicados al trabajo del artista.*
@@ -42,3 +42,8 @@ También, el tiempo dedicado no sólo a la investigación teórica, sino prácti
 A medida que cambia nuestro tablero, es conveniente tomar registro fotográfico. Esto permitirá evaluar el proceso y será un salvavidas en caso de cualquier eventualidad.
 
 Estas estrategias son maneras en las que pueden deshilvanarse las ideas, desenredar los conceptos para estructurar nuestro texto o discurso. Finalmente este tablero se convertirá en un tejido cuya trama y urdimbre se constituya en la cobija conceptual que nos arrope y que mantenga caliente nuestro [[Creatividad, orden y desorden|desarrollo artístico]].
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

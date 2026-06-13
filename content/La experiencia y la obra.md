@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2019/10/28/la-experiencia-y-la-obra/)
 
 *La creación de la obra y sus procesos es un eterno retorno a las memorias y la experiencia.*
@@ -43,3 +43,8 @@ Es en ese diálogo con nuestros sueños y con las [[Potencia|potencias]] y posib
 La obra con sus tiempos es la materialización y consolidación de la experiencia, y es el campo de experticia del artista.
 
 Báñate en el río, escala montañas, abre hoyos en el suelo y úntate de barro, colecciona vestigios de vidas prehistóricas y prepara tu argamasa en la inmensidad de los cuerpos que te arropan.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

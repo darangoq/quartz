@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2018/10/15/objetividad-desapego-recursividad-y-resiliencia/)
 
 *Trabajar en contextos hostiles, con todas las apuestas en contra, no es razón suficiente para no ponerse manos a la obra a la hora de llevar un proyecto cultural.*
@@ -55,3 +55,8 @@ Una vez identificado y descartado el elemento problemático, la **recursividad**
 Más allá de victimizarnos dentro de este contexto, debemos impregnarnos de la cuarta cualidad necesaria en los gestores culturales. La **resiliencia** es la propiedad que tiene un ente de resistir y sobreponerse a las tensiones ejercidas sobre sí. En esta vía, la resiliencia como condición del gestor resulta en la sumatoria de las cualidades anteriormente descritas y de una fuerza visceral que lleve a buen término los objetivos buscados, más allá de los obstáculos que puedan haber aparecido durante el proceso. La resiliencia implica adoptar una posición proactiva a pesar de la vida, y requiere entrenamiento, para lograr en simultáneo endurecer nuestra coraza y engrasar nuestra maquinaria.
 
 Un [[Trabajo colectivo|equipo de trabajo]] con estas cuatro facultades será prácticamente imparable, y podrá someterse a transitar por terrenos cenagosos, donde a pesar de los recursos limitados y de la incomodidad, pueda ser libre de desarrollar los proyectos más ambiciosos.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

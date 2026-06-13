@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2019/06/30/practicas-plasticas-desde-el-sur-para-resistir-al-arte/)
 
 *El advenimiento de la postmodernidad puede ayudarnos a romper los paradigmas del Arte desde el Sur.*
@@ -32,3 +32,8 @@ El devenir del Arte latinoamericano está chocando con el límite entre modernis
 De esta forma, el Arte deja de ser tenido en cuenta como una disciplina aprisionada por la práctica de la pintura, el dibujo, la escultura, la fotografía y sus miles de derivados; el Arte deja de ser un problema de la técnica a partir de una excusa conceptual. De hecho, el Arte deja de tener sentido al tiempo que el pensamiento en convivencia con el otro y con la materia plástica son asumidos por los otrora artistas.
 
 La sensibilidad artística que nos ha sido achacada durante decenios ahora es una herramienta más que tenemos para ponernos nosotros mismos a disposición de la edificación de lazos a nivel social y cultural dentro de nuestra comunidad. Por las [[Paradigmas del arte, la ciencia y la tecnología|circunstancias tecnológicas]] actuales, podemos extender las [[Tres modalidades para construir redes de apoyo en la cultura|redes]] más allá de donde podemos caminar, ya no para resistir, sino para construir.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

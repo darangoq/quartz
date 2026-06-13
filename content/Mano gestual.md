@@ -5,8 +5,8 @@ tags:
   - rizoma
 publish: false
 origen: quirocinesis
+toot_id: ""
 ---
-
 *Mano gestual, responde y reacciona al mundo. Mano Ala. Háptica y stimming. Las cuerdas, las velas, los tendones, el baile erótico.*
 
 Eres carne, eres nervio y eres hueso.
@@ -25,3 +25,8 @@ Señalas al mundo.
 Seduces al mundo.
 Mano de gesto.
 Mano danzante.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

@@ -7,8 +7,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2019/07/14/mitologias-de-la-atencion/)
 
 *Que pierdas el rastro de migas de pan en tus redes sociales no es tu culpa, pero es a propósito.*
@@ -50,3 +50,8 @@ Retornando al gráfico del inicio, vale la pena considerar eternizar la pregunta
 Es en la cultura que transcurre la vida misma más que en cualquier otro plano de la existencia. No vivimos en función de un [[Los cuatro cuerpos|cuerpo]] físico, sino de un sistema de relaciones cognitivas y sociales que lo contienen. Estas mismas interconexiones son capaces de modelar nuestra imagen, nuestros hábitos, nuestro estilo y al mismo tiempo, de dejarse influir por macrofactores que escapan del control de unas pocas personas y obedecen más a grandes sistemas que inocentemente o no, sacan provecho de cada órgano del tejido social.
 
 Estamos atravesados por una red virtual que ha comenzado a transfigurar nuestra propia [[Identidad|identidad]] después de haber dispuesto de nuestro tiempo a su antojo. Si existe un mito contemporáneo que relacione la culpa por el rendimiento y la manipulación sensual es el de la procrastinación. Es tan difícil escapar de aquel vórtice a menos que reconozcamos que todo ese peso es una imposición cultural y económica que nos ata las manos a la espalda, nubla la visión y enturbia el bienestar. A partir de la toma de consciencia es que comienza la vida.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

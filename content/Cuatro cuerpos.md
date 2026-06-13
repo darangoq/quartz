@@ -5,8 +5,8 @@ tags:
   - rizoma
 publish: false
 origen: quirocinesis
+toot_id: ""
 ---
-
 Los laberintos de tus metamorfosis dibujan el cuerpo. No eres tú un mero extremo. No tienes límite en la anatomía. Desbordas el nervio, el músculo y la piel. 
 Toda tu potencia es un cuerpo vibratil sin movimiento aparente, un cuerpo sutil.
 Transduces gesto, acción y movimiento, en forma de mano, pata o tentáculo, un cuerpo de carne.
@@ -22,3 +22,8 @@ Al segundo cuerpo no lo llamo inmanente por prudencia, prefiero referirme a él 
 Los siguientes cuerpos trascienden al individuo. El Tercer cuerpo es el social, y está conformado por toda clase de relaciones interpersonales de las que somos partícipes de forma directa. Es el cuerpo de la comunidad y nos pertenece tanto como nosotros le pertenecemos.
 El cuarto cuerpo lo he llamado ecóico. Comparte raíz con ecológico, relativo al estudio de la casa, y con económico, relativo a la administración de la casa. El cuerpo ecóico es aquel que abarca la totalidad de acciones posibles tanto en tiempo como en espacio. Es un cuerpo global, que supera a la misma humanidad. De todos los cuerpos, es un sistema cuya complejidad es infinitamente más profunda porque abarca todos los demás cuerpos, los contextos y la entropía.
 Estas propuestas someras permiten dilucidar una nube de fenómenos emergentes. Tejen una malla incierta, junto al tiempo y el espacio en el que habitan, que constituye una noción de realidad subjetiva y colectiva en la que fundamos tanto agenciamiento como identidad.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

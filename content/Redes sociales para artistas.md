@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2018/07/15/redes-sociales-para-artistas/)
 
 *Los escenarios culturales más representativos de nuestro tiempo se construyen con unos y ceros.*
@@ -105,3 +105,8 @@ Realmente es casi imposible escapar de los sistemas de vigilancia que nos somete
 Más allá de alarmarnos por la inevitable invasión, queda en nuestras manos apropiarnos de los recursos de los que disponemos de manera consciente y responsable.
 
 Las preguntas y discusiones que genera el encuentro de arte, cultura y redes sociales dan para [[Curador Qwerty|ríos de tinta]], y en teste contexto, de unos y ceros. Sin embargo, nada nos impide como prosumidores sacar el mejor partido de las apps y plataformas disponibles al final de nuestros dedos.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

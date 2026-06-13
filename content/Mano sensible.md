@@ -5,8 +5,8 @@ tags:
   - micelio
 publish: false
 origen: quirocinesis
+toot_id: ""
 ---
-
 *Eres carne, eres piel y eres hueso.
 De un mar de mil azares naciste,
 y de raíz, pata y tentáculo,
@@ -26,3 +26,8 @@ Lees el mundo.
 Sientes el mundo.
 Mano de tacto.
 Mano sensible.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

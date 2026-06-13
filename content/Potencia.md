@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [[Realidad virtual]]
 [[Interconexión]]
 [[Experiencia]]
@@ -20,3 +20,8 @@ fecha_origen: 2019
 [[Música y complejidad]]
 
 *[[Bibliografía|¿Qué es lo virtual?]]*
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

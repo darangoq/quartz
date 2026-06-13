@@ -6,8 +6,8 @@ tags:
 publish: true
 origen: mapa-de-intuiciones
 fecha_origen: 2019
+toot_id: ""
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2017/11/02/tres-modalidades-para-construir-redes-de-apoyo-en-la-cultura/)
 
 *Está más que confirmado que en el mundo de la cultura, el individualismo no funciona.*
@@ -43,3 +43,8 @@ En cada reunión, cada integrante expone sus avances e inquietudes sobre sus pro
 Uno de los aportes más valiosos de esta modalidad es la [[Interdisciplinariedad|interdisciplinariedad]] de los integrantes y el enfoque metodológico con el que se abordan los problemas de los participantes. Personalmente considero que la aplicación de mastermind específicamente en el campo de la cultura puede traer muchos beneficios porque propone unas dinámicas concretas para formular discusiones no sólo alrededor de la gestión sino de la conceptualización de los problemas, y la oportunidad de adherir otras disciplinas al grupo convierten a esta modalidad en una mina de oro.
 
 Es imposible brillar en cada actividad que realicemos. Establecer comunidades potencia las habilidades de cada individuo. Buscar la manera en la que podamos aportar al campo de la cultura no sólo es una responsabilidad, sino también una oportunidad para consolidar las redes de apoyo necesarias para trabajar, crear y vivir de nuestros sueños convertidos en proyectos.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>

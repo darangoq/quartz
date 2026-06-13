@@ -5,8 +5,8 @@ tags:
   - rizoma
 publish: false
 origen: quirocinesis
+toot_id: ""
 ---
-
 Simbiosis en la poiesis.
  Hacerse a sí mismo es insuficiente.
  La autonomía no es independencia, el aislamiento es una condena.
@@ -17,3 +17,8 @@ Simbiosis en la poiesis.
  Un tremor profundo del suelo, el agua y sus vivientes; un murmullo de movimientos y mutaciones; todas las vibraciones agitan el mundo, lo estremecen por simpatía.
  Los afectos ligan la deriva de la pulsión de futuro.
  La gran sinergia motriz del palpitar del quirurgo.
+
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>
