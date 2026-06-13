@@ -8,7 +8,7 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 ---
 
-###[[La experiencia y la obra]]
+### [[La experiencia y la obra]]
 
 [[Potencia]]
 [[Trabajo colectivo]]

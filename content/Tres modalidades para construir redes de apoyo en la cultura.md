@@ -20,19 +20,19 @@ Y es que los [[Agenciamiento cultural|agentes partícipes]] de la cultura, ya se
 
 A continuación tres modalidades en las que podemos fortalecer nuestros planes apoyados en el capital social:
 
-##El mentor
+## El mentor
 
 Existen episodios en la vida de los niños en los que se adquiere un conocimiento muy valioso de un adulto significativo. El mentor, sin importar la edad que tenga, es esa persona que aporta experiencia. A parte de ahorrarnos frustraciones, nos enseña a mirar más allá de nuestras propias capacidades y de alguna forma apadrina nuestros pasos.
 
 Siempre es bueno realizarse la pregunta de quiénes son aquellas personas que nos aportan valor desde su [[Experiencia|experiencia]] en nuestros mismos campos de trabajo y a quiénes consideramos mentores. Aquellos maestros serán luz y guía a cada momento. Si no hay nadie en el panorama que cumpla con los requisitos, más vale abrir los ojos y comenzar a aprender de las personas más experimentadas y de quienes más admiremos.
 
-##El colectivo
+## El colectivo
 
 Otra modalidad común, aunque tiene mayores posibilidades de las que aparenta. En las artes escénicas es bien sabido que sin [[Trabajo colectivo|trabajo en grupo]] difícilmente pueda haber resultados. Sin embargo, el colectivo va más allá de una simple reunión de colegas para construir un proyecto común. La mirada que propongo al respecto de los colectivos implica la asociación entre varios agentes culturales, tengan o no un proyecto en común, que se apoyan mutuamente aportando cada uno sus experiencias y habilidades en distintos campos.
 
 De esta forma, en un colectivo de cinco integrantes cada uno puede desarrollar su proyecto personal, pero estará respaldado por los demás para superar de forma eficiente cada uno de los obstáculos por ejemplo gestionando espacios, consultando materiales, o consiguiendo patrocinios. El propósito de los colectivos es sumar destrezas y complementar fuerzas.
 
-##El mastermind
+## El mastermind
 
 Se dice que Andrew Carnegie, el mismo del Carnegie Hall y de la industria del acero, tenía un mastermind compuesto por alrededor de 50 de las mentes más productivas de la economía a inicios del siglo XX. Podría pensarse en esta modalidad como un club de emprendedores de diferentes áreas profesionales reunido en torno a la [[El poder de la conversación|discusión]] conceptual de los proyectos y como grupo de apoyo en el desarrollo de las iniciativas de cada uno de los participantes.
 

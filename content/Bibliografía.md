@@ -12,7 +12,7 @@ fecha_origen: 2019
 - Cachia, A. (2013). [[Curador Qwerty|*'Disabling' the museum: Curator as infrastructural activist. Journal of Visual Art Practice, 12*]](3), 257 - 289.
 - Debord, G. (2005). [[Espectáculo|*La sociedad del espectáculo*]]. Valencia: Pre-textos.
 - Fontcuberta, J. (2010). [[Autorrepresentación|*La cámara de Pandora. La fotogtafía después de la fotografía*]]. Barcelona: Editorial Gustavo Gili.
-- García, A. (2019). [[Redes sociales|*Homo Velamine (Vols. #14 Post-arte. La obra de arte en la era de la comunicación digital)*]]. Madrid: Homo Velamine.
+- García, A. (2019). [[Redes sociales|*Homo Velamine (Vols. N.14 Post-arte. La obra de arte en la era de la comunicación digital)*]]. Madrid: Homo Velamine.
 - Gilles Deleuze, F. G. (2002). [[Cartografiar el pensamiento|*Mil mesetas. Capitalismo y esquizofrenia*]]. Valencia: Pre-textos.
 - Han, B.-C. (2012). [[Trabajo en cultura y autoexplotación|*La sociedad del cansancio*]]. Barcelona: Herder Editorial, S. L.
 - Hunt, A. (Oct de 2015). [[Curador Qwerty|Curator, Curation, Curationism.]] *Art Monthly*(390), 13 - 16.

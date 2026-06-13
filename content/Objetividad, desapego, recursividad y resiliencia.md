@@ -24,23 +24,23 @@ Sin embargo, la falta de recursos económicos no será el único tipo de problem
 
 Antes que dejarse vencer por los obstáculos que presenta el panorama, cualquier agente cultural que tenga en sus manos un proyecto debe tener en cuenta una serie de conceptos que facilitarán la detección de posibles riesgos, y revestirse de un cuarteto de cualidades que pondrá en marcha las actividades en un contexto todo terreno.
 
-##Proceso de evaluación constante
+## Proceso de evaluación constante
 
 Prevenir es mejor que curar. Manteniendo bien abiertos los ojos, es posible notar las áreas que puedan estar presentando problemas. Es conveniente implementar herramientas que nos ayuden a detectar los problemas antes de que sucedan. Un proceso de evaluación constante nos permite anticipar toda calamidad u oportunidad de forma que podamos sacar siempre el mejor provecho de cualquier situación que enfrentemos en el proyecto que tengamos entre manos.
 
-##Ley de Parkinson
+## Ley de Parkinson
 
 En anteriores artículos hemos hablado del principio de Pareto, donde el 20% de nuestro tiempo lo invertimos en los procesos que nos aportan el 80% de las utilidades. Los problemas no sólo existen en forma de imprevistos y molestias ociosas. Muchas veces, podemos invertir mejor nuestra energía en áreas específicas que nos dan mejores resultados con menor esfuerzo. Los procesos de evaluación deben permitirnos detectar estas áreas para reforzar los sectores más fuertes, o incluso para abortar áreas de trabajo del proyecto que trituran recursos sin que exista una retribución real.
 
-##Detectar los procesos que interrumpen el flujo adecuado del proyecto
+## Detectar los procesos que interrumpen el flujo adecuado del proyecto
 
 En ocasiones la detección estos procesos se dificulta ya que suelen ser partes del proyecto con las que tenemos un vínculo emocional, o sin los que sencillamente no podemos concebir la consecución de los objetivos marcados. Sin embargo, la realidad es que son los objetivos los que determinan de manera racional aquello que debemos conseguir con nuestras acciones y no necesariamente bajo metodologías rígidas y mucho menos regidas por apegos sentimentales.
 
-##Los objetivos pueden alcanzarse mediante diferentes estrategias
+## Los objetivos pueden alcanzarse mediante diferentes estrategias
 
 Al momento de formular los planes del proyecto, lo único que realmente no puede cambiar es el objetivo general porque de lo contrario todo el trazado se desvirtúa. Más allá de esto, todos los elementos de la formulación de un proyecto son hasta cierto grado flexibles. De este modo, es posible la aplicación de diferentes estrategias para la consecución de nuestras metas tan pronto como debamos detener algún proceso que nos impida efectuar correctamente el trabajo.
 
-##La búsqueda constante de alternativas
+## La búsqueda constante de alternativas
 
 En este sentido, nunca sobra una actitud mesuradamente soñadora donde se efectúe la búsqueda constante de alternativas que puedan conducirnos a un mejor estado de los procesos que efectuemos. Esta indagación más allá de erigirse como una necesidad imperante en la urgencia, debe ser una labor efectuada con miras a la mejora de la productividad y el aprovechamiento tanto de nuestra energía como de los recursos físicos y monetarios disponibles, pero peligrosamente finitos.
 

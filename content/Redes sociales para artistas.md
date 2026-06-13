@@ -28,7 +28,7 @@ Este paraíso que acabo de pintar obviamente no es tan perfecto y más adelante 
 
 Después de este brochazo que nos contextualiza En el aquí y el ahora de los unos y ceros, ¿para qué nos pueden servir las [[Redes sociales|redes sociales]]? Muy superficialmente es posible contemplar tres frentes de [[Vínculo|comunicación, divulgación y circulación]] y uno de producción que los diferentes agentes de la cultura pueden aprovechar para distintos fines.
 
-##Mostrarse al mundo
+## Mostrarse al mundo
 
 La primera área en la que podemos sacarle el jugo a las redes sociales es sin lugar a duda, mostrando un abrebocas de lo que nosotros mismos hacemos. Los portafolios y maquetas siguen abandonando los formatos análogos para subirse a la nube y no sólo por un asunto económico y ecológico.
 
@@ -36,7 +36,7 @@ La posibilidad de compartir con nuestro [[Tres modalidades para construir redes 
 
 Cabe aclarar, y más adelante lo reiteraré, que tampoco es bueno exagerar, y que desconocer el funcionamiento de las plataformas puede costarnos más que un dolor de cabeza si nos damos cuenta de que es perfectamente legal que una multinacional se lucre con nuestro trabajo y que no podamos hacer nada al respecto.
 
-##Haciendo contacto
+## Haciendo contacto
 
 Dejando de lado esta cara aterradora que nos amenaza cada 5 párrafos, el segundo frente de trabajo en las redes sociales es el de establecer [[El poder de la conversación|comunicaciones]] tanto con el público, como con colegas y con instituciones.
 
@@ -62,7 +62,7 @@ En un contexto tradicional, este momento representa el instante Enel que los vis
 
 Para los términos del marketing de internet se usa un anglicismo como no podía ser de otra manera. El engagement muchas veces usado como uno de los indicadores más importantes dentro del análisis del comportamiento del público.
 
-##Monetización y formas de ganar dinero como artista
+## Monetización y formas de ganar dinero como artista
 
 La tercera vía por la que podemos hacer uso de redes sociales implica transacciones electrónicas, y no me refiero a comprar seguidores sino a cómo podemos monetizar nuestro esfuerzo vía internet.
 
@@ -74,11 +74,11 @@ Otra de las vías para monetizar nuestro esfuerzo en redes sociales es el uso de
 
 La publicidad es una forma más para recibir ingresos, sin embargo, depende sobre todo del volumen de visitantes que una persona pueda tener en sus perfiles. La fantasía dorada de la generación Z es poder vivir como influencer. Es una vía aceptable, pero el trabajo es arduo y no es tan inocente como parece ser.
 
-##El Web Art y el arte para redes sociales
+## El Web Art y el arte para redes sociales
 
 Retomando los frentes de los que hablaba, la vía de producción requeriría una saga completa de artículos, por lo que sólo puedo anotar que las redes sociales son lienzos en blanco sobre los que podemos trabajar directamente como medio plástico. Las [[Paradigmas del arte, la ciencia y la tecnología|posibilidades tecnológicas]] para fundar obra en una u otra plataforma han llevado a poner en marcha proyectos culturales enfocados en la web 2.0.
 
-##Las estrategias
+## Las estrategias
 
 En este momento surge la incógnita de cómo debemos proceder en las redes sociales
 
@@ -88,7 +88,7 @@ De igual forma, la regulación de derechos de autor nos puede hacer tropezar en 
 
 La web 2.0 está migrando a la 3.0 consistente en una inmersión multimedial en la red. La condición multimedia de las redes sociales en la actualidad nos exige apoyarnos en la imagen, el texto, el sonido y el video, por lo que no está demás indagar en cada una de estas áreas, llamar a un amigo y abrir el espectro de conocimientos más allá de la disciplina que tengamos.
 
-##El lado oscuro de las redes sociales
+## El lado oscuro de las redes sociales
 
 Sin embargo no todo lo referente a redes sociales es el paraíso en la nube. Todo usuario de las diferentes plataformas debe ser consciente de que se está dando de alta en un servicio en la mayoría de los casos privado y que tiene unas dinámicas propias de generar ingresos con cada nuevo usuario.
 

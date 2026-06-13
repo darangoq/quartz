@@ -80,7 +80,7 @@ Está así demostrado que existe terreno fértil para la reflexión en torno al 
 
 Deposito pues la discusión de este escrito, entre puntos suspensivos.
 
-##Referencias
+## Referencias
 
 * Cachia, A. (2013). *'Disabling' the museum: Curator as infrastructural activist*. Journal of Visual Art Practice, 12(3), 257 - 289.
 * Hunt, A. (Oct de 2015). *Curator, Curation, Curationism*. Art Monthly(390), 13 - 16.
