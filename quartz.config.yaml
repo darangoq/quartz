@@ -203,11 +203,22 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: github:quartz-community/comments
-    enabled: false
+ - source: github:quartz-community/comments
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: darangoq/quartz
+        repoId: R_kgDOS3R5XA
+        category: Ideas
+        categoryId: DIC_kwDOS3R5XM4C_ERx
+        mapping: pathname
+        strict: "0"
+        reactionsEnabled: "1"
+        inputPosition: top
+        theme: preferred_color_scheme
+        lang: es
+        loading: lazy
     layout:
       position: afterBody
       priority: 10
