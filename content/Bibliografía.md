@@ -1,5 +1,6 @@
 ---
 title: "Bibliografía"
+slug: bibliografia
 estado: floresta
 tags:
   - floresta

@@ -1,5 +1,6 @@
 ---
 title: "Metáfora"
+slug: metafora
 estado: micelio
 tags:
   - micelio

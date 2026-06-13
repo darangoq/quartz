@@ -1,5 +1,6 @@
 ---
 title: "Las buenas prácticas artísticas"
+slug: las-buenas-practicas-artisticas
 estado: floresta
 tags:
   - floresta

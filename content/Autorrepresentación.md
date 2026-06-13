@@ -1,5 +1,6 @@
 ---
 title: "Autorrepresentación"
+slug: autorrepresentacion
 estado: rizoma
 tags:
   - rizoma

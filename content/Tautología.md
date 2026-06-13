@@ -1,5 +1,6 @@
 ---
 title: "Tautología"
+slug: tautologia
 estado: micelio
 tags:
   - micelio

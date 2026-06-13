@@ -1,5 +1,6 @@
 ---
 title: "Retroalimientación sociocultural"
+slug: retroalimientacion-sociocultural
 estado: espora
 tags:
   - espora

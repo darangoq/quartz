@@ -1,5 +1,6 @@
 ---
 title: "El poder de la conversación"
+slug: el-poder-de-la-conversacion
 estado: floresta
 tags:
   - floresta

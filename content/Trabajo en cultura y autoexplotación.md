@@ -1,5 +1,6 @@
 ---
 title: "Trabajo en cultura y autoexplotación"
+slug: trabajo-en-cultura-y-autoexplotacion
 estado: floresta
 tags:
   - floresta

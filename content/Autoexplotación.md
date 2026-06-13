@@ -1,5 +1,6 @@
 ---
 title: "Autoexplotación"
+slug: autoexplotacion
 estado: micelio
 tags:
   - micelio

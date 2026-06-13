@@ -1,5 +1,6 @@
 ---
 title: "Nota de aclaración"
+slug: nota-de-aclaracion
 estado: rizoma
 tags:
   - rizoma

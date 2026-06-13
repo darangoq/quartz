@@ -1,5 +1,6 @@
 ---
 title: "Opinión"
+slug: opinion
 estado: espora
 tags:
   - espora

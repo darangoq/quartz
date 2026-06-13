@@ -1,5 +1,6 @@
 ---
 title: "Reacción"
+slug: reaccion
 estado: espora
 tags:
   - espora

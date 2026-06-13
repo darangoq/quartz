@@ -1,5 +1,6 @@
 ---
 title: "Vínculo"
+slug: vinculo
 estado: rizoma
 tags:
   - rizoma

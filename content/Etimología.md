@@ -1,5 +1,6 @@
 ---
 title: "Etimología"
+slug: etimologia
 estado: micelio
 tags:
   - micelio

@@ -1,5 +1,6 @@
 ---
 title: "Interconexión"
+slug: interconexion
 estado: micelio
 tags:
   - micelio

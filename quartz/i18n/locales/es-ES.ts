@@ -22,8 +22,8 @@ export default {
       quote: "Cita",
     },
     backlinks: {
-      title: "Retroenlaces",
-      noBacklinksFound: "No se han encontrado retroenlaces",
+      title: "Enlaces entrantes",
+      noBacklinksFound: "No se han encontrado enlaces entrantes",
     },
     themeToggle: {
       lightMode: "Modo claro",
@@ -39,7 +39,7 @@ export default {
       createdWith: "Creado con",
     },
     graph: {
-      title: "Vista Gráfica",
+      title: "Grafo",
     },
     recentNotes: {
       title: "Notas Recientes",
@@ -57,7 +57,7 @@ export default {
       title: "Tabla de Contenidos",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `Se lee en ${minutes} min`,
+      readingTime: ({ minutes }) => `Lectura en ${minutes} min`,
     },
   },
   pages: {

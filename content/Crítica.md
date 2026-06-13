@@ -1,5 +1,6 @@
 ---
 title: "Crítica"
+slug: critica
 estado: floresta
 tags:
   - floresta

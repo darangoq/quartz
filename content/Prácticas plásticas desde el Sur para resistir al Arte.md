@@ -1,5 +1,6 @@
 ---
 title: "Prácticas plásticas desde el Sur para resistir al Arte"
+slug: practicas-plasticas-desde-el-sur-para-resistir-al-arte
 estado: floresta
 tags:
   - floresta

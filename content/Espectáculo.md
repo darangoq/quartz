@@ -1,5 +1,6 @@
 ---
 title: "Espectáculo"
+slug: espectaculo
 estado: micelio
 tags:
   - micelio

@@ -1,5 +1,6 @@
 ---
 title: "Paradigmas del arte, la ciencia y la tecnología"
+slug: paradigmas-del-arte-la-ciencia-y-la-tecnologia
 estado: floresta
 tags:
   - floresta

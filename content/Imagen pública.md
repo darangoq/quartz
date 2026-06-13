@@ -1,5 +1,6 @@
 ---
 title: "Imagen pública"
+slug: imagen-publica
 estado: micelio
 tags:
   - micelio

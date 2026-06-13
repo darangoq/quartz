@@ -1,5 +1,6 @@
 ---
 title: "Protección"
+slug: proteccion
 estado: rizoma
 tags:
   - rizoma

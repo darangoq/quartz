@@ -1,5 +1,6 @@
 ---
 title: "Mitologías de la atención"
+slug: mitologias-de-la-atencion
 estado: floresta
 tags:
   - floresta

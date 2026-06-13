@@ -1,5 +1,6 @@
 ---
 title: "Creación y autorreferencialidad"
+slug: creacion-y-autorreferencialidad
 estado: floresta
 tags:
   - floresta

@@ -1,5 +1,6 @@
 ---
 title: "Retroalimentación capitalista"
+slug: retroalimentacion-capitalista
 estado: espora
 tags:
   - espora

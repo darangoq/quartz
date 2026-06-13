@@ -1,5 +1,6 @@
 ---
 title: "Información"
+slug: informacion
 estado: micelio
 tags:
   - micelio

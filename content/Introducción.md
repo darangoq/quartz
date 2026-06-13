@@ -1,5 +1,6 @@
 ---
 title: "Introducción"
+slug: introduccion
 estado: floresta
 tags:
   - floresta

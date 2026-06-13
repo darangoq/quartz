@@ -76,7 +76,7 @@ article a:hover,
 
 // Explorador izquierdo
 .explorer-content ul li > a {
-  color: #3a6050 !important;
+  color: #4db896 !important;
   font-weight: 400 !important;
   text-decoration: none !important;
   border-bottom: none !important;
@@ -111,7 +111,7 @@ details.properties,
 
 // Scrollbar
 ::-webkit-scrollbar {
-  width: 4px;
+  width: 8px;
   background: transparent;
 }
 
@@ -130,6 +130,12 @@ details.properties,
 
 // Grafo
 .graph-outer {
-  background: #152121 !important;
+  background: transparent;
   border: 0.5px solid #1a2e26 !important;
+}
+
+//Breadcrumb
+.breadcrumb-container {
+  opacity: 0.35 !important;
+  font-size: 11px !important;
 }

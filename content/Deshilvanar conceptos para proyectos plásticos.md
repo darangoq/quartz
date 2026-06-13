@@ -1,5 +1,6 @@
 ---
 title: "Deshilvanar conceptos para proyectos plásticos"
+slug: deshilvanar-conceptos-para-proyectos-plasticos
 estado: floresta
 tags:
   - floresta

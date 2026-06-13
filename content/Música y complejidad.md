@@ -1,5 +1,6 @@
 ---
 title: "Música y complejidad"
+slug: musica-y-complejidad
 estado: floresta
 tags:
   - floresta

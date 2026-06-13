@@ -1,5 +1,6 @@
 ---
 title: "Atención"
+slug: atencion
 estado: espora
 tags:
   - espora

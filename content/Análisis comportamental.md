@@ -1,5 +1,6 @@
 ---
 title: "Análisis comportamental"
+slug: analisis-comportamental
 estado: espora
 tags:
   - espora
