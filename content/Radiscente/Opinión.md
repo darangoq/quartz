@@ -1,16 +1,15 @@
 ---
-title: "{{title}}"
-slug: 
+title: "Opinión"
+slug: opinion
 estado: espora
 tags:
   - espora
-publish: false
-origen: 
+publish: true
+origen: mapa-de-intuiciones
+fecha_origen: 2019
 toot_id: ""
 ---
-
-
-
+[[Sesgo cognitivo]]  
 
 <!-- 
 ---

@@ -1,16 +1,15 @@
 ---
-title: "{{title}}"
-slug: 
+title: "Análisis comportamental"
+slug: analisis-comportamental
 estado: espora
 tags:
   - espora
-publish: false
-origen: 
+publish: true
+origen: mapa-de-intuiciones
+fecha_origen: 2019
 toot_id: ""
 ---
-
-
-
+[[Conocimiento]]  
 
 <!-- 
 ---
