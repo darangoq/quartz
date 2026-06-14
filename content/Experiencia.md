@@ -23,7 +23,9 @@ toot_id: ""
 [[3 funciones del arte y la cultura]]
 [[Las buenas prácticas artísticas]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

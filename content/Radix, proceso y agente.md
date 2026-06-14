@@ -22,7 +22,9 @@ En un sentido gramatical, ***radiscente*** es un adjetivo que describe la capaci
 
 Finalmente, la [[Deshilvanar conceptos para proyectos plásticos|búsqueda de sentido]] en la que he quedado envuelto al preguntarme por la cultura, tiene esta característica radiscente. Las reflexiones resultantes son [[Teks|tejidos]] intrincados de conceptos, palabras e imágenes traducidas en gestos plásticos, virtuales y prácticos.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

@@ -15,7 +15,9 @@ toot_id: ""
 
 [[Creación y autorreferencialidad]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

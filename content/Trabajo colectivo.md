@@ -22,7 +22,9 @@ He pasado por proyectos que me [[Experiencia|enseñaron]] la importancia de suma
 [[Prácticas plásticas desde el Sur para resistir al Arte]]
 [[Objetividad, desapego, recursividad y resiliencia]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

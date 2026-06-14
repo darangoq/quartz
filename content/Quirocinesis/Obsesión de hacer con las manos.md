@@ -18,7 +18,9 @@ Entre azares hoy despierto. Escarbo la [[Memorias|memoria]] de mis manos y toco,
 
 Tengo ahora una colección de miniaturas. Un dechado mural de figuritas en hilo y metal; agujas, martillos, compases y lanzaderas; objetos fundidos y redes anudados. Los vestigios materiales son testigo del repertorio integrado en mi cuerpo. Mi mano es sensible a la temperatura del metal y a la textura de la fibra, siente el eco de los oficios de infinidad de otros cuerpos también míos. Ahora cargo con su historia y me es inevitable repetir sus gestos. Llevo a cuestas la obsesión por el hacer.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

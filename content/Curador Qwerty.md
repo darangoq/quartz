@@ -93,7 +93,9 @@ Deposito pues la discusión de este escrito, entre puntos suspensivos.
 * Suntag, S. (2006). *Sobre la fotografía*. México, México: Alfaguara.
 * Ventzislavov, R. (2014). *Idle Arts: Reconsidering the Curator*. (W. Blackwell, Ed.) The Journal of Aesthetics and Art Criticism, 72(1), 83 - 93.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

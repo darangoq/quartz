@@ -25,7 +25,9 @@ toot_id: ""
 
 [[Bibliografía|*La sociedad del espectáculo*]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

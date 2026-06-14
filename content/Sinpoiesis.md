@@ -18,7 +18,9 @@ Simbiosis en la poiesis.
  Los afectos ligan la deriva de la pulsión de futuro.
  La gran sinergia motriz del palpitar del quirurgo.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

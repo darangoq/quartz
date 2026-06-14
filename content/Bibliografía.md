@@ -31,7 +31,9 @@ toot_id: ""
 - Sontag, S. (2006). [[Curador Qwerty|*Sobre la fotografía*]]. México, México: Alfaguara.
 - Ventzislavov, R. (2014). [[Curador Qwerty|Idle Arts: Reconsidering the Curator]]. (W. Blackwell, Ed.) *The Journal of Aesthetics and Art Criticism, 72*(1), 83 - 93.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

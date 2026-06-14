@@ -13,7 +13,9 @@ La orfebrería era un apetito por expandir los límites del tejido. En una retro
 Recibí el taller de oficio tan similar y distante a la escuela de música. Cada maestro es un sólo cuerpo alquimista.
 Mis tres oficios devienen uno, la mano es mi centropunto.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

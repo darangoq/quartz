@@ -15,7 +15,9 @@ Las cicatrices de Plutón arderán por milenios, honramos las pérdidas con la n
 Las manos conectan las profundidades con el cielo: la manifestación disuelve la hiperrealidad del consumo y la producción; los afectos abren paso a la creación y a la contemplación.
 Cuando el telón de la ilusión caiga, cuando empuñemos nuestros destinos, cuando acariciemos nuestras manos, tenderemos redes de quirurgos.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

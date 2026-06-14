@@ -29,7 +29,9 @@ I lavori massacranti esistono perché i pesi e i compiti non sono equamente dist
 Io, per gli sfrutattori, non voglio fare niente, per la clase lavoratrice, alla quale mi onoro di appartenere, sono disposto a sacrificare la mia vita, ma per i padroni, non voglio fare un cazzo.
 Il solo pensiero di fare qualcosa per berlusconi, gia mi stanca. per chè io?
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

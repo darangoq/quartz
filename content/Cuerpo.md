@@ -16,7 +16,9 @@ toot_id: ""
 
 [[Los cuatro cuerpos]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

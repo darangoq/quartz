@@ -37,7 +37,9 @@ Volcar esta locomotora y movilizarla como un aparato de resistencia requiere de 
 
 Por lo tanto, esta reflexión invita a pensar en uno mismo, en las propias necesidades, en la relación de esas necesidades respecto a los sistemas que actúan sobre uno, en los sistemas de productividad, en el contexto en el que uno puede operar y en las políticas que están ejerciendo un peso adicional sobre las decisiones y circunstancias que uno asume. Con todo este conocimiento maleable, se pone en cuestión la autoexplotación y es viable establecer la búsqueda de alternativas para poner todo el sistema a nuestro favor.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

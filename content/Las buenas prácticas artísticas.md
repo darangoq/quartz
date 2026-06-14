@@ -35,7 +35,9 @@ Las buenas prácticas artísticas tratan entonces de fomentar la consciencia en 
 
 Debemos por tanto asumir estos roles y actuar en consecuencia con nuestros colegas, en entornos de validación y evaluación, en la mediación con los públicos y en las relaciones donde hay aplicación de poder. En adición, trabajar con el mayor rigor con nuestra propia obra, y acercarnos con empatía al flujo de la [[Crítica|crítica]].
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

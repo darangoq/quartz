@@ -10,7 +10,9 @@ toot_id: ""
 ---
 [[Mineras de datos]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

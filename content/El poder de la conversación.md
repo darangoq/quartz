@@ -47,7 +47,9 @@ La idea más romántica del artista bohemio se inscribe perfectamente en los baj
 
 De esta forma extiendo mi invitación a sumarse a la conversación para ver prosperar [[Objetividad, desapego, recursividad y resiliencia|nuevos proyectos]] que enriquezcan nuestro contexto y nos enlacen como comunidad.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

@@ -94,7 +94,9 @@ Dentro de la jerga musical occidental puede trazarse un paralelo donde la fractu
 
 La grieta abierta tras el debilitamiento de los vínculos creativos en la cultura material, la aceleración de la vida contemporánea y la ruptura de los lazos comunitarios en el marco del capitalismo. La fractura surge cuando la danza delicada de la mano creadora es sustituída por la mecanización del gesto. El desgarro queda confirmado cuando la mano pierde su capacidad creativa, gestual y sensible.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

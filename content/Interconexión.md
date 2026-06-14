@@ -18,7 +18,9 @@ toot_id: ""
 [[Tres modalidades para construir redes de apoyo en la cultura]]
 [[El poder de la conversación]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

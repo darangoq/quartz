@@ -18,7 +18,9 @@ La auténtica identidad, traspasa el debate sobre lo verdadero, queda manifiesta
 [[Memoria]]
 [[Cuerpo]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

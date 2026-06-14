@@ -16,7 +16,9 @@ toot_id: ""
 [[Las buenas prácticas artísticas]]
 [[Prácticas plásticas desde el Sur para resistir al Arte]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

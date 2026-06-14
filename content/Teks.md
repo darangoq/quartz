@@ -12,7 +12,9 @@ tectónico, arquitectura, arquitecto, técnica, técnico, tecnócrata, tecnolog�
 
 *Teks* del protoindoeuropeo para tejer, fabricar o ensamblar. La familia de términos derivados de esta [[Etimología|raíz]] aglomera relaciones y [[Cartografiar el pensamiento|redes]] ineludibles en la construcción de [[Agenciamiento cultural|agencias]].
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

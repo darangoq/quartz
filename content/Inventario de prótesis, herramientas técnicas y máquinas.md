@@ -16,7 +16,9 @@ Martillo, yunque, estaca, tronco, dado, embutidor, cojín de arena, buril, cince
 
 Esbozar, fundir, tallar, velar, pulsar, tañer, mezclar, articular, zurcir, bordar, hilar, teñir, encastar, doblar, caldear, alear, prensar, palpar, amasar, remachar, afilar, resanar, frotar, modular, vibrar, sincopar, acompañar, rasgar, recabar, enlazar, entorchar, encender, iluminar, ilustrar, definir, resonar, discutir, enunciar, asir, exprimir, pulir, ligar, anudar, ajustar, apretar, ceñir, amarrar, conectar, probar, hundir, oficiar, silbar, servir, tamizar, moler, fruncir, reposar, adherir, cribar, decantar, destilar, oler, registrar, gestar, remallar, patronar, desplegar, conjugar, conspirar, existir, sostener, habitar, resistir.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

@@ -15,7 +15,9 @@ Presenciamos el reino de Plutón, un anfiteatro quirúrgico, la operación perpe
 
 Maturana, H. R., & Varela, F. J. (1994). _De máquinas y seres vivos: autopoiesis, la organización de lo vivo_. Editorial Universitaria S.A. Santiago de Chile.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

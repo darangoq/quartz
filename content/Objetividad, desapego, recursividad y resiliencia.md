@@ -56,7 +56,9 @@ Más allá de victimizarnos dentro de este contexto, debemos impregnarnos de la 
 
 Un [[Trabajo colectivo|equipo de trabajo]] con estas cuatro facultades será prácticamente imparable, y podrá someterse a transitar por terrenos cenagosos, donde a pesar de los recursos limitados y de la incomodidad, pueda ser libre de desarrollar los proyectos más ambiciosos.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

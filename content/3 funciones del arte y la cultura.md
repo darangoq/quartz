@@ -42,7 +42,9 @@ De esta forma, la imagen ha sido usada desde siempre aprovechando su valor pedag
 
 Esta es una invitación a seguir buscando el significado de nuestra labor. La cultura de los pueblos humanos se asienta en un pasado construido por la tradición, florece en las acciones cotidianas de sus agentes y proyecta su legado a través de la técnica y la poética. Teniendo en cuenta [[Prácticas plásticas desde el Sur para resistir al Arte|nuestras responsabilidades]], no volveremos a enmudecer cuando nos ataquen con preguntas que cuestionen nuestro valor de desarrollarnos en un campo vilipendiado pero indispensable para el equilibrio social. Después de asumir conscientemente nuestra responsabilidad, encontraremos el apoyo necesario para continuar ejerciendo nuestra pasión.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

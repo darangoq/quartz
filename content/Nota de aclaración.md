@@ -15,7 +15,9 @@ En menor medida, algunos esquemas y teorías han sido estructurados en la práct
 
 Este documento no dejará de crecer dentro del marco de investigación personal, por lo que es una instantánea de mi indagación a comienzos de 2020.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

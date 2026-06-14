@@ -23,7 +23,9 @@ Venimos a desobedecer, venimos todos. Caminamos sobre el barro sin rumbo, pero d
 
 Nos rebelamos ahora y siempre. Suturemos en tiempo de ocio la brecha entre el universo simbólico y la materia. Somos quirurgos. Nuestro legado es un pleno horizonte.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

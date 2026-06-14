@@ -12,7 +12,9 @@ toot_id: ""
 [[Reacción]]
 [[Aparente libertad]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

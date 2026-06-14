@@ -16,7 +16,9 @@ En cultura, propongo este término como un campo amplio, una dimensión que abar
 [[Redes sociales para artistas]]
 [[Curador Qwerty]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

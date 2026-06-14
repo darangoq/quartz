@@ -13,7 +13,9 @@ Esquema desarrollado en [Proyecto ars 301](http://artes.bogota.unal.edu.co/ars30
 
 La formulación de la crítica dentro del marco de ars 301 está centrada en acciones venideras. Por lo tanto, la crítica sopesa un análisis de los acontecimientos pasados y presentes en aras de proyectar, advertir y construir [[Cuerpo|comunidad]]. La crítica es una forma de [[Agenciamiento cultural|agenciamiento]] que ejercida bajo los lineamientos políticos de ars 301 se aleja del determinismo y de la [[Las buenas prácticas artísticas|validación]] de la crítica de arte tradicional para transformarse en una herramienta de vinculación de procesos culturales.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

@@ -32,7 +32,9 @@ La [[Metáfora|metáfora]] está servida. El artista, necesita reconocerse, reco
 
  *orden, ordenar, primordial, ordinario, urdir, urdimbre, arte, artista, artístico, artesano, artesanía, artesanal, artificio, artificial, artífice, artilugio, artimaña, artículo, articulacion, ortejo, arma, armar, arm, armífero, armígero, armadura, armamento, armada, armadillo, armazón, armario, armero, armatoste, alarma, armisticio, armador, rearmar, desarmar, ornar, ornamento, ornamental, adorno, soborno, araña, Arachne, arácnidos, aritmética, logaritmo, aristocracia, ario, armonía, armonioso, filarmónica, artritis, artritico, artrópodo, artrosis, ordeñar, ordenador, ara, rito, ritual, razón, ración, irritar, raza, ratificar*
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

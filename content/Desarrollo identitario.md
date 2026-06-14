@@ -10,7 +10,9 @@ toot_id: ""
 ---
 [[Análisis comportamental]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

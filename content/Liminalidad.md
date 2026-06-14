@@ -15,7 +15,9 @@ La transformación implica ruptura. La fractura es inevitable en la autoproducci
   
 El carácter liminal de la fractura poiética la convierte en un estado de provocación. La fractura en tensión con las condiciones materiales más a la mano seduce, propone asociaciones entre elementos disímiles, rompe la linealidad, obliga a la acción y a la transformación. Las sensaciones en torno a la fractura poiética no habitan el campo racional, están volcadas a los afectos del cuerpo individual y repercute en el social. Cuando estas pulsiones beben del pensamiento y están atravesadas por la experiencia nacen quirurgos, chamanes, artesanos, comadronas y guías de las estrellas. Si la fractura es la provocación ontológica del cuerpo frente a la materia, su desenlace es el conocimiento inscrito en los cuerpos, el origen de la episteme de la cultura material.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

@@ -22,7 +22,9 @@ toot_id: ""
 [[Las buenas prácticas artísticas]]
 [[Memorias]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

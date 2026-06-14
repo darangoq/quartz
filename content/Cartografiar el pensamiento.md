@@ -8,7 +8,6 @@ origen: mapa-de-intuiciones
 fecha_origen: 2019
 toot_id: '"116741837352884716"'
 ---
-
 [Alterciclo](https://alterciclo.wordpress.com/2019/10/14/cartografiar-el-pensamiento/)
 
 *Pensar, visualizar, construir y comunicar es más fácil con un mapa de lo que nos aguarda en el horizonte.*
@@ -90,5 +89,9 @@ A continuación, una lista de algunos sistemas cartográficos y organizadores gr
 	- Diagrama de Venn
 	- Matriz de datos
 
-<h2>Comentarios</h2>
+<!-- 
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
 <div id="mastodon-comments" data-status-id="116741837352884716"></div>
+-->

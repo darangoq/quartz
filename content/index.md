@@ -17,7 +17,9 @@ Selecciona un nodo en la columna izquierda para navegar. Los enlaces internos en
 
 #floresta— argumento completo, publicable
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

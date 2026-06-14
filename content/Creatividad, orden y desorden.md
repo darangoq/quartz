@@ -50,7 +50,9 @@ Como creadores en nuestro tiempo de ajetreo urbano no nos hace falta si quiera e
 
 Finalmente, no interesa si un espacio es ordenado o desordenado para ser creativo. Las cosas deben estar donde las necesitemos sin importar si son estéticamente coherentes con el canon moderno y ningún gurú del orden como Marie Kondo podrá dictar sentencia sobre nuestros espacios, aunque siempre podremos aprovechar sus consejos para tener un cajón de la ropa interior impecable. El entorno cotidiano debe contemplarse como un campo lúdico, de autoexploración y de reflexión crítica con el sistema que coedificamos. La creatividad puede estallarnos en la cara tan pronto escurramos el plato, cojamos la esponjilla y veamos un vórtice de agua espumosa descendiendo en el sifón.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

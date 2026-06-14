@@ -20,7 +20,9 @@ Aprendí a ubicarme en el ébano con la única referencia de la vibración.
 Tripa, madera y metal;
 Crin, resina y oído.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

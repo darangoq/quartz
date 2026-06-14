@@ -26,7 +26,9 @@ Seduces al mundo.
 Mano de gesto.
 Mano danzante.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

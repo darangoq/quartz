@@ -66,7 +66,9 @@ El uso de las tecnologías de redes es ambivalente. Siendo Internet mi lugar de 
 
 Soy [[Nativo digital|nativo digital]], porque mi pensamiento está indisolublemente ligado a los servidores. Tengo el don del [[Memoria|olvido]] a cambio de un poder de sistematización de la información que me rescata de la dismnesia.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

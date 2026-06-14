@@ -18,7 +18,9 @@ toot_id: ""
 [[Creación y autorreferencialidad]]
 [[Objetividad, desapego, recursividad y resiliencia]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

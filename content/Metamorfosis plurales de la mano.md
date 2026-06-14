@@ -12,7 +12,9 @@ La mano pensante, la mano más allá de la extremidad, la mano social, la mano m
 
 Tus rutas de agua, tierra y aire señalan el surco de la fractura. Habitas las derivas del tejido infinito entre las ramas, los tentáculos y los dedos. Te quiebras y recompones, eres fragmento, eres amasijo y eres manada. Palpitas en trance. Te fundes con prótesis, acaricias el barro y susurras tus cicatrices. Eres mano archivo, eres mano holística, eres mano rizoma, eres mano mundo.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

@@ -16,7 +16,9 @@ Sólo me quedan mis manos, pero mis manos no están más solas.
 
 [[Obsesión de hacer con las manos]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

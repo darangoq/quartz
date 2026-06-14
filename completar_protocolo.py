@@ -1,14 +1,24 @@
 import os, re
 
 # Configuración
-CONTENT_DIR = "content/Quirocinesis"
+CONTENT_DIR = "content"
 
-COMENTARIOS_BLOQUE = """
+COMENTARIOS_BLOQUE_VIEJO = """
 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+"""
+
+COMENTARIOS_BLOQUE_NUEVO = """
+
+<!-- 
+---
+*¿Quieres comentar? Responde desde el fediverso.*
+
+<div id="mastodon-comments" data-status-id=""></div>
+-->
 """
 
 def make_slug(title):
@@ -70,13 +80,13 @@ def process_file(filepath):
         frontmatter = frontmatter.rstrip() + '\ntoot_id: ""\n'
         changes.append("toot_id")
 
-    # 4. Agregar bloque de comentarios si no existe
-    if 'mastodon-comments' not in body:
-        body = body.rstrip() + COMENTARIOS_BLOQUE
-        changes.append("bloque comentarios")
-
-    if not changes:
-        return False, "ya está completo"
+    # 4. Reemplazar bloque viejo por nuevo comentado, o agregar si no existe
+    if COMENTARIOS_BLOQUE_VIEJO.strip() in body:
+        body = body.replace(COMENTARIOS_BLOQUE_VIEJO.strip(), COMENTARIOS_BLOQUE_NUEVO.strip())
+        changes.append("bloque comentarios actualizado")
+    elif 'mastodon-comments' not in body:
+        body = body.rstrip() + COMENTARIOS_BLOQUE_NUEVO
+        changes.append("bloque comentarios agregado")
 
     # Reconstruir archivo
     new_content = f'---{frontmatter}---{body}'

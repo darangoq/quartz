@@ -14,7 +14,9 @@ En ningún momento quiero hacer una apología al delito o a la vulneración de l
 
 Sin embargo, la violencia duele siempre. Más pronto que tarde aparece la necesidad de [[Protección|protegernos]] de ella por lo que actuamos de maneras insospechadas. El miedo nos abrasa.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

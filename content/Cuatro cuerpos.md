@@ -23,7 +23,9 @@ Los siguientes cuerpos trascienden al individuo. El Tercer cuerpo es el social, 
 El cuarto cuerpo lo he llamado ecóico. Comparte raíz con ecológico, relativo al estudio de la casa, y con económico, relativo a la administración de la casa. El cuerpo ecóico es aquel que abarca la totalidad de acciones posibles tanto en tiempo como en espacio. Es un cuerpo global, que supera a la misma humanidad. De todos los cuerpos, es un sistema cuya complejidad es infinitamente más profunda porque abarca todos los demás cuerpos, los contextos y la entropía.
 Estas propuestas someras permiten dilucidar una nube de fenómenos emergentes. Tejen una malla incierta, junto al tiempo y el espacio en el que habitan, que constituye una noción de realidad subjetiva y colectiva en la que fundamos tanto agenciamiento como identidad.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

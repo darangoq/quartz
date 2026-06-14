@@ -14,7 +14,9 @@ toot_id: ""
 [[Mitologías de la atención]]
 [[Creatividad, orden y desorden]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

@@ -16,7 +16,9 @@ Llamado a las herramientas: Las traigo del taller orfebre, del regazo de mi abue
 Llamado al espacio: Mudo el taller, desnudo mis obsesiones y dispongo mis cuerpos en comunión en una escena nueva. Me cargo de reflectores, presento a mi elenco, hago una venia, y marco la entrada.
 Llamado a la memoria: Deposito el relato de mi vida y de mis muchas vidas. Cuatro voces fueron mis interlocutoras y me permitieron suturar la realidad material con el universo simbólico. Aquí acaba el libreto alucinado del quirurgo.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

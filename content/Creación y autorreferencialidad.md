@@ -55,7 +55,9 @@ Cuando se habla de [[Autorrepresentación|mirarse a sí mismo]], es preciso habl
 
 En definitiva, satanizar a un creador autorreferente no va a erradicar la egolatría. Sin embargo, incentivar la mirada autoconsciente sí va a reflejarse en una transformación de los paradigmas personales que finalmente apuntalan la comunidad creativa cultural.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

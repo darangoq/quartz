@@ -16,7 +16,9 @@ Pero no existe una moneda cuyas caras sean fragmento y agencia. La conexión ent
 
 [[Radix, proceso y agente|Tres fases]] que ahora son simultáneas, codependientes y permanentes y de las que bebe mi propia [[Experiencia|experiencia]].
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

@@ -31,7 +31,9 @@ Una instalación complementaria está colgada del techo. Está conformada por un
 
 Radiscente es una cualidad que he impreso en texto y materia. Extiendo mi invitación a perderse en los rizomas que he dispuesto y a continuar su construcción a través de la vinculación de los cuerpos.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

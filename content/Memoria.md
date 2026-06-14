@@ -16,7 +16,9 @@ toot_id: ""
 
 [[La experiencia y la obra]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

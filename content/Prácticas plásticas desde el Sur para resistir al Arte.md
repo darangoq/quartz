@@ -33,7 +33,9 @@ De esta forma, el Arte deja de ser tenido en cuenta como una disciplina aprision
 
 La sensibilidad artística que nos ha sido achacada durante decenios ahora es una herramienta más que tenemos para ponernos nosotros mismos a disposición de la edificación de lazos a nivel social y cultural dentro de nuestra comunidad. Por las [[Paradigmas del arte, la ciencia y la tecnología|circunstancias tecnológicas]] actuales, podemos extender las [[Tres modalidades para construir redes de apoyo en la cultura|redes]] más allá de donde podemos caminar, ya no para resistir, sino para construir.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

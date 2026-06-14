@@ -37,7 +37,9 @@ Los sistemas de notación no están estancados. Durante la investigación plást
 
 La materialización de un sistema complejo, sea música o sea cual sea, contiene una potencia que aflora en los cuerpos a través de la experimentación y que se concreta en el mundo por medio de un acto creativo. Las músicas conjuran [[Cartografiar el pensamiento|rizomas]].
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

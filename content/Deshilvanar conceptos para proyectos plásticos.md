@@ -43,7 +43,9 @@ A medida que cambia nuestro tablero, es conveniente tomar registro fotográfico.
 
 Estas estrategias son maneras en las que pueden deshilvanarse las ideas, desenredar los conceptos para estructurar nuestro texto o discurso. Finalmente este tablero se convertirá en un tejido cuya trama y urdimbre se constituya en la cobija conceptual que nos arrope y que mantenga caliente nuestro [[Creatividad, orden y desorden|desarrollo artístico]].
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

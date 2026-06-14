@@ -45,7 +45,9 @@ Afortunadamente el diálogo comienza a dejar de parecer un murmullo, y ya se esc
 
 Es prácticamente una verdad absoluta que el mundo que nos rodea ha sido el resultado de la comunión entre arte, ciencia y tecnología, por lo que es definitivamente una necedad que los científicos se atiborren en su laboratorio sin ver jamás una pintura, y mayor necedad aun, que los artistas desconozcan las tecnologías que posibilitan su trabajo y que se desarrollan día tras día, dejando abierta la posibilidad de nuevas reflexiones y nuevas perspectivas.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

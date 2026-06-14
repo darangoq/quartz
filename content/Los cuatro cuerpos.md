@@ -20,7 +20,9 @@ El cuarto cuerpo lo he llamado ecóico. Comparte [[Etimología|raíz]] con ecol�
 
 Estas propuestas someras permiten dilucidar una nube de fenómenos emergentes. Tejen una malla incierta, junto al tiempo y el espacio en el que habitan, que constituye una noción de realidad subjetiva y colectiva en la que fundamos tanto agenciamiento como [[Autenticidad|identidad]].
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

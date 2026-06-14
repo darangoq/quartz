@@ -44,7 +44,9 @@ La obra con sus tiempos es la materialización y consolidación de la experienci
 
 Báñate en el río, escala montañas, abre hoyos en el suelo y úntate de barro, colecciona vestigios de vidas prehistóricas y prepara tu argamasa en la inmensidad de los cuerpos que te arropan.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

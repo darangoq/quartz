@@ -25,7 +25,9 @@ toot_id: ""
 [[Tres modalidades para construir redes de apoyo en la cultura]]
 [[Radix, proceso y agente]]
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

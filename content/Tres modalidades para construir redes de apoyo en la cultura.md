@@ -44,7 +44,9 @@ Uno de los aportes más valiosos de esta modalidad es la [[Interdisciplinariedad
 
 Es imposible brillar en cada actividad que realicemos. Establecer comunidades potencia las habilidades de cada individuo. Buscar la manera en la que podamos aportar al campo de la cultura no sólo es una responsabilidad, sino también una oportunidad para consolidar las redes de apoyo necesarias para trabajar, crear y vivir de nuestros sueños convertidos en proyectos.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

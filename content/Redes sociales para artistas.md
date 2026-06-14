@@ -106,7 +106,9 @@ Más allá de alarmarnos por la inevitable invasión, queda en nuestras manos ap
 
 Las preguntas y discusiones que genera el encuentro de arte, cultura y redes sociales dan para [[Curador Qwerty|ríos de tinta]], y en teste contexto, de unos y ceros. Sin embargo, nada nos impide como prosumidores sacar el mejor partido de las apps y plataformas disponibles al final de nuestros dedos.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->

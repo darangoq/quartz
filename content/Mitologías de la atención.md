@@ -51,7 +51,9 @@ Es en la cultura que transcurre la vida misma más que en cualquier otro plano d
 
 Estamos atravesados por una red virtual que ha comenzado a transfigurar nuestra propia [[Identidad|identidad]] después de haber dispuesto de nuestro tiempo a su antojo. Si existe un mito contemporáneo que relacione la culpa por el rendimiento y la manipulación sensual es el de la procrastinación. Es tan difícil escapar de aquel vórtice a menos que reconozcamos que todo ese peso es una imposición cultural y económica que nos ata las manos a la espalda, nubla la visión y enturbia el bienestar. A partir de la toma de consciencia es que comienza la vida.
 
+<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->
