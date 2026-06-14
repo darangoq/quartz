@@ -59,7 +59,7 @@
 		{"id":"bd787494160a5c93","type":"text","text":"Mitos de potencia","x":-480,"y":3360,"width":240,"height":60},
 		{"id":"9f249175f0c16f6a","type":"file","file":"Quirocinesis/Nacimiento.md","x":-480,"y":2520,"width":400,"height":600,"color":"4"},
 		{"id":"529cf058b80efbc4","type":"file","file":"Quirocinesis/Liminalidad.md","x":0,"y":2520,"width":400,"height":600,"color":"4"},
-		{"id":"6977903bd2071e38","type":"file","file":"Radiscente/Quirurgə.md","x":480,"y":2520,"width":400,"height":400,"color":"4"},
+		{"id":"6977903bd2071e38","type":"file","file":"Quirocinesis/Quirurgə.md","x":480,"y":2520,"width":400,"height":400,"color":"4"},
 		{"id":"81e271b374aae027","type":"file","file":"Quirocinesis/Fractura poiética 1.md","x":-480,"y":3440,"width":1560,"height":420,"color":"1"},
 		{"id":"ead64904a157a22d","type":"text","text":"Abstract","x":-1460,"y":2660,"width":260,"height":60,"color":"3"},
 		{"id":"49acc55010eb8d2c","type":"file","file":"Quirocinesis/Abstract Quirocinesis.md","x":-1460,"y":2740,"width":260,"height":260},
