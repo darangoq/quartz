@@ -19,6 +19,9 @@ Mi propuesta integra técnicas, expresiones, referentes y materiales de los tres
 Este manifiesto repotencia la agencia en medio de la fractura poiética. Persigo la Quirocinesis, el movimiento de la mano.
 
 ---
+<!-- 
+---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id=""></div>
+-->
