@@ -89,9 +89,8 @@ A continuación, una lista de algunos sistemas cartográficos y organizadores gr
 	- Diagrama de Venn
 	- Matriz de datos
 
-<!-- 
+
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
 <div id="mastodon-comments" data-status-id="116741837352884716"></div>
--->
