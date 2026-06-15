@@ -16,8 +16,8 @@ medio piano, medio araña,
 Una máquina de tejido con tarjetas perforadas.  
 De verla legando a cuerpo programas, nudos y patrones.  
 
-De las fibras tensadas entre telares agujas y nudillos de aquella casa de infancia  
-recuerdo también la guitarra, el tiple y la bandola de mi abuelo.  
+De las fibras tensadas entre telares, agujas y nudillos de aquella casa de infancia  
+recuerdo también [[Música|la guitarra, el tiple y la bandola de mi abuelo]]. 
 
 <!-- 
 ---
