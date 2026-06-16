@@ -1,25 +1,231 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>radiscente — grafo</title>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      background: #050505;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      font-family: 'IBM Plex Sans', sans-serif;
-      color: #4db896;
-      font-size: 13px;
-      letter-spacing: 0.1em;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>radiscente — grafo</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #050505;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'IBM Plex Sans', sans-serif;
+  }
+  .label {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #4db896;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+  .link-out {
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #2a6650;
+    text-decoration: none;
+    font-family: 'IBM Plex Sans', sans-serif;
+    transition: color 0.2s;
+  }
+  .link-out:hover { color: #4db896; }
+  canvas { display: block; }
+</style>
 </head>
 <body>
-  <p>RADISCENTE — jardín digital</p>
+
+<div class="label">radiscente</div>
+<a class="link-out" href="https://darangoq.github.io/quartz" target="_blank">
+  abrir jardín →
+</a>
+
+<canvas id="grafo"></canvas>
+
+<script>
+const W = window.innerWidth;
+const H = window.innerHeight;
+const canvas = document.getElementById('grafo');
+canvas.width = W;
+canvas.height = H;
+const ctx = canvas.getContext('2d');
+
+// Colores por estado
+const COLORS = {
+  floresta: '#4db896',
+  rizoma:   '#9b8fd4',
+  micelio:  '#c8a055',
+  espora:   '#3a5248'
+};
+
+// Nodos de radiscente — generados desde el jardín
+const nodes = [
+  {id: 0, label: 'Mitologías de la atención', estado: 'floresta'},
+  {id: 1, label: 'Cartografiar el pensamiento', estado: 'floresta'},
+  {id: 2, label: 'Radix, proceso y agente', estado: 'floresta'},
+  {id: 3, label: 'Los cuatro cuerpos', estado: 'floresta'},
+  {id: 4, label: 'Agenciamiento cultural', estado: 'rizoma'},
+  {id: 5, label: 'Autoexplotación', estado: 'rizoma'},
+  {id: 6, label: 'Identidad', estado: 'micelio'},
+  {id: 7, label: 'Cuerpo', estado: 'micelio'},
+  {id: 8, label: 'Memoria', estado: 'micelio'},
+  {id: 9, label: 'Internet', estado: 'micelio'},
+  {id: 10, label: 'Atención', estado: 'espora'},
+  {id: 11, label: 'Data', estado: 'espora'},
+  {id: 12, label: 'Potencia', estado: 'espora'},
+  {id: 13, label: 'Artistas articuladores', estado: 'floresta'},
+  {id: 14, label: 'Redes sociales', estado: 'micelio'},
+  {id: 15, label: 'Creatividad', estado: 'rizoma'},
+];
+
+const edges = [
+  [0,10],[0,9],[0,5],[0,1],
+  [1,8],[1,7],[1,4],
+  [2,3],[2,4],[2,6],
+  [3,7],[3,12],
+  [4,13],[4,6],
+  [5,9],[5,14],
+  [6,8],[7,12],
+  [13,4],[13,1],
+  [15,1],[15,7],
+];
+
+// Posiciones iniciales aleatorias
+nodes.forEach(n => {
+  n.x = W/2 + (Math.random()-0.5)*W*0.6;
+  n.y = H/2 + (Math.random()-0.5)*H*0.6;
+  n.vx = 0; n.vy = 0;
+  n.r = n.estado === 'floresta' ? 7 : n.estado === 'rizoma' ? 5 : n.estado === 'micelio' ? 4 : 3;
+});
+
+// Simulación de fuerzas simple
+function simulate() {
+  const k = 0.01;
+  const repulsion = 1800;
+  const damping = 0.85;
+
+  // Repulsión entre nodos
+  for (let i = 0; i < nodes.length; i++) {
+    for (let j = i+1; j < nodes.length; j++) {
+      const dx = nodes[j].x - nodes[i].x;
+      const dy = nodes[j].y - nodes[i].y;
+      const dist = Math.sqrt(dx*dx + dy*dy) || 1;
+      const force = repulsion / (dist*dist);
+      nodes[i].vx -= force * dx/dist;
+      nodes[i].vy -= force * dy/dist;
+      nodes[j].vx += force * dx/dist;
+      nodes[j].vy += force * dy/dist;
+    }
+  }
+
+  // Atracción por enlaces
+  edges.forEach(([a, b]) => {
+    const dx = nodes[b].x - nodes[a].x;
+    const dy = nodes[b].y - nodes[a].y;
+    const dist = Math.sqrt(dx*dx + dy*dy) || 1;
+    const force = (dist - 120) * k;
+    nodes[a].vx += force * dx/dist;
+    nodes[a].vy += force * dy/dist;
+    nodes[b].vx -= force * dx/dist;
+    nodes[b].vy -= force * dy/dist;
+  });
+
+  // Centro de gravedad suave
+  nodes.forEach(n => {
+    n.vx += (W/2 - n.x) * 0.001;
+    n.vy += (H/2 - n.y) * 0.001;
+    n.vx *= damping;
+    n.vy *= damping;
+    n.x += n.vx;
+    n.y += n.vy;
+    // Mantener dentro del canvas
+    n.x = Math.max(20, Math.min(W-20, n.x));
+    n.y = Math.max(20, Math.min(H-20, n.y));
+  });
+}
+
+// Nodo hover
+let hovered = null;
+canvas.addEventListener('mousemove', e => {
+  const rect = canvas.getBoundingClientRect();
+  const mx = e.clientX - rect.left;
+  const my = e.clientY - rect.top;
+  hovered = null;
+  nodes.forEach(n => {
+    const dx = mx - n.x;
+    const dy = my - n.y;
+    if (Math.sqrt(dx*dx+dy*dy) < n.r + 8) hovered = n;
+  });
+  canvas.style.cursor = hovered ? 'pointer' : 'default';
+});
+
+canvas.addEventListener('click', e => {
+  if (hovered) {
+    const slug = hovered.label
+      .toLowerCase()
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .replace(/\s+/g, '-')
+      .replace(/[^a-z0-9-]/g, '');
+    window.open(`https://darangoq.github.io/quartz/${slug}`, '_blank');
+  }
+});
+
+function draw() {
+  ctx.clearRect(0, 0, W, H);
+
+  // Enlaces
+  edges.forEach(([a, b]) => {
+    ctx.beginPath();
+    ctx.moveTo(nodes[a].x, nodes[a].y);
+    ctx.lineTo(nodes[b].x, nodes[b].y);
+    ctx.strokeStyle = '#1a2e26';
+    ctx.lineWidth = 0.8;
+    ctx.stroke();
+  });
+
+  // Nodos
+  nodes.forEach(n => {
+    const isHovered = hovered && hovered.id === n.id;
+    const color = COLORS[n.estado];
+    const r = isHovered ? n.r + 4 : n.r;
+
+    // Glow en hover
+    if (isHovered) {
+      ctx.beginPath();
+      ctx.arc(n.x, n.y, r + 6, 0, Math.PI*2);
+      ctx.fillStyle = color + '22';
+      ctx.fill();
+    }
+
+    ctx.beginPath();
+    ctx.arc(n.x, n.y, r, 0, Math.PI*2);
+    ctx.fillStyle = isHovered ? color : color + 'aa';
+    ctx.fill();
+
+    // Etiqueta en hover
+    if (isHovered) {
+      ctx.font = '11px IBM Plex Sans, sans-serif';
+      ctx.fillStyle = '#d9d9d9';
+      ctx.textAlign = 'center';
+      ctx.fillText(n.label, n.x, n.y - r - 8);
+    }
+  });
+}
+
+function loop() {
+  simulate();
+  draw();
+  requestAnimationFrame(loop);
+}
+
+loop();
+</script>
 </body>
 </html>
