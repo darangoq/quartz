@@ -41,7 +41,7 @@
       font-size: 9px;
       letter-spacing: 0.18em;
       text-transform: uppercase;
-      color: #1a1a1a;
+      color: #3a4444;
       cursor: pointer;
       pointer-events: all;
       transition: color 0.3s;
@@ -53,32 +53,75 @@
     .raiz-btn:hover { color: #555; }
     .instruccion {
       position: absolute;
-      top: 20px;
-      right: 20px;
-      font-size: 9px;
+      top: 16px;
+      right: 16px;
+      font-size: 10px;
       letter-spacing: 0.1em;
       text-transform: uppercase;
-      color: #1e3631;
+      color: #4db896;
       line-height: 1.8;
       text-align: right;
     }
     .titulo {
       position: absolute;
-      top: 20px;
-      left: 20px;
-      font-size: 13px;
+      top: 16px;
+      left: 16px;
+      font-size: 10px;
       letter-spacing: 0.14em;
       text-transform: uppercase;
-      color: #153f37;
+      color: #4db896;
     }
+    .label {
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #4db896;
+    font-family: 'Space Grotesk', sans-serif;
+    pointer-events: none;
+  }
+  .link-out {
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #2a6650;
+    text-decoration: none;
+    font-family: 'IBM Plex Sans', sans-serif;
+    transition: color 0.2s;
+    pointer-events: all;   /* ← agregar esta línea */
+  }
+  .link-out:hover { color: #4db896; }
+  .tooltip {
+    position: absolute;
+    background: #0d1410;
+    border: 0.5px solid #1a2e26;
+    color: #d9d9d9;
+    font-size: 11px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding: 4px 10px;
+    border-radius: 2px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+    white-space: nowrap;
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
   </style>
 </head>
 <body>
+  
   <canvas id="c"></canvas>
   <div class="ui">
     <div class="titulo">cognados|Daniel Arango Quintero</div>
     <div class="instruccion">
-      clic — acelerar<br>
+      clic — ralentizar<br>
       1·2·3·4 — cambiar raíz
     </div>
     <div class="raiz-indicator">
@@ -87,6 +130,8 @@
       <button class="raiz-btn" data-i="2" style="--c:#9b8fd4">arkhe·</button>
       <button class="raiz-btn" data-i="3" style="--c:#d47b7b">teks·</button>
     </div>
+    <a href="https://darangoq.github.io/quartz" target="_blank" class="link-out">abrir jardín</a>
+
   </div>
 
   <script>
@@ -293,4 +338,5 @@
     requestAnimationFrame(loop);
   </script>
 </body>
+
 </html>
