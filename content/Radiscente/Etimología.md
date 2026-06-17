@@ -14,6 +14,9 @@ toot_id: ""
 [[Teks]]  
 [[Agenciamiento cultural|Ag]]  
 
+[[https://darangoq.github.io/quartz/static/cognados.html|Cognados en Radiscente]]
+
+
 <!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
