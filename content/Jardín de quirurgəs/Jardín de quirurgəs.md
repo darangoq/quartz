@@ -21,4 +21,3 @@ Un espacio de colaboración para compartir referentes, materiales y potencias en
 *Aquí es la bandeja de entrada de todos los aportes desde el Fediverso. Para aportar al semillero basta con responder a este mensaje y usar la etiqueta [#JardinDeQuirurgəs](https://social.anartist.org/tags/JardinDeQuirurg%C9%99s) . Muy recomendable incluir una descripción o comentario al material compartido.*
 
 <div id="mastodon-comments" data-status-id="116847149245628222"></div>
--->
