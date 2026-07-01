@@ -5,7 +5,7 @@ tags:
   - rizoma
 publish: true
 origen: quirocinesis
-toot_id: ""
+toot_id: "116843022350098512"
 ---
 *Mano faber, transforma el mundo. Mano raíz. La raíz que crece en la grieta, que transforma su entorno en sustento para la vida, la mano que abraza el territorio.*  
 
@@ -20,9 +20,8 @@ Transformas el mundo.
 Mano de cosmos.  
 Mano faber.  
 
-<!-- 
 ---
 *¿Quieres comentar? Responde desde el fediverso.*
 
-<div id="mastodon-comments" data-status-id=""></div>
--->
+<div id="mastodon-comments" data-status-id="116843022350098512"></div>
+
