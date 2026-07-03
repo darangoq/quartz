@@ -1,5 +1,5 @@
 ---
-title: metamorfosis singulares de la mano
+title: Metamorfosis singulares de la mano
 slug: metamorfosis-singulares-de-la-mano
 estado: floresta
 tags:
