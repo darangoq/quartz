@@ -101,13 +101,15 @@ const COLORS = {
   rizoma:   '#9b8fd4',
   micelio:  '#c8a055',
   espora:   '#3a5248'
+  simbionte: '#353535'
 };
 
 const SIZES = {
   floresta: 7,
   rizoma:   5,
   micelio:  4,
-  espora:   3
+  espora:   3,
+  simbionte: 2
 };
 
 const W = window.innerWidth;
@@ -183,7 +185,7 @@ function draw() {
     ctx.moveTo(NODES[a].x, NODES[a].y);
     ctx.lineTo(NODES[b].x, NODES[b].y);
     ctx.strokeStyle = isHighlighted ? '#2a6650' : '#0f1d18';
-    ctx.lineWidth = isHighlighted ? 1.2 : 1.2;
+    ctx.lineWidth = isHighlighted ? 1.2 : 1.;
     ctx.stroke();
   });
 
