@@ -1,5 +1,5 @@
 ---
-title: Sinpoiesis
+title: Simpoiesis
 estado: rizoma
 tags:
   - rizoma
