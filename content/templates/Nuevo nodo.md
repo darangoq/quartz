@@ -1,11 +1,11 @@
 ---
 title: "{{title}}"
-slug: 
+slug:
 estado: espora
 tags:
   - espora
 publish: false
-origen: 
+origen:
 toot_id: ""
 ---
 
